@@ -1,0 +1,202 @@
+<!DOCTYPE html>
+<html lang="ru">
+
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>404 — Страница не найдена | Альмари Гурзуф</title>
+    <meta name="description" content="К сожалению, запрашиваемая страница не найдена. Вернитесь на главную, чтобы забронировать премиальные апартаменты в Гурзуфе.">
+    
+    <!-- Fonts -->
+    <!-- Preload Icons Font for faster FCP/LCP -->
+    <link rel="preload" href="/assets/fonts/fa-solid-900.woff2" as="font" type="font/woff2" crossorigin>
+    <link rel="preload" href="/assets/fonts/fa-regular-400.woff2" as="font" type="font/woff2" crossorigin>
+    
+    <!-- Preload Main Fonts -->
+    <link rel="preload" href="/assets/fonts/inter-cyrillic.woff2" as="font" type="font/woff2" crossorigin>
+    <link rel="preload" href="/assets/fonts/montserrat-cyrillic.woff2" as="font" type="font/woff2" crossorigin>
+
+    <!-- Локальные шрифты и иконки -->
+    <link rel="stylesheet" href="/src/assets/css/local-fonts.css">
+    <link rel="stylesheet" href="/src/assets/css/fontawesome-subset.css" media="print" onload="this.media='all'">
+    
+    <!-- Critical CSS to prevent FOUC -->
+    
+    <style>
+        :root {
+            --primary-blue: #0093E9;
+            --secondary-blue: #80D0C7;
+            --accent-gold: #B8941E;
+            --text-dark: #2c3e50;
+            --font-main: 'Inter', sans-serif;
+            --font-heading: 'Montserrat', sans-serif;
+        }
+        * { margin: 0; padding: 0; box-sizing: border-box; }
+        body { font-family: var(--font-main); color: var(--text-dark); background-color: #f9fbfd; line-height: 1.6; overflow-x: hidden; min-height: 100vh; }
+        
+        /* Header Critical */
+        header { position: fixed; top: 0; left: 0; width: 100%; padding: 20px 0; z-index: 1000; background: transparent; transition: 0.3s; height: 80px; }
+        .nav-wrapper { max-width: 1200px; margin: 0 auto; padding: 0 20px; display: flex; justify-content: space-between; align-items: center; min-height: 40px; }
+        .logo { display: block; width: 180px; height: 50px; }
+        
+        /* Hero Critical - This is where the 0.990 CLS comes from */
+        .hero { 
+            height: 100vh; 
+            height: 100svh; 
+            width: 100%; 
+            position: relative; 
+            display: flex; 
+            align-items: flex-end; 
+            justify-content: center; 
+            background-color: #1a2a3a; 
+            color: white; 
+            padding-bottom: 100px; 
+            overflow: hidden;
+        }
+        .hero-bg-img { 
+            position: absolute; 
+            top: 0; 
+            left: 0; 
+            width: 100%; 
+            height: 100%; 
+            object-fit: cover; 
+            z-index: 1;
+        }
+        .hero-overlay { 
+            position: absolute; 
+            top: 0; 
+            left: 0; 
+            width: 100%; 
+            height: 100%; 
+            background: rgba(0,0,0,0.4); 
+            z-index: 2; 
+        }
+        .hero-content { 
+            position: relative;
+            z-index: 3;
+            max-width: 900px; 
+            text-align: center; 
+            padding: 0 20px;
+            margin-bottom: 50px;
+        }
+        h1 { 
+            font-family: var(--font-heading); 
+            font-size: clamp(2rem, 8vw, 4rem); 
+            margin-bottom: 20px; 
+            text-shadow: 2px 2px 15px rgba(0,0,0,0.6); 
+            line-height: 1.1;
+        }
+        .btn { display: inline-block; padding: 12px 30px; border-radius: 50px; font-weight: 600; text-transform: uppercase; font-size: 14px; text-decoration: none; }
+        .btn-primary { background: linear-gradient(135deg, var(--primary-blue), var(--secondary-blue)); color: white; }
+        .btn-accent { background: var(--accent-gold); color: white; }
+        
+        /* Pre-reserve space for search panel to prevent main shift */
+        .home-search-section { min-height: 100px; }
+    </style>
+    <link rel="icon" type="image/svg+xml" href="/assets/favicon.svg">
+    
+    <style>
+        body, html {
+            margin: 0;
+            padding: 0;
+            height: 100%;
+            font-family: 'Montserrat', sans-serif;
+        }
+
+        .error-page {
+            height: 100vh;
+            display: flex;
+            align-items: center;
+            justify-content: center;
+            text-align: center;
+            background: linear-gradient(rgba(0, 0, 0, 0.4), rgba(0, 0, 0, 0.4)), 
+                        url('https://almari-gurzuf.ru/assets/complex/clean_main.jpg') center/cover no-repeat;
+            color: white;
+            padding: 20px;
+        }
+
+        .error-content {
+            max-width: 600px;
+            background: rgba(255, 255, 255, 0.1);
+            backdrop-filter: blur(15px);
+            padding: 60px 40px;
+            border-radius: 30px;
+            border: 1px solid rgba(255, 255, 255, 0.2);
+            box-shadow: 0 25px 50px rgba(0,0,0,0.3);
+        }
+
+        .error-code {
+            font-family: 'Playfair Display', serif;
+            font-size: 120px;
+            font-weight: 700;
+            margin: 0;
+            line-height: 1;
+            background: linear-gradient(to right, #B8941E, #F9E79F);
+            -webkit-background-clip: text;
+            -webkit-text-fill-color: transparent;
+        }
+
+        h1 {
+            font-family: 'Playfair Display', serif;
+            font-size: 32px;
+            margin: 20px 0;
+        }
+
+        p {
+            font-size: 18px;
+            margin-bottom: 40px;
+            opacity: 0.9;
+            line-height: 1.6;
+        }
+
+        .btn-home {
+            display: inline-flex;
+            align-items: center;
+            gap: 10px;
+            background: #B8941E;
+            color: white;
+            text-decoration: none;
+            padding: 15px 40px;
+            border-radius: 50px;
+            font-weight: 600;
+            transition: all 0.3s ease;
+            text-transform: uppercase;
+            letter-spacing: 1px;
+            font-size: 14px;
+        }
+
+        .btn-home:hover {
+            background: #b8972f;
+            transform: translateY(-3px);
+            box-shadow: 0 10px 20px rgba(212, 175, 55, 0.4);
+        }
+
+        @media (max-width: 480px) {
+            .error-code { font-size: 80px; }
+            h1 { font-size: 24px; }
+            p { font-size: 16px; }
+            .error-content { padding: 40px 20px; }
+        }
+    </style>
+
+    
+    <!-- /Yandex.Metrika counter -->
+</head>
+
+<body>
+    <!-- Yandex.Metrika noscript -->
+    <noscript><div><img src="https://mc.yandex.ru/watch/109002654" style="position:absolute; left:-9999px;" alt="" /></div></noscript>
+    <!-- /Yandex.Metrika noscript -->
+    <div class="error-page">
+        <div class="error-content">
+            <div class="error-code">404</div>
+            <h1>Упс! Волна унесла эту страницу</h1>
+            <p>Похоже, адрес введен неверно или страница была перемещена. Но не волнуйтесь, наши апартаменты всё так же ждут вас на берегу моря.</p>
+            <a href="/" class="btn-home">
+                <i class="fas fa-home"></i> Вернуться на главную
+            </a>
+        </div>
+    </div>
+</body>
+
+</html>

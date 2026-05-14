@@ -1,0 +1,246 @@
+<!DOCTYPE html>
+<html lang="ru">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Правила проживания | Альмари Гурзуф</title>
+    
+    <!-- Предзагрузка для скорости -->
+    <!-- Preload Icons Font for faster FCP/LCP -->
+    <link rel="preload" href="/assets/fonts/fa-solid-900.woff2" as="font" type="font/woff2" crossorigin>
+    <link rel="preload" href="/assets/fonts/fa-regular-400.woff2" as="font" type="font/woff2" crossorigin>
+    
+    <!-- Preload Main Fonts -->
+    <link rel="preload" href="/assets/fonts/inter-cyrillic.woff2" as="font" type="font/woff2" crossorigin>
+    <link rel="preload" href="/assets/fonts/montserrat-cyrillic.woff2" as="font" type="font/woff2" crossorigin>
+
+    <!-- Локальные шрифты и иконки -->
+    <link rel="stylesheet" href="/src/assets/css/local-fonts.css">
+    <link rel="stylesheet" href="/src/assets/css/fontawesome-subset.css" media="print" onload="this.media='all'">
+    
+    <!-- Critical CSS to prevent FOUC -->
+    
+    <style>
+        :root {
+            --primary-blue: #0093E9;
+            --secondary-blue: #80D0C7;
+            --accent-gold: #B8941E;
+            --text-dark: #2c3e50;
+            --font-main: 'Inter', sans-serif;
+            --font-heading: 'Montserrat', sans-serif;
+        }
+        * { margin: 0; padding: 0; box-sizing: border-box; }
+        body { font-family: var(--font-main); color: var(--text-dark); background-color: #f9fbfd; line-height: 1.6; overflow-x: hidden; min-height: 100vh; }
+        
+        /* Header Critical */
+        header { position: fixed; top: 0; left: 0; width: 100%; padding: 10px 0; z-index: 2000; background: transparent; transition: 0.3s; height: 80px; }
+        .nav-wrapper { max-width: 1200px; margin: 0 auto; padding: 0 20px; display: flex; justify-content: space-between; align-items: center; min-height: 40px; }
+        .logo { display: block; width: 180px; height: 50px; }
+        
+        /* Hero Critical - This is where the 0.990 CLS comes from */
+        .hero { 
+            height: 100vh; 
+            height: 100svh; 
+            width: 100%; 
+            position: relative; 
+            display: flex; 
+            align-items: flex-end; 
+            justify-content: center; 
+            background-color: #1a2a3a; 
+            color: white; 
+            padding-bottom: 100px; 
+            overflow: hidden;
+        }
+        .hero-bg-img { 
+            position: absolute; 
+            top: 0; 
+            left: 0; 
+            width: 100%; 
+            height: 100%; 
+            object-fit: cover; 
+            z-index: 1;
+        }
+        .hero-overlay { 
+            position: absolute; 
+            top: 0; 
+            left: 0; 
+            width: 100%; 
+            height: 100%; 
+            background: rgba(0,0,0,0.4); 
+            z-index: 2; 
+        }
+        .hero-content { 
+            position: relative;
+            z-index: 3;
+            max-width: 900px; 
+            text-align: center; 
+            padding: 0 20px;
+            margin-bottom: 50px;
+        }
+        h1 { 
+            font-family: var(--font-heading); 
+            font-size: clamp(2rem, 8vw, 4rem); 
+            margin-bottom: 20px; 
+            text-shadow: 2px 2px 15px rgba(0,0,0,0.6); 
+            line-height: 1.1;
+        }
+        .btn { display: inline-block; padding: 12px 30px; border-radius: 50px; font-weight: 600; text-transform: uppercase; font-size: 14px; text-decoration: none; }
+        .btn-primary { background: linear-gradient(135deg, var(--primary-blue), var(--secondary-blue)); color: white; }
+        .btn-accent { background: var(--accent-gold); color: white; }
+        
+        /* Pre-reserve space for search panel to prevent main shift */
+        .home-search-section { min-height: 100px; }
+    </style>
+    
+    <link rel="icon" type="image/svg+xml" href="/assets/favicon.svg">
+    <link rel="canonical" href="https://almari-gurzuf.ru/rules.html" />
+    <meta name="description" content="Правила проживания в апартаментах Альмари Гурзуф. Информация о заезде, выезде, тишине и проживании с питомцами в ЖК Наутилус.">
+    
+    <style>
+        body { background: #f8fbff; }
+        .rules-page-content { padding: 120px 0 80px; }
+        .rules-header { text-align: center; margin-bottom: 60px; }
+        .rules-header h1 { font-family: 'Montserrat', sans-serif; font-weight: 800; font-size: 42px; color: #1a2a3a; margin-bottom: 20px; }
+        .rules-header p { color: #718096; font-size: 18px; max-width: 600px; margin: 0 auto; }
+        
+        @media (max-width: 768px) {
+            .rules-header h1 { font-size: 32px; }
+            .rules-page-content { padding-top: 100px; }
+        }
+        
+        /* Скрываем логотип именно на этой странице */
+        .logo { display: none !important; }
+
+        /* Делаем меню и кнопку черными */
+        #header .nav-links li a { color: #1a2a3a !important; }
+        #header .nav-booking-btn { background: #1a2a3a !important; border-color: #1a2a3a !important; color: #fff !important; }
+        #header .mobile-menu-label, #header .mobile-menu-toggle i { color: #1a2a3a !important; }
+    </style>
+
+    
+    <!-- /Yandex.Metrika counter -->
+</head>
+<body>
+    <!-- Yandex.Metrika noscript -->
+    <noscript><div><img src="https://mc.yandex.ru/watch/109002654" style="position:absolute; left:-9999px;" alt="" /></div></noscript>
+    <!-- /Yandex.Metrika noscript -->
+
+    {{> header/header}}
+
+    <main class="rules-page-content">
+        <div class="container">
+            <div class="rules-header">
+                <h1>Правила проживания</h1>
+                <p>Пожалуйста, ознакомьтесь с правилами нашего комплекса для комфортного и безопасного отдыха.</p>
+                <p style="margin-top: 10px; font-weight: 600; color: #1a2a3a;">Заезд: с 15:00 | Выезд: до 11:00</p>
+            </div>
+
+            <!-- Подробный аккордеон правил (Тот же, что мы создали) -->
+            <div class="rules-accordion" style="margin-top: 0;">
+                <!-- 1. Оплата и регистрация -->
+                <details class="rule-item" open>
+                    <summary class="rule-summary">
+                        <span><i class="fas fa-credit-card"></i> 1. Регистрация и оплата</span>
+                    </summary>
+                    <div class="rule-content">
+                        <p>Для регистрации обязательно предъявление <strong>паспорта</strong> (для иностранных граждан — миграционной карты).</p>
+                        <ul>
+                            <li><strong>Предоплата:</strong> 100% за первые сутки при бронировании.</li>
+                            <li><strong>Расчет:</strong> Остаток оплачивается при заселении (наличные или карта).</li>
+                        </ul>
+                        <div class="alert-text">
+                            <strong>Условия отмены:</strong> В случае досрочного выезда по инициативе гостя при уведомлении менее чем за 24 часа, удерживается неустойка в размере стоимости одних суток проживания.
+                        </div>
+                    </div>
+                </details>
+
+                <!-- 2. Тишина и комфорт -->
+                <details class="rule-item">
+                    <summary class="rule-summary">
+                        <span><i class="fas fa-volume-mute"></i> 2. Режим тишины и комфорта</span>
+                    </summary>
+                    <div class="rule-content">
+                        <p>Наш комплекс — территория для спокойного отдыха. Мы не предоставляем услуги увеселительного характера.</p>
+                        <ul>
+                            <li><strong>22:00 – 09:00 (Полная тишина):</strong> Запрещены громкие разговоры, музыка и шумные компании (согласно Закону РК № 372-ЗРК/2017).</li>
+                            <li><strong>09:00 – 22:00:</strong> Музыка допустима только на минимальной громкости (до 55 дБ), не мешая окружающим.</li>
+                            <li><strong>Запрещены:</strong> Портативные колонки, ненормативная лексика, крики и шумные игры в общих зонах.</li>
+                        </ul>
+                        <div class="alert-text">
+                            <strong>Внимание:</strong> Администрация вправе в одностороннем порядке прекратить проживание при систематическом нарушении правил тишины.
+                        </div>
+                    </div>
+                </details>
+
+
+                <!-- 4. Дети -->
+                <details class="rule-item">
+                    <summary class="rule-summary">
+                        <span><i class="fas fa-child"></i> 3. Дети и безопасность</span>
+                    </summary>
+                    <div class="rule-content">
+                        <ul>
+                            <li><strong>Присмотр 24/7:</strong> Дети до 18 лет должны находиться под постоянным контролем родителей на всей территории.</li>
+                            <li><strong>Детская площадка:</strong> Работает до 22:00. После этого времени просим прекратить активные игры.</li>
+                            <li><strong>Ответственность:</strong> Родители несут полную ответственность за безопасность и поведение детей (ГК РФ ст. 1073).</li>
+                        </ul>
+                    </div>
+                </details>
+
+                <!-- 5. Питомцы -->
+                <details class="rule-item">
+                    <summary class="rule-summary">
+                        <span><i class="fas fa-paw"></i> 4. Проживание с питомцами</span>
+                    </summary>
+                    <div class="rule-content">
+                        <p>Мы рады гостям с небольшими питомцами (до 12 кг) при условии соблюдения правил:</p>
+                        <ul>
+                            <li><strong>Согласование:</strong> Обязательно при бронировании. Бойцовские породы запрещены.</li>
+                            <li><strong>На территории:</strong> Строго на поводке. Выгул — за пределами комплекса.</li>
+                            <li><strong>Законы:</strong> Нахождение и купание животных на пляжах запрещено (Приказ МЧС РФ №732).</li>
+                        </ul>
+                    </div>
+                </details>
+
+                <!-- 6. Проживание в апартаментах -->
+                <details class="rule-item">
+                    <summary class="rule-summary">
+                        <span><i class="fas fa-home"></i> 5. Правила в апартаментах</span>
+                    </summary>
+                    <div class="rule-content">
+                        <ul>
+                            <li><strong>Курение запрещено:</strong> Штраф 15 000 ₽ + оплата клининга.</li>
+                            <li><strong>Сохранность вещей:</strong> За порчу или утерю имущества предусмотрена полная компенсация стоимости.</li>
+                            <li><strong>Бережливость:</strong> Просим выключать свет и кондиционер при выходе из номера.</li>
+                            <li><strong>Сантехника:</strong> Просим не бросать в унитаз средства гигиены и салфетки.</li>
+                    </div>
+                </details>
+            </div>
+
+            <div class="rules-footer">
+                <p>Внесение предоплаты означает автоматическое согласие со всеми пунктами правил проживания в Almari Gurzuf.</p>
+                <div class="emergency-grid">
+                    <div class="emergency-item">
+                        <span>Администрация</span>
+                        <strong>+7 (978) 706-03-23</strong>
+                        <strong>+7 (978) 585-85-72</strong>
+                    </div>
+                    <div class="emergency-item">
+                        <span>МЧС / Пожарная</span>
+                        <strong>112</strong>
+                    </div>
+                    <div class="emergency-item">
+                        <span>Полиция</span>
+                        <strong>102</strong>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </main>
+
+    {{> footer/footer}}
+
+    <!-- Скрипт инициализации -->
+    <script type="module" src="./src/main.js"></script>
+</body>
+</html>

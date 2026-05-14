@@ -1,0 +1,897 @@
+/* --- Booking & Search Section Styles --- */
+
+/* 1. Main Booking Page (Widget Container) */
+.booking-section {
+    padding: var(--section-padding);
+    background-color: #f8fafc;
+    background-image: radial-gradient(#0093e905 1px, transparent 1px);
+    background-size: 20px 20px;
+    min-height: 80vh;
+}
+
+.bnovo-wrapper {
+    background: #fff;
+    padding: 20px;
+    border-radius: 24px;
+    box-shadow: 0 20px 60px rgba(0, 0, 0, 0.05);
+    margin-top: 20px;
+    border: 1px solid rgba(0, 147, 233, 0.05);
+}
+
+/* 2. Home Search Section (Luxury Bar) */
+.home-search-section {
+    position: relative;
+    z-index: 10; /* Lower than header (1000+) */
+    padding: 0;
+    margin-top: -60px;
+    overflow: visible !important; 
+}
+
+.luxury-search-card {
+    background: #ffffff;
+    border-radius: 20px;
+    box-shadow: 0 15px 40px rgba(0, 0, 0, 0.08);
+    padding: 8px;
+    max-width: 1000px;
+    margin: 0 auto;
+    border: 1px solid rgba(255, 255, 255, 0.5);
+    animation: fadeIn 0.8s ease-out forwards;
+}
+
+.luxury-search-form {
+    width: 100%;
+}
+
+.luxury-search-grid {
+    display: flex;
+    align-items: stretch;
+    gap: 0;
+}
+
+.search-group {
+    flex: 1;
+    display: flex;
+    align-items: center;
+    padding: 12px 20px;
+    cursor: pointer;
+    transition: all 0.3s cubic-bezier(0.4, 0, 0.2, 1);
+    border-radius: 14px;
+    position: relative;
+    border: 1px solid transparent;
+}
+
+.search-group:hover {
+    background: rgba(0, 147, 233, 0.04);
+}
+
+.search-group.active {
+    background: rgba(0, 147, 233, 0.08);
+    border-color: rgba(0, 147, 233, 0.1);
+    box-shadow: inset 0 0 10px rgba(0, 147, 233, 0.05);
+}
+
+.search-group.active i {
+    color: var(--primary-blue);
+    opacity: 1;
+    transform: scale(1.1);
+}
+
+.search-group i {
+    font-size: 18px;
+    color: var(--text-light);
+    margin-right: 12px;
+    opacity: 0.6;
+    flex-shrink: 0;
+    transition: all 0.3s ease;
+    pointer-events: none;
+    will-change: transform;
+}
+
+.field-content {
+    display: flex;
+    flex-direction: column;
+    overflow: hidden;
+    pointer-events: none;
+}
+
+.field-content label {
+    font-size: 11px;
+    text-transform: uppercase;
+    letter-spacing: 0.5px;
+    color: var(--text-light);
+    font-weight: 600;
+    margin-bottom: 2px;
+}
+
+.display-value {
+    font-size: 15px;
+    font-weight: 600;
+    color: var(--text-dark);
+    white-space: nowrap;
+    text-overflow: ellipsis;
+    overflow: hidden;
+}
+
+.search-divider {
+    width: 1px;
+    height: 35px;
+    background: #eee;
+    align-self: center;
+    margin: 0 5px;
+}
+
+.search-group input,
+.search-group select,
+.search-group .flatpickr-input {
+    position: absolute;
+    width: 0;
+    height: 0;
+    opacity: 0;
+    pointer-events: none;
+    border: none;
+    margin: 0;
+    padding: 0;
+}
+
+.luxury-submit-btn {
+    background: linear-gradient(135deg, var(--primary-blue), var(--secondary-blue));
+    color: white;
+    border: none;
+    padding: 0 35px;
+    border-radius: 14px;
+    font-weight: 700;
+    font-family: var(--font-heading);
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    gap: 10px;
+    cursor: pointer;
+    transition: all 0.3s ease;
+    box-shadow: 0 8px 20px rgba(0, 147, 233, 0.2);
+    margin: 4px;
+}
+
+.luxury-submit-btn:hover {
+    transform: translateY(-2px);
+    box-shadow: 0 12px 25px rgba(0, 147, 233, 0.3);
+}
+
+/* 3. Custom Guests Dropdown */
+.luxury-dropdown {
+    position: fixed;
+    top: 50%;
+    left: 50%;
+    width: 90vw;
+    max-width: 380px;
+    background: white;
+    border-radius: 28px;
+    box-shadow: 0 40px 100px rgba(0, 0, 0, 0.2);
+    padding: 30px 25px;
+    z-index: 100000; /* Absolute maximum */
+    opacity: 0;
+    visibility: hidden;
+    transform: translate(-50%, -45%) scale(0.95);
+    transition: all 0.4s cubic-bezier(0.16, 1, 0.3, 1);
+    pointer-events: none;
+    border: 1px solid rgba(0, 0, 0, 0.05);
+}
+
+.luxury-dropdown.active {
+    opacity: 1;
+    visibility: visible;
+    transform: translate(-50%, -50%) scale(1);
+    pointer-events: auto;
+}
+
+.dropdown-counter-item,
+.dropdown-extra-item {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    padding: 8px 0;
+}
+
+.counter-label {
+    font-size: 15px;
+    font-weight: 600;
+    color: var(--text-dark);
+}
+
+.counter-desc {
+    font-size: 12px;
+    color: var(--text-light);
+}
+
+.counter-controls {
+    display: flex;
+    align-items: center;
+    gap: 12px;
+}
+
+.counter-btn {
+    width: 36px;
+    height: 36px;
+    border-radius: 50%;
+    border: 1px solid #eee;
+    background: #fff;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    cursor: pointer;
+    transition: 0.2s;
+    padding: 0;
+    line-height: 1;
+}
+
+.counter-btn i {
+    margin: 0 !important;
+    /* Critical fix for alignment */
+    font-size: 12px;
+    opacity: 1;
+    color: var(--text-dark);
+    will-change: transform;
+}
+
+.counter-btn:hover:not(:disabled) {
+    border-color: var(--primary-blue);
+    color: var(--primary-blue);
+    background: rgba(0, 147, 233, 0.05);
+}
+
+.counter-btn:disabled {
+    opacity: 0.3;
+}
+
+.counter-value {
+    font-weight: 700;
+    font-size: 16px;
+    min-width: 20px;
+    text-align: center;
+}
+
+.dropdown-divider {
+    height: 1px;
+    background: #f0f0f0;
+    margin: 15px 0;
+}
+
+/* Luxury Switch */
+.luxury-switch {
+    width: 44px;
+    height: 24px;
+    position: relative;
+    display: inline-block;
+}
+
+.luxury-switch input {
+    opacity: 0;
+    width: 0;
+    height: 0;
+}
+
+.slider {
+    position: absolute;
+    cursor: pointer;
+    top: 0;
+    left: 0;
+    right: 0;
+    bottom: 0;
+    background-color: #eee;
+    transition: .4s;
+    border-radius: 34px;
+}
+
+.slider:before {
+    position: absolute;
+    content: "";
+    height: 18px;
+    width: 18px;
+    left: 3px;
+    bottom: 3px;
+    background-color: white;
+    transition: .4s;
+    border-radius: 50%;
+}
+
+input:checked+.slider {
+    background-color: var(--primary-blue);
+}
+
+input:checked+.slider:before {
+    transform: translateX(20px);
+}
+
+.dropdown-apply-btn {
+    width: 100%;
+    margin-top: 20px;
+    padding: 14px;
+    border-radius: 12px;
+    background: var(--text-dark);
+    color: white;
+    border: none;
+    font-weight: 600;
+    cursor: pointer;
+    transition: background 0.3s ease;
+}
+
+.dropdown-apply-btn:hover {
+    background: #000;
+}
+
+/* 3. Flatpickr Custom Styling */
+/* 3. Flatpickr Custom Styling (Premium Overhaul) */
+.flatpickr-calendar {
+    box-shadow: 0 40px 120px rgba(0, 0, 0, 0.25) !important;
+    border: none !important;
+    border-radius: 28px !important;
+    padding: 30px !important;
+    font-family: var(--font-main) !important;
+    display: none;
+    overflow: visible !important;
+    width: auto !important;
+    z-index: 999999 !important;
+    background: rgb(255, 255, 255) !important;
+
+    /* Centering logic */
+    position: fixed !important;
+    top: 50% !important;
+    left: 50% !important;
+    transform: translate(-50%, -50%) scale(1) !important;
+    opacity: 1 !important;
+    pointer-events: auto;
+    transition: none !important;
+    /* Remove individual transition for stability */
+}
+
+/* Remove Flatpickr speech bubble arrows */
+.flatpickr-calendar::before,
+.flatpickr-calendar::after {
+    display: none !important;
+}
+
+/* Side by side months */
+.flatpickr-months {
+    display: flex !important;
+    gap: 40px !important;
+    margin: 10px auto 0 auto !important;
+    width: 308px !important;
+    /* Match grid width for perfect centering */
+    justify-content: center !important;
+}
+
+.flatpickr-month {
+    height: auto !important;
+    color: #000 !important;
+    flex: 1 !important;
+    border: none !important;
+    background: #fff !important;
+}
+
+@keyframes calendarAppear {
+    from {
+        opacity: 0;
+        transform: translateY(10px) scale(0.98);
+    }
+
+    to {
+        opacity: 1;
+        transform: translateY(0) scale(1);
+    }
+}
+
+/* Backdrop for Centered Calendar */
+@keyframes fadeIn {
+    from {
+        opacity: 0;
+    }
+
+    to {
+        opacity: 1;
+    }
+}
+
+.calendar-main-content {
+    display: flex;
+    flex-direction: column;
+    padding: 25px;
+    background: white;
+    width: 100%;
+}
+
+/* Day & Header Styling (Booking Style) */
+.flatpickr-current-month {
+    padding: 0 !important;
+    display: grid !important;
+    grid-template-columns: 1fr auto 1fr !important;
+    /* Year is in the absolute center */
+    align-items: center !important;
+    width: 100% !important;
+    max-width: 308px !important;
+    margin: 0 auto !important;
+    position: relative !important;
+    height: 50px !important;
+    color: #000 !important;
+    background: #fff !important;
+}
+
+.flatpickr-monthDropdown-months {
+    grid-column: 1 !important;
+    justify-self: end !important;
+    font-weight: 700 !important;
+    color: #000 !important;
+    background: #fff !important;
+    border: none !important;
+    padding: 0 !important;
+    margin: 0 10px 0 0 !important;
+    width: auto !important;
+    appearance: none !important;
+    -webkit-appearance: none !important;
+    -moz-appearance: none !important;
+    cursor: pointer !important;
+    font-size: 18px !important;
+}
+
+.numInputWrapper {
+    grid-column: 2 !important;
+    justify-self: center !important;
+    width: auto !important;
+    display: flex !important;
+    align-items: baseline !important;
+    /* Align with text baseline */
+}
+
+.numInputWrapper span {
+    display: none !important;
+}
+
+.cur-year {
+    font-weight: 700 !important;
+    color: #000 !important;
+    background: #fff !important;
+    border: none !important;
+    width: auto !important;
+    padding: 0 !important;
+    margin: 0 !important;
+    font-size: 18px !important;
+    text-align: center !important;
+    line-height: inherit !important;
+    vertical-align: baseline !important;
+}
+
+.flatpickr-prev-month,
+.flatpickr-next-month {
+    top: 22px !important; /* Adjusted for new 30px padding to stay centered with header */
+    padding: 10px !important;
+    color: #000 !important;
+    fill: #000 !important;
+    border: none !important;
+    border-radius: 50% !important;
+    background: white !important;
+    width: 45px !important;
+    height: 45px !important;
+    display: flex !important;
+    align-items: center !important;
+    justify-content: center !important;
+    transition: all 0.3s cubic-bezier(0.175, 0.885, 0.32, 1.275);
+    z-index: 100 !important;
+    position: absolute !important;
+    box-shadow: 0 4px 12px rgba(0, 0, 0, 0.05) !important;
+}
+
+.flatpickr-prev-month {
+    left: 10px !important;
+}
+
+.flatpickr-next-month {
+    right: 10px !important;
+}
+
+.flatpickr-prev-month:hover,
+.flatpickr-next-month:hover {
+    background: #f5f5f5 !important;
+}
+
+.flatpickr-innerContainer {
+    display: flex !important;
+    gap: 40px !important;
+    margin: 20px auto 0 auto !important;
+    /* Center the grid container */
+    justify-content: center !important;
+    border: none !important;
+    width: 308px !important;
+}
+
+.flatpickr-rContainer {
+    width: 308px !important;
+    border: none !important;
+    margin: 0 auto !important;
+}
+
+.flatpickr-weekdays,
+.flatpickr-weekdaycontainer,
+.flatpickr-days,
+.dayContainer {
+    width: 308px !important;
+    display: flex !important;
+    border: none !important;
+    box-shadow: none !important;
+    background: #fff !important;
+    margin: 0 auto !important;
+}
+
+.flatpickr-weekdaycontainer,
+.dayContainer {
+    flex-wrap: wrap !important;
+}
+
+.flatpickr-weekday {
+    font-weight: 500 !important;
+    font-size: 13px !important;
+    text-transform: lowercase !important;
+    width: 44px !important;
+    display: flex !important;
+    align-items: center !important;
+    justify-content: center !important;
+    height: 30px !important;
+    background: #fff !important;
+}
+
+/* Пн-Пт: Черные */
+.flatpickr-weekday:nth-child(-n+5) {
+    color: #000 !important;
+}
+
+/* Сб-Вс: Красные */
+.flatpickr-weekday:nth-child(n+6) {
+    color: #e63946 !important;
+}
+
+.flatpickr-day {
+    width: 44px !important;
+    height: 44px !important;
+    line-height: 44px !important;
+    margin: 0 !important;
+    border-radius: 12px !important;
+    display: flex !important;
+    align-items: center !important;
+    justify-content: center !important;
+    font-size: 15px !important;
+    transition: all 0.2s ease !important;
+    font-weight: 500 !important;
+    color: #333 !important;
+}
+
+/* Выходные дни (числа) - Красные */
+.flatpickr-day:nth-child(7n+6),
+.flatpickr-day:nth-child(7n) {
+    color: #e63946 !important;
+}
+
+/* Сбрасываем красный для выбранных дат */
+.flatpickr-day.selected,
+.flatpickr-day.startRange,
+.flatpickr-day.endRange {
+    color: #fff !important;
+    background: var(--primary-blue) !important;
+}
+
+.flatpickr-day:hover {
+    background: rgba(0, 147, 233, 0.1) !important;
+    border-color: transparent !important;
+}
+
+.flatpickr-day.selected,
+.flatpickr-day.startRange,
+.flatpickr-day.endRange {
+    background: var(--primary-blue) !important;
+    border-color: var(--primary-blue) !important;
+    color: white !important;
+    box-shadow: 0 8px 20px rgba(0, 147, 233, 0.3) !important;
+    border-radius: 12px !important;
+}
+
+.flatpickr-day.today {
+    border: none !important;
+    color: #333 !important;
+    font-weight: 700 !important;
+    background: rgba(0, 0, 0, 0.05) !important;
+    /* Use a subtle background instead of a border */
+}
+
+/* Ensure today is red if it falls on a weekend */
+.flatpickr-day.today:nth-child(7n+6),
+.flatpickr-day.today:nth-child(7n) {
+    color: #e63946 !important;
+    background: rgba(230, 57, 70, 0.05) !important;
+}
+
+.flatpickr-day.flatpickr-disabled {
+    color: #ccc !important;
+    opacity: 0.5;
+}
+
+/* 4. Responsive */
+/* 5. Responsive Optimization */
+@media (max-width: 1200px) {
+    .luxury-search-card {
+        max-width: 950px;
+    }
+
+    .search-group {
+        padding: 12px 15px;
+    }
+}
+
+@media (max-width: 1024px) {
+    .home-search-section {
+        margin-top: -40px;
+        padding: 0 15px;
+    }
+
+    .luxury-search-card {
+        max-width: 100%;
+        border-radius: 20px;
+    }
+
+    .luxury-search-grid {
+        display: grid;
+        grid-template-columns: repeat(3, 1fr);
+        gap: 10px;
+        padding: 10px;
+    }
+
+    .search-divider {
+        display: none;
+    }
+
+    .search-group {
+        padding: 15px 10px;
+        flex-direction: column;
+        justify-content: center;
+        text-align: center;
+        background: rgba(0, 0, 0, 0.02);
+    }
+
+    .search-group.active {
+        background: rgba(0, 147, 233, 0.08);
+    }
+
+    .search-group i {
+        margin-right: 0;
+        margin-bottom: 6px;
+        font-size: 20px;
+    }
+
+    .luxury-submit-btn {
+        grid-column: span 3;
+        margin: 5px 0 0 0;
+        padding: 18px;
+        height: auto;
+        font-size: 16px;
+    }
+
+    .calendar-sidebar {
+        display: none !important;
+    }
+}
+
+@media (max-width: 600px) {
+    .home-search-section {
+        margin-top: -20px;
+        padding: 0 10px;
+    }
+
+    .luxury-search-card {
+        border-radius: 16px;
+        padding: 5px;
+    }
+
+    .luxury-search-grid {
+        display: grid;
+        grid-template-columns: repeat(3, 1fr);
+        gap: 5px;
+        padding: 5px;
+    }
+
+    .search-group {
+        padding: 10px 4px;
+        border-radius: 10px;
+    }
+
+    .search-group i {
+        font-size: 16px;
+        margin-bottom: 4px;
+    }
+
+    .field-content label {
+        font-size: 9px;
+        letter-spacing: 0;
+    }
+
+    .display-value {
+        font-size: 11px;
+        line-height: 1.2;
+    }
+
+    .luxury-submit-btn {
+        padding: 14px;
+        font-size: 15px;
+        border-radius: 12px;
+    }
+
+    .luxury-dropdown {
+        position: fixed;
+        top: 50%;
+        left: 50%;
+        transform: translate(-50%, -50%);
+        width: 90vw;
+        max-width: 340px;
+        right: auto;
+        padding: 25px 20px;
+        border-radius: 24px;
+    }
+
+    .counter-info {
+        display: flex;
+        flex-direction: column;
+        gap: 2px;
+    }
+
+    .counter-label {
+        font-size: 14px;
+    }
+
+    .counter-desc {
+        font-size: 11px;
+        opacity: 0.8;
+    }
+
+    .luxury-dropdown.active {
+        transform: translate(-50%, -50%);
+    }
+}
+
+@media (max-width: 480px) {
+    .luxury-search-grid {
+        grid-template-columns: 1fr;
+        gap: 8px;
+    }
+    .luxury-submit-btn {
+        grid-column: 1;
+    }
+}
+
+@keyframes fadeInUp {
+    from {
+        opacity: 0;
+        transform: translateY(20px);
+    }
+
+    to {
+        opacity: 1;
+        transform: translateY(0);
+    }
+}
+/* 4. Mobile Adaptation */
+@media (max-width: 768px) {
+    .flatpickr-calendar {
+        width: 95% !important;
+        max-width: 340px !important;
+        padding: 20px 10px !important;
+        border-radius: 20px !important;
+    }
+
+    .flatpickr-months {
+        width: 100% !important;
+        max-width: 308px !important;
+    }
+
+    .flatpickr-prev-month,
+    .flatpickr-next-month {
+        top: 12px !important; /* Adjust for smaller padding */
+        width: 40px !important;
+        height: 40px !important;
+    }
+
+    .flatpickr-prev-month {
+        left: 5px !important;
+    }
+
+    .flatpickr-next-month {
+        right: 5px !important;
+    }
+
+    .flatpickr-innerContainer,
+    .flatpickr-rContainer,
+    .flatpickr-weekdays,
+    .flatpickr-weekdaycontainer,
+    .flatpickr-days,
+    .dayContainer {
+        width: 100% !important;
+        max-width: 308px !important;
+    }
+
+    .flatpickr-day {
+        /* Ensure touch targets remain comfortable */
+        width: 40px !important;
+        height: 40px !important;
+        line-height: 40px !important;
+    }
+}
+
+/* --- Ultra-Wide / 4K Optimization (2560px+) --- */
+@media (min-width: 2000px) {
+    .luxury-search-card {
+        max-width: 1600px;
+        padding: 15px;
+        border-radius: 30px;
+        margin-top: -100px; /* Больше нахлест для масштаба */
+    }
+
+    .search-group {
+        padding: 25px 40px;
+        border-radius: 20px;
+    }
+
+    .search-group i {
+        font-size: 32px;
+        margin-right: 20px;
+    }
+
+    .field-content label {
+        font-size: 16px;
+        margin-bottom: 5px;
+    }
+
+    .display-value {
+        font-size: 24px;
+    }
+
+    .search-divider {
+        height: 60px;
+    }
+
+    .luxury-submit-btn {
+        padding: 0 60px;
+        font-size: 22px;
+        border-radius: 20px;
+        margin: 8px;
+    }
+
+    .luxury-submit-btn i {
+        font-size: 24px;
+    }
+
+    /* Календарь и выпадашки на 4К */
+    .flatpickr-calendar {
+        transform: translate(-50%, -50%) scale(1.8) !important; /* Увеличили календарь */
+    }
+
+    .luxury-dropdown {
+        max-width: 600px;
+        padding: 50px;
+        border-radius: 40px;
+        transform: translate(-50%, -50%) scale(1.5) !important;
+    }
+    
+    .counter-label { font-size: 22px; }
+    .counter-desc { font-size: 16px; }
+    .counter-value { font-size: 24px; }
+    .counter-btn { width: 50px; height: 50px; }
+    .counter-btn i { font-size: 18px; }
+    .dropdown-apply-btn { font-size: 22px; padding: 20px; border-radius: 20px; }
+}
+
+/* Анимация тряски для ошибок */
+.shake-error {
+    animation: shake 0.5s cubic-bezier(.36,.07,.19,.97) both;
+    border-color: #e63946 !important;
+    background: rgba(230, 57, 70, 0.05) !important;
+}
+
+@keyframes shake {
+    10%, 90% { transform: translate3d(-1px, 0, 0); }
+    20%, 80% { transform: translate3d(2px, 0, 0); }
+    30%, 50%, 70% { transform: translate3d(-4px, 0, 0); }
+    40%, 60% { transform: translate3d(4px, 0, 0); }
+}

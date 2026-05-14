@@ -1,0 +1,20 @@
+<svg width="200" height="80" viewBox="0 0 200 80" xmlns="http://www.w3.org/2000/svg">
+    <!-- Background is transparent -->
+    <defs>
+        <linearGradient id="logoGradient" x1="0%" y1="0%" x2="100%" y2="0%">
+            <stop offset="0%" style="stop-color:#0093E9;stop-opacity:1" />
+            <stop offset="100%" style="stop-color:#80D0C7;stop-opacity:1" />
+        </linearGradient>
+    </defs>
+    
+    <!-- Wave Icon -->
+    <path d="M20 50 Q 35 30, 50 50 T 80 50" stroke="url(#logoGradient)" stroke-width="4" fill="none" stroke-linecap="round" />
+    
+    <!-- Text -->
+    <text x="85" y="55" font-family="'Montserrat', sans-serif" font-weight="800" font-size="28" fill="#2C3E50" letter-spacing="2">
+        ALMARI
+    </text>
+    <text x="85" y="72" font-family="'Inter', sans-serif" font-weight="500" font-size="10" fill="#7F8C8D" letter-spacing="4">
+        GURZUF • CRIMEA
+    </text>
+</svg>

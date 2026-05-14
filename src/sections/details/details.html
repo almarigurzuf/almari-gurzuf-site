@@ -1,0 +1,35 @@
+<div id="detailsModal" class="details-modal">
+    <div class="details-modal-content">
+        <span class="details-modal-close">&times;</span>
+        <div class="details-grid">
+            <div class="details-image">
+                <!-- Слайдер внутри модалки -->
+                <div class="modal-slider-container" id="modalSliderContainer">
+                    <div class="modal-slider-track" id="modalSliderTrack">
+                        <!-- Фото будут вставлены через JS -->
+                    </div>
+                    <button class="modal-slider-btn prev"><i class="fas fa-chevron-left"></i></button>
+                    <button class="modal-slider-btn next"><i class="fas fa-chevron-right"></i></button>
+                    <div class="modal-slider-dots" id="modalSliderDots"></div>
+                </div>
+            </div>
+            <div class="details-info">
+                <h2 id="modalTitle">Название апартамента</h2>
+                <p class="modal-description" id="modalDescription">Описание...</p>
+                
+                <div class="modal-specs">
+                    <div class="spec-item"><i class="fas fa-expand-arrows-alt"></i> <span id="modalArea">93 м²</span></div>
+                    <div class="spec-item"><i class="fas fa-users"></i> <span id="modalCapacity">До 7 гостей</span></div>
+                    <div class="spec-item"><i class="fas fa-bed"></i> <span id="modalRooms">2 комнаты</span></div>
+                </div>
+                <h3>Удобства</h3>
+                <div class="modal-amenities" id="modalAmenities">
+                    <!-- Amenities will be injected here -->
+                </div>
+                <div class="modal-footer">
+                    <a href="#booking" class="btn btn-primary" id="modalBookBtn">Забронировать сейчас</a>
+                </div>
+            </div>
+        </div>
+    </div>
+</div>

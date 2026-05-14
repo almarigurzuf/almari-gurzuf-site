@@ -1,0 +1,19 @@
+:root {
+    /* Color Palette - Bright Resort Theme */
+    --primary-blue: #0093E9;
+    --secondary-blue: #80D0C7;
+    --accent-gold: #946B09; /* Deep Gold for accessibility (4.5:1 contrast) */
+    --bg-white: #FFFFFF;
+    --text-dark: #1A202C;
+    --text-light: #4A5568; /* Darker gray for better contrast */
+    --glass-bg: rgba(255, 255, 255, 0.8);
+    --glass-border: rgba(255, 255, 255, 0.3);
+    
+    /* Typography */
+    --font-main: 'Inter', sans-serif;
+    --font-heading: 'Montserrat', sans-serif;
+    
+    /* Spacing */
+    --section-padding: 80px 20px;
+    --container-width: 1200px;
+}

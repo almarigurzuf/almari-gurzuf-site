@@ -1,0 +1,81 @@
+<section class="home-search-section">
+    <div class="container">
+        <div class="luxury-search-card">
+            <form action="/booking.html" method="GET" class="luxury-search-form">
+                <div class="luxury-search-grid">
+                    <!-- Заезд -->
+                    <div class="search-group" id="arrival_group">
+                        <i class="far fa-calendar-alt"></i>
+                        <div class="field-content">
+                            <label for="dfrom">Заезд</label>
+                            <span class="display-value" id="arrival_display">Выберите дату</span>
+                            <input type="text" name="dfrom" id="dfrom" required readonly>
+                        </div>
+                    </div>
+                    
+                    <div class="search-divider"></div>
+                    
+                    <!-- Выезд -->
+                    <div class="search-group" id="departure_group">
+                        <i class="far fa-calendar-check"></i>
+                        <div class="field-content">
+                            <label for="dto">Выезд</label>
+                            <span class="display-value" id="departure_display">Выберите дату</span>
+                            <input type="text" name="dto" id="dto" required readonly>
+                        </div>
+                    </div>
+                    
+                    <div class="search-divider"></div>
+                    
+                    <!-- Гости -->
+                    <div class="search-group" id="guests_group">
+                        <i class="fas fa-users"></i>
+                        <div class="field-content">
+                            <label for="adults">Гости</label>
+                            <span class="display-value" id="adults_display">2 гостя</span>
+                            <select name="adults" id="adults" style="display:none;">
+                                <option value="1">1 гость</option>
+                                <option value="2" selected>2 гостя</option>
+                                <option value="3">3 гостей</option>
+                                <option value="4">4 гостей</option>
+                                <option value="5">5 гостей</option>
+                                <option value="6">6 основных + 1 доп.</option>
+                            </select>
+                        </div>
+                        <div class="luxury-dropdown" id="guests_dropdown">
+                            <div class="dropdown-counter-item">
+                                <div class="counter-info">
+                                    <span class="counter-label">Основные места</span>
+                                    <span class="counter-desc">До 6 человек</span>
+                                </div>
+                                <div class="counter-controls">
+                                    <button type="button" class="counter-btn minus" id="main_minus" name="main_minus" aria-label="Уменьшить количество гостей"><i class="fas fa-minus"></i></button>
+                                    <span class="counter-value" id="main_count">2</span>
+                                    <button type="button" class="counter-btn plus" id="main_plus" name="main_plus" aria-label="Увеличить количество гостей"><i class="fas fa-plus"></i></button>
+                                </div>
+                            </div>
+                            <div class="dropdown-divider"></div>
+                            <div class="dropdown-extra-item">
+                                <div class="extra-info">
+                                    <span class="counter-label">Доп. место</span>
+                                    <span class="counter-desc">+1 человек</span>
+                                </div>
+                                <label class="luxury-switch">
+                                    <input type="checkbox" id="extra_place" name="extra_place">
+                                    <span class="slider"></span>
+                                </label>
+                            </div>
+                            <button type="button" class="dropdown-apply-btn" id="apply_guests" name="apply_guests" aria-label="Применить выбор гостей">Применить</button>
+                        </div>
+                    </div>
+                    
+                    <button type="submit" class="luxury-submit-btn" id="search_submit" name="search_submit">
+                        <span>Найти номер</span>
+                        <i class="fas fa-search"></i>
+                    </button>
+                </div>
+                <input type="hidden" name="is_auto_search" id="is_auto_search" value="1">
+            </form>
+        </div>
+    </div>
+</section>

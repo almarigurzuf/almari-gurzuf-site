@@ -1,0 +1,2011 @@
+[
+  {
+    "id": "swallows-nest",
+    "name": "Ласточкино гнездо",
+    "descLen": 490,
+    "hasTip": true,
+    "hasPrices": false
+  },
+  {
+    "id": "massandra-palace",
+    "name": "Массандровский дворец",
+    "descLen": 362,
+    "hasTip": true,
+    "hasPrices": false
+  },
+  {
+    "id": "nikitsky-garden",
+    "name": "Никитский ботанический сад",
+    "descLen": 422,
+    "hasTip": true,
+    "hasPrices": false
+  },
+  {
+    "id": "pushkin-museum-gurzuf",
+    "name": "Музей А.С. Пушкина",
+    "descLen": 155,
+    "hasTip": false,
+    "hasPrices": false
+  },
+  {
+    "id": "balaklava-base",
+    "name": "Музей подводных лодок",
+    "descLen": 350,
+    "hasTip": true,
+    "hasPrices": false
+  },
+  {
+    "id": "golitsyn-trail",
+    "name": "Тропа Голицына",
+    "descLen": 295,
+    "hasTip": true,
+    "hasPrices": false
+  },
+  {
+    "id": "sommelier-gurzuf",
+    "name": "Кафе «Сомелье»",
+    "descLen": 274,
+    "hasTip": true,
+    "hasPrices": false
+  },
+  {
+    "id": "venice-gurzuf",
+    "name": "Ресторан «Венеция»",
+    "descLen": 260,
+    "hasTip": true,
+    "hasPrices": false
+  },
+  {
+    "id": "pud-gurzuf",
+    "name": "Супермаркет «ПУД»",
+    "descLen": 286,
+    "hasTip": true,
+    "hasPrices": false
+  },
+  {
+    "id": "yalta-embankment",
+    "name": "Набережная Ялты",
+    "descLen": 326,
+    "hasTip": true,
+    "hasPrices": false
+  },
+  {
+    "id": "massandra-winery",
+    "name": "Винзавод «Массандра»",
+    "descLen": 289,
+    "hasTip": true,
+    "hasPrices": false
+  },
+  {
+    "id": "massandra-park",
+    "name": "Массандровский парк",
+    "descLen": 133,
+    "hasTip": false,
+    "hasPrices": false
+  },
+  {
+    "id": "uch-kosh-canyon",
+    "name": "Ущелье Уч-Кош",
+    "descLen": 140,
+    "hasTip": false,
+    "hasPrices": false
+  },
+  {
+    "id": "massandra-beach",
+    "name": "Пляж Массандра",
+    "descLen": 267,
+    "hasTip": true,
+    "hasPrices": false
+  },
+  {
+    "id": "malakhov-kurgan",
+    "name": "Малахов курган",
+    "descLen": 326,
+    "hasTip": true,
+    "hasPrices": false
+  },
+  {
+    "id": "gurzuf-central-beach",
+    "name": "Центральный пляж Гурзуфа",
+    "descLen": 238,
+    "hasTip": true,
+    "hasPrices": false
+  },
+  {
+    "id": "smakmarket-gurzuf",
+    "name": "Магазин «Смакмаркет»",
+    "descLen": 94,
+    "hasTip": false,
+    "hasPrices": false
+  },
+  {
+    "id": "market-gurzuf",
+    "name": "Гурзуфский рынок",
+    "descLen": 113,
+    "hasTip": true,
+    "hasPrices": false
+  },
+  {
+    "id": "molbert-cafe",
+    "name": "Кафе «Мольберт»",
+    "descLen": 103,
+    "hasTip": false,
+    "hasPrices": false
+  },
+  {
+    "id": "gurzuf-park",
+    "name": "Гурзуфский парк",
+    "descLen": 117,
+    "hasTip": false,
+    "hasPrices": false
+  },
+  {
+    "id": "adalary-rocks",
+    "name": "Скалы Адалары",
+    "descLen": 106,
+    "hasTip": false,
+    "hasPrices": false
+  },
+  {
+    "id": "alexander-nevsky-yalta",
+    "name": "Собор Александра Невского",
+    "descLen": 142,
+    "hasTip": false,
+    "hasPrices": false
+  },
+  {
+    "id": "yalta-aquarium",
+    "name": "Ялтинский аквариум",
+    "descLen": 115,
+    "hasTip": false,
+    "hasPrices": true
+  },
+  {
+    "id": "yalta-crocodilearium",
+    "name": "Ялтинский крокодиляриум",
+    "descLen": 84,
+    "hasTip": false,
+    "hasPrices": true
+  },
+  {
+    "id": "sevastopol-monument-sunken-ships",
+    "name": "Памятник затопленным кораблям",
+    "descLen": 171,
+    "hasTip": true,
+    "hasPrices": false
+  },
+  {
+    "id": "sevastopol-grafskaya-pristan",
+    "name": "Графская пристань",
+    "descLen": 123,
+    "hasTip": false,
+    "hasPrices": false
+  },
+  {
+    "id": "ghost-valley",
+    "name": "Долина Привидений",
+    "descLen": 144,
+    "hasTip": true,
+    "hasPrices": false
+  },
+  {
+    "id": "dzhur-dzhur",
+    "name": "Водопад Джур-Джур",
+    "descLen": 102,
+    "hasTip": false,
+    "hasPrices": false
+  },
+  {
+    "id": "alushta-aquarium",
+    "name": "Алуштинский аквариум",
+    "descLen": 100,
+    "hasTip": false,
+    "hasPrices": true
+  },
+  {
+    "id": "alchak-cape",
+    "name": "Мыс Алчак",
+    "descLen": 108,
+    "hasTip": false,
+    "hasPrices": false
+  },
+  {
+    "id": "meganom-cape",
+    "name": "Мыс Меганом",
+    "descLen": 100,
+    "hasTip": false,
+    "hasPrices": false
+  },
+  {
+    "id": "sudak-beach",
+    "name": "Городской пляж Судака",
+    "descLen": 98,
+    "hasTip": false,
+    "hasPrices": false
+  },
+  {
+    "id": "chembalo-fortress",
+    "name": "Крепость Чембало",
+    "descLen": 115,
+    "hasTip": false,
+    "hasPrices": false
+  },
+  {
+    "id": "balaklava-bay",
+    "name": "Балаклавская бухта",
+    "descLen": 163,
+    "hasTip": false,
+    "hasPrices": false
+  },
+  {
+    "id": "banana-republic",
+    "name": "Аквапарк «Банановая Республика»",
+    "descLen": 115,
+    "hasTip": false,
+    "hasPrices": false
+  },
+  {
+    "id": "sudak-aquapark",
+    "name": "Аквапарк в Судаке",
+    "descLen": 115,
+    "hasTip": false,
+    "hasPrices": false
+  },
+  {
+    "id": "blue-bay-aquapark",
+    "name": "Аквапарк «Голубой Залив»",
+    "descLen": 90,
+    "hasTip": false,
+    "hasPrices": false
+  },
+  {
+    "id": "lukomorye-aquapark",
+    "name": "Аквапарк «У Лукоморья» (Акваленд)",
+    "descLen": 101,
+    "hasTip": false,
+    "hasPrices": false
+  },
+  {
+    "id": "zurbagan-aquapark",
+    "name": "Аквапарк «Зурбаган»",
+    "descLen": 91,
+    "hasTip": false,
+    "hasPrices": false
+  },
+  {
+    "id": "koktebel-aquapark",
+    "name": "Аквапарк «Коктебель»",
+    "descLen": 90,
+    "hasTip": false,
+    "hasPrices": false
+  },
+  {
+    "id": "bukhara-emir-palace",
+    "name": "Дворец Эмира Бухарского",
+    "descLen": 99,
+    "hasTip": false,
+    "hasPrices": false
+  },
+  {
+    "id": "karasan-estate",
+    "name": "Имение Карасан",
+    "descLen": 76,
+    "hasTip": false,
+    "hasPrices": false
+  },
+  {
+    "id": "khan-palace",
+    "name": "Ханский дворец",
+    "descLen": 316,
+    "hasTip": true,
+    "hasPrices": false
+  },
+  {
+    "id": "dulber-palace",
+    "name": "Дворец Дюльбер",
+    "descLen": 75,
+    "hasTip": false,
+    "hasPrices": false
+  },
+  {
+    "id": "gagarina-palace",
+    "name": "Дворец княгини Гагариной",
+    "descLen": 85,
+    "hasTip": false,
+    "hasPrices": false
+  },
+  {
+    "id": "kafa-fortress",
+    "name": "Генуэзская крепость Кафа",
+    "descLen": 82,
+    "hasTip": false,
+    "hasPrices": false
+  },
+  {
+    "id": "neapol-skifsky",
+    "name": "Неаполь Скифский",
+    "descLen": 157,
+    "hasTip": false,
+    "hasPrices": false
+  },
+  {
+    "id": "kessler-manor",
+    "name": "Усадьба Кесслера (Ферсманово)",
+    "descLen": 124,
+    "hasTip": false,
+    "hasPrices": false
+  },
+  {
+    "id": "karaim-kenassa",
+    "name": "Караимская кенасса",
+    "descLen": 114,
+    "hasTip": false,
+    "hasPrices": false
+  },
+  {
+    "id": "simf-reservoir",
+    "name": "Симферопольское водохранилище",
+    "descLen": 111,
+    "hasTip": false,
+    "hasPrices": false
+  },
+  {
+    "id": "childrens-park",
+    "name": "Детский парк",
+    "descLen": 125,
+    "hasTip": false,
+    "hasPrices": false
+  },
+  {
+    "id": "simf-zoo",
+    "name": "Симферопольский зоопарк",
+    "descLen": 109,
+    "hasTip": false,
+    "hasPrices": false
+  },
+  {
+    "id": "chokurcha-cave",
+    "name": "Пещера-грот «Чокурча»",
+    "descLen": 111,
+    "hasTip": false,
+    "hasPrices": false
+  },
+  {
+    "id": "tash-dzhargan",
+    "name": "Урочище Таш-Джарган",
+    "descLen": 124,
+    "hasTip": false,
+    "hasPrices": false
+  },
+  {
+    "id": "weeping-rock",
+    "name": "Плачущая скала",
+    "descLen": 118,
+    "hasTip": false,
+    "hasPrices": false
+  },
+  {
+    "id": "gagarinsky-park",
+    "name": "Парк им. Гагарина",
+    "descLen": 121,
+    "hasTip": false,
+    "hasPrices": false
+  },
+  {
+    "id": "shaan-kaya",
+    "name": "Гора Шаан-Кая",
+    "descLen": 160,
+    "hasTip": false,
+    "hasPrices": false
+  },
+  {
+    "id": "shaan-kaya-lake",
+    "name": "Озеро у скалы Шаан-Кая",
+    "descLen": 115,
+    "hasTip": false,
+    "hasPrices": false
+  },
+  {
+    "id": "amet-khan-museum",
+    "name": "Музей Амет-Хана Султана",
+    "descLen": 134,
+    "hasTip": false,
+    "hasPrices": false
+  },
+  {
+    "id": "aivazovsky-rock",
+    "name": "Скала Айвазовского",
+    "descLen": 130,
+    "hasTip": false,
+    "hasPrices": false
+  },
+  {
+    "id": "michael-archangel-church",
+    "name": "Храм Архангела Михаила",
+    "descLen": 137,
+    "hasTip": false,
+    "hasPrices": false
+  },
+  {
+    "id": "vorontsov-park-full",
+    "name": "Воронцовский парк",
+    "descLen": 127,
+    "hasTip": false,
+    "hasPrices": false
+  },
+  {
+    "id": "aluston-fortress",
+    "name": "Крепость Алустон",
+    "descLen": 124,
+    "hasTip": false,
+    "hasPrices": false
+  },
+  {
+    "id": "golovkinsky-waterfall",
+    "name": "Водопад Головкинского",
+    "descLen": 129,
+    "hasTip": false,
+    "hasPrices": false
+  },
+  {
+    "id": "dzhurla-waterfall",
+    "name": "Водопад Джурла",
+    "descLen": 99,
+    "hasTip": false,
+    "hasPrices": false
+  },
+  {
+    "id": "ai-yori-spring",
+    "name": "Родник Ай-Йори",
+    "descLen": 133,
+    "hasTip": false,
+    "hasPrices": false
+  },
+  {
+    "id": "izobilnoe-reservoir",
+    "name": "Изобильненское водохранилище",
+    "descLen": 113,
+    "hasTip": false,
+    "hasPrices": false
+  },
+  {
+    "id": "akvarel-dolphinarium",
+    "name": "Дельфинарий «Акварель»",
+    "descLen": 126,
+    "hasTip": false,
+    "hasPrices": false
+  },
+  {
+    "id": "crimea-miniature",
+    "name": "Крым в миниатюре",
+    "descLen": 123,
+    "hasTip": false,
+    "hasPrices": false
+  },
+  {
+    "id": "nazukin-embankment",
+    "name": "Набережная Назукина",
+    "descLen": 148,
+    "hasTip": false,
+    "hasPrices": false
+  },
+  {
+    "id": "twelve-apostles-church",
+    "name": "Храм Двенадцати Апостолов",
+    "descLen": 137,
+    "hasTip": false,
+    "hasPrices": false
+  },
+  {
+    "id": "laspi-bay",
+    "name": "Бухта Ласпи",
+    "descLen": 129,
+    "hasTip": false,
+    "hasPrices": false
+  },
+  {
+    "id": "st-appearance-rock",
+    "name": "Скала Святого Явления",
+    "descLen": 129,
+    "hasTip": false,
+    "hasPrices": false
+  },
+  {
+    "id": "fig-tract",
+    "name": "Урочище Инжир (Аязьма)",
+    "descLen": 123,
+    "hasTip": false,
+    "hasPrices": false
+  },
+  {
+    "id": "kozyrek-waterfall",
+    "name": "Водопад Козырек",
+    "descLen": 132,
+    "hasTip": false,
+    "hasPrices": false
+  },
+  {
+    "id": "chernorechensky-canyon",
+    "name": "Чернореченский каньон",
+    "descLen": 138,
+    "hasTip": false,
+    "hasPrices": false
+  },
+  {
+    "id": "death-barrel",
+    "name": "Бочка смерти",
+    "descLen": 141,
+    "hasTip": false,
+    "hasPrices": false
+  },
+  {
+    "id": "jasper-beach",
+    "name": "Яшмовый пляж",
+    "descLen": 140,
+    "hasTip": false,
+    "hasPrices": false
+  },
+  {
+    "id": "kadykovsky-quarry",
+    "name": "Кадыковский карьер",
+    "descLen": 113,
+    "hasTip": false,
+    "hasPrices": false
+  },
+  {
+    "id": "vasili-beach",
+    "name": "Пляж «Васили»",
+    "descLen": 116,
+    "hasTip": false,
+    "hasPrices": false
+  },
+  {
+    "id": "beaded-church",
+    "name": "Бисерный храм",
+    "descLen": 168,
+    "hasTip": false,
+    "hasPrices": false
+  },
+  {
+    "id": "karalez-sphinxes",
+    "name": "Сфинксы Каралезской долины",
+    "descLen": 143,
+    "hasTip": false,
+    "hasPrices": false
+  },
+  {
+    "id": "krepostnoe-lake",
+    "name": "Озеро Крепкое",
+    "descLen": 144,
+    "hasTip": false,
+    "hasPrices": false
+  },
+  {
+    "id": "suatkan-waterfall",
+    "name": "Водопад Суаткан",
+    "descLen": 140,
+    "hasTip": false,
+    "hasPrices": false
+  },
+  {
+    "id": "alma-valley",
+    "name": "Винодельня Alma Valley",
+    "descLen": 162,
+    "hasTip": false,
+    "hasPrices": false
+  },
+  {
+    "id": "adzhi-su-spring",
+    "name": "Источник Аджи-Су",
+    "descLen": 113,
+    "hasTip": false,
+    "hasPrices": false
+  },
+  {
+    "id": "bakhchisarai-miniature",
+    "name": "Парк миниатюр (Бахчисарай)",
+    "descLen": 146,
+    "hasTip": false,
+    "hasPrices": false
+  },
+  {
+    "id": "uspensky-monastery",
+    "name": "Свято-Успенский монастырь",
+    "descLen": 140,
+    "hasTip": false,
+    "hasPrices": false
+  },
+  {
+    "id": "mangup-lake",
+    "name": "Мангупское озеро",
+    "descLen": 146,
+    "hasTip": false,
+    "hasPrices": false
+  },
+  {
+    "id": "donkey-farm",
+    "name": "Ферма «Чудо Ослик»",
+    "descLen": 145,
+    "hasTip": false,
+    "hasPrices": false
+  },
+  {
+    "id": "chufut-kale",
+    "name": "Чуфут-Кале",
+    "descLen": 135,
+    "hasTip": false,
+    "hasPrices": false
+  },
+  {
+    "id": "eski-kermen",
+    "name": "Эски-Кермен",
+    "descLen": 122,
+    "hasTip": false,
+    "hasPrices": false
+  },
+  {
+    "id": "white-rock",
+    "name": "Белая скала (Ак-Кая)",
+    "descLen": 158,
+    "hasTip": false,
+    "hasPrices": false
+  },
+  {
+    "id": "cheremisov-waterfalls",
+    "name": "Черемисовские водопады",
+    "descLen": 120,
+    "hasTip": false,
+    "hasPrices": false
+  },
+  {
+    "id": "kok-asan-canyon",
+    "name": "Каньон Кок-Асан",
+    "descLen": 111,
+    "hasTip": false,
+    "hasPrices": false
+  },
+  {
+    "id": "taigan-reservoir",
+    "name": "Тайганское водохранилище",
+    "descLen": 132,
+    "hasTip": false,
+    "hasPrices": false
+  },
+  {
+    "id": "karasu-bashi-tract",
+    "name": "Урочище Карасу-Баши",
+    "descLen": 123,
+    "hasTip": false,
+    "hasPrices": false
+  },
+  {
+    "id": "balanovo-reservoir",
+    "name": "Балановское водохранилище",
+    "descLen": 119,
+    "hasTip": false,
+    "hasPrices": false
+  },
+  {
+    "id": "three-saints-waterfall",
+    "name": "Водопад Трех Святителей",
+    "descLen": 129,
+    "hasTip": false,
+    "hasPrices": false
+  },
+  {
+    "id": "suvorov-oak",
+    "name": "Суворовский дуб",
+    "descLen": 135,
+    "hasTip": false,
+    "hasPrices": false
+  },
+  {
+    "id": "tash-khan",
+    "name": "Таш-Хан",
+    "descLen": 112,
+    "hasTip": false,
+    "hasPrices": false
+  },
+  {
+    "id": "panina-palace",
+    "name": "Дворец графини Паниной",
+    "descLen": 139,
+    "hasTip": false,
+    "hasPrices": false
+  },
+  {
+    "id": "kichkine-palace",
+    "name": "Дворец Кичкине",
+    "descLen": 137,
+    "hasTip": false,
+    "hasPrices": false
+  },
+  {
+    "id": "royal-trail",
+    "name": "Царская (Солнечная) тропа",
+    "descLen": 156,
+    "hasTip": false,
+    "hasPrices": false
+  },
+  {
+    "id": "ai-todor-lighthouse",
+    "name": "Ай-Тодорский маяк",
+    "descLen": 112,
+    "hasTip": false,
+    "hasPrices": false
+  },
+  {
+    "id": "charax-park",
+    "name": "Парк Харакс",
+    "descLen": 142,
+    "hasTip": false,
+    "hasPrices": false
+  },
+  {
+    "id": "suuk-su-palace",
+    "name": "Дворец Суук-Су",
+    "descLen": 93,
+    "hasTip": false,
+    "hasPrices": false
+  },
+  {
+    "id": "chekhov-dacha-gurzuf",
+    "name": "Дача Чехова в Гурзуфе",
+    "descLen": 139,
+    "hasTip": false,
+    "hasPrices": false
+  },
+  {
+    "id": "ayu-dag-mountain",
+    "name": "Гора Аю-Даг (Медведь-гора)",
+    "descLen": 132,
+    "hasTip": false,
+    "hasPrices": false
+  },
+  {
+    "id": "pushkin-grotto",
+    "name": "Пушкинский грот",
+    "descLen": 134,
+    "hasTip": false,
+    "hasPrices": false
+  },
+  {
+    "id": "artek-camp",
+    "name": "МДЦ «Артек»",
+    "descLen": 142,
+    "hasTip": false,
+    "hasPrices": false
+  },
+  {
+    "id": "roman-kosh-peak",
+    "name": "Гора Роман-Кош",
+    "descLen": 123,
+    "hasTip": false,
+    "hasPrices": false
+  },
+  {
+    "id": "red-stone-rock",
+    "name": "Красный камень",
+    "descLen": 138,
+    "hasTip": false,
+    "hasPrices": false
+  },
+  {
+    "id": "gurzuf-cat-monument",
+    "name": "Памятник гурзуфской кошке",
+    "descLen": 129,
+    "hasTip": false,
+    "hasPrices": false
+  },
+  {
+    "id": "shalyapin-rock",
+    "name": "Скала Шаляпина",
+    "descLen": 128,
+    "hasTip": false,
+    "hasPrices": false
+  },
+  {
+    "id": "genoise-rock-gurzuf",
+    "name": "Генуэзская скала",
+    "descLen": 106,
+    "hasTip": false,
+    "hasPrices": false
+  },
+  {
+    "id": "dzhuma-dzhami-mosque",
+    "name": "Мечеть Джума-Джами",
+    "descLen": 133,
+    "hasTip": false,
+    "hasPrices": false
+  },
+  {
+    "id": "tekie-dervishej",
+    "name": "Текие Дервишей",
+    "descLen": 127,
+    "hasTip": false,
+    "hasPrices": false
+  },
+  {
+    "id": "egiya-kapay-synagogue",
+    "name": "Синагога Егия Капай",
+    "descLen": 136,
+    "hasTip": false,
+    "hasPrices": false
+  },
+  {
+    "id": "karaite-kenasas",
+    "name": "Караимские кенасы",
+    "descLen": 113,
+    "hasTip": false,
+    "hasPrices": false
+  },
+  {
+    "id": "nicholas-cathedral-evp",
+    "name": "Свято-Николаевский собор",
+    "descLen": 134,
+    "hasTip": false,
+    "hasPrices": false
+  },
+  {
+    "id": "sasyk-sivash-lake",
+    "name": "Озеро Сасык-Сиваш (Розовое озеро)",
+    "descLen": 132,
+    "hasTip": false,
+    "hasPrices": false
+  },
+  {
+    "id": "moynaki-lake",
+    "name": "Озеро Мойнаки",
+    "descLen": 122,
+    "hasTip": false,
+    "hasPrices": false
+  },
+  {
+    "id": "lazurny-bereg-beach",
+    "name": "Пляж «Лазурный берег»",
+    "descLen": 126,
+    "hasTip": false,
+    "hasPrices": false
+  },
+  {
+    "id": "evpatoria-dolphinarium",
+    "name": "Евпаторийский Дельфинарий",
+    "descLen": 115,
+    "hasTip": false,
+    "hasPrices": false
+  },
+  {
+    "id": "evpatoria-aquarium",
+    "name": "Евпаторийский Аквариум",
+    "descLen": 129,
+    "hasTip": false,
+    "hasPrices": false
+  },
+  {
+    "id": "dinopark-evpatoria",
+    "name": "Динопарк",
+    "descLen": 109,
+    "hasTip": false,
+    "hasPrices": false
+  },
+  {
+    "id": "evpatoria-miniature",
+    "name": "Парк миниатюр (Евпатория)",
+    "descLen": 126,
+    "hasTip": false,
+    "hasPrices": false
+  },
+  {
+    "id": "chaika-settlement",
+    "name": "Городище Чайка",
+    "descLen": 130,
+    "hasTip": false,
+    "hasPrices": false
+  },
+  {
+    "id": "turkish-baths",
+    "name": "Турецкие бани (XV век)",
+    "descLen": 106,
+    "hasTip": false,
+    "hasPrices": false
+  },
+  {
+    "id": "st-elias-church",
+    "name": "Храм Святого Илии",
+    "descLen": 115,
+    "hasTip": false,
+    "hasPrices": false
+  },
+  {
+    "id": "inkerman-monastery",
+    "name": "Свято-Климентовский монастырь",
+    "descLen": 145,
+    "hasTip": false,
+    "hasPrices": false
+  },
+  {
+    "id": "inkerman-winery",
+    "name": "Инкерманский завод марочных вин",
+    "descLen": 138,
+    "hasTip": false,
+    "hasPrices": false
+  },
+  {
+    "id": "kalamita-fortress",
+    "name": "Крепость Каламита",
+    "descLen": 139,
+    "hasTip": false,
+    "hasPrices": false
+  },
+  {
+    "id": "inkerman-lake",
+    "name": "Инкерманское озеро",
+    "descLen": 119,
+    "hasTip": false,
+    "hasPrices": false
+  },
+  {
+    "id": "chelter-marmara",
+    "name": "Монастырь Челтер-Мармара",
+    "descLen": 144,
+    "hasTip": false,
+    "hasPrices": false
+  },
+  {
+    "id": "kyz-kule-tower",
+    "name": "Башня Кыз-Куле (Девичья башня)",
+    "descLen": 125,
+    "hasTip": false,
+    "hasPrices": false
+  },
+  {
+    "id": "crimean-bridge",
+    "name": "Крымский мост",
+    "descLen": 143,
+    "hasTip": false,
+    "hasPrices": false
+  },
+  {
+    "id": "mitridat-mountain",
+    "name": "Гора Митридат",
+    "descLen": 149,
+    "hasTip": false,
+    "hasPrices": false
+  },
+  {
+    "id": "kerch-fortress",
+    "name": "Керченская крепость (Форт Тотлебен)",
+    "descLen": 123,
+    "hasTip": false,
+    "hasPrices": false
+  },
+  {
+    "id": "yeni-kale-fortress",
+    "name": "Крепость Ени-Кале",
+    "descLen": 128,
+    "hasTip": false,
+    "hasPrices": false
+  },
+  {
+    "id": "john-baptist-church",
+    "name": "Храм Иоанна Предтечи",
+    "descLen": 124,
+    "hasTip": false,
+    "hasPrices": false
+  },
+  {
+    "id": "adzhimushkay-quarries",
+    "name": "Аджимушкайские каменоломни",
+    "descLen": 147,
+    "hasTip": false,
+    "hasPrices": false
+  },
+  {
+    "id": "royal-kurgan",
+    "name": "Царский курган",
+    "descLen": 147,
+    "hasTip": false,
+    "hasPrices": false
+  },
+  {
+    "id": "pantikapaion-city",
+    "name": "Античный город Пантикапей",
+    "descLen": 145,
+    "hasTip": false,
+    "hasPrices": false
+  },
+  {
+    "id": "koyashskoe-pink-lake",
+    "name": "Кояшское розовое озеро",
+    "descLen": 141,
+    "hasTip": false,
+    "hasPrices": false
+  },
+  {
+    "id": "mud-volcanoes-kerch",
+    "name": "Булганакские грязевые вулканы",
+    "descLen": 116,
+    "hasTip": false,
+    "hasPrices": false
+  },
+  {
+    "id": "akvapark-koktebel",
+    "name": "Аквапарк «Коктебель»",
+    "descLen": 107,
+    "hasTip": false,
+    "hasPrices": false
+  },
+  {
+    "id": "chertov-palets-koktebel",
+    "name": "Скала Чертов палец",
+    "descLen": 114,
+    "hasTip": false,
+    "hasPrices": false
+  },
+  {
+    "id": "delfinarij-koktebel",
+    "name": "Дельфинарий «Коктебель»",
+    "descLen": 99,
+    "hasTip": false,
+    "hasPrices": false
+  },
+  {
+    "id": "zolotye-vorota",
+    "name": "Золотые ворота",
+    "descLen": 102,
+    "hasTip": false,
+    "hasPrices": false
+  },
+  {
+    "id": "karadag-reserve",
+    "name": "Карадагский заповедник",
+    "descLen": 121,
+    "hasTip": false,
+    "hasPrices": false
+  },
+  {
+    "id": "barakol-lake",
+    "name": "Озеро Бараколь",
+    "descLen": 126,
+    "hasTip": false,
+    "hasPrices": false
+  },
+  {
+    "id": "zvezdopad-vospominanij",
+    "name": "Звездопад воспоминаний",
+    "descLen": 113,
+    "hasTip": false,
+    "hasPrices": false
+  },
+  {
+    "id": "koktebel-winery",
+    "name": "Винзавод «Коктебель»",
+    "descLen": 123,
+    "hasTip": false,
+    "hasPrices": false
+  },
+  {
+    "id": "mys-hameleon",
+    "name": "Мыс Хамелеон",
+    "descLen": 137,
+    "hasTip": false,
+    "hasPrices": false
+  },
+  {
+    "id": "klementyeva-mountain",
+    "name": "Гора Клементьева",
+    "descLen": 134,
+    "hasTip": false,
+    "hasPrices": false
+  },
+  {
+    "id": "tikhaya-bay",
+    "name": "Тихая бухта",
+    "descLen": 140,
+    "hasTip": false,
+    "hasPrices": false
+  },
+  {
+    "id": "batiliman",
+    "name": "Урочище Батилиман",
+    "descLen": 139,
+    "hasTip": false,
+    "hasPrices": false
+  },
+  {
+    "id": "laspinskij-pass",
+    "name": "Ласпинский перевал",
+    "descLen": 126,
+    "hasTip": false,
+    "hasPrices": false
+  },
+  {
+    "id": "lost-world-beach",
+    "name": "Пляж «Затерянный мир»",
+    "descLen": 125,
+    "hasTip": false,
+    "hasPrices": false
+  },
+  {
+    "id": "sun-temple",
+    "name": "Храм Солнца (Ильяс-Кая)",
+    "descLen": 130,
+    "hasTip": false,
+    "hasPrices": false
+  },
+  {
+    "id": "funa-fortress",
+    "name": "Крепость Фуна",
+    "descLen": 123,
+    "hasTip": false,
+    "hasPrices": false
+  },
+  {
+    "id": "demerdzhi-mountain",
+    "name": "Гора Демерджи",
+    "descLen": 135,
+    "hasTip": false,
+    "hasPrices": false
+  },
+  {
+    "id": "valley-of-ghosts",
+    "name": "Долина Привидений",
+    "descLen": 119,
+    "hasTip": false,
+    "hasPrices": false
+  },
+  {
+    "id": "nikulin-walnut",
+    "name": "Орех Юрия Никулина",
+    "descLen": 116,
+    "hasTip": false,
+    "hasPrices": false
+  },
+  {
+    "id": "paradise-park-aivazovskoe",
+    "name": "Парк «Парадиз» (Айвазовское)",
+    "descLen": 144,
+    "hasTip": false,
+    "hasPrices": false
+  },
+  {
+    "id": "turquoise-lake-zaprudnoe",
+    "name": "Бирюзовое озеро",
+    "descLen": 102,
+    "hasTip": false,
+    "hasPrices": false
+  },
+  {
+    "id": "foros-church",
+    "name": "Форосская церковь",
+    "descLen": 114,
+    "hasTip": false,
+    "hasPrices": false
+  },
+  {
+    "id": "foros-park",
+    "name": "Форосский парк",
+    "descLen": 101,
+    "hasTip": false,
+    "hasPrices": false
+  },
+  {
+    "id": "baidarskie-gates",
+    "name": "Байдарские ворота",
+    "descLen": 110,
+    "hasTip": false,
+    "hasPrices": false
+  },
+  {
+    "id": "saki-mud-lake",
+    "name": "Сакское лечебное озеро",
+    "descLen": 112,
+    "hasTip": false,
+    "hasPrices": false
+  },
+  {
+    "id": "kara-tobe-museum",
+    "name": "Музей «Кара-Тобе»",
+    "descLen": 95,
+    "hasTip": false,
+    "hasPrices": false
+  },
+  {
+    "id": "ozhinnaya-bay",
+    "name": "Бухта Ожинная",
+    "descLen": 128,
+    "hasTip": false,
+    "hasPrices": false
+  },
+  {
+    "id": "kalos-limen",
+    "name": "Античное городище Калос-Лимен",
+    "descLen": 116,
+    "hasTip": false,
+    "hasPrices": false
+  },
+  {
+    "id": "grand-canyon-crimea",
+    "name": "Большой каньон Крыма",
+    "descLen": 113,
+    "hasTip": false,
+    "hasPrices": false
+  },
+  {
+    "id": "silver-streams-waterfall",
+    "name": "Водопад «Серебряные струи»",
+    "descLen": 110,
+    "hasTip": false,
+    "hasPrices": false
+  },
+  {
+    "id": "arpat-canyon",
+    "name": "Арпатский каньон",
+    "descLen": 127,
+    "hasTip": false,
+    "hasPrices": false
+  },
+  {
+    "id": "panagia-lake",
+    "name": "Горное озеро в Зеленогорье",
+    "descLen": 117,
+    "hasTip": false,
+    "hasPrices": false
+  },
+  {
+    "id": "crimean-nuclear-plant",
+    "name": "Крымская АЭС (недостроенная)",
+    "descLen": 127,
+    "hasTip": false,
+    "hasPrices": false
+  },
+  {
+    "id": "kazantip-cape",
+    "name": "Мыс Казантип",
+    "descLen": 117,
+    "hasTip": false,
+    "hasPrices": false
+  },
+  {
+    "id": "surb-khach-monastery",
+    "name": "Монастырь Сурб-Хач",
+    "descLen": 135,
+    "hasTip": false,
+    "hasPrices": false
+  },
+  {
+    "id": "khan-uzbek-mosque",
+    "name": "Мечеть хана Узбека",
+    "descLen": 108,
+    "hasTip": false,
+    "hasPrices": false
+  },
+  {
+    "id": "grin-house-museum",
+    "name": "Дом-музей Александра Грина",
+    "descLen": 122,
+    "hasTip": false,
+    "hasPrices": false
+  },
+  {
+    "id": "marble-cave",
+    "name": "Мраморная пещера",
+    "descLen": 105,
+    "hasTip": false,
+    "hasPrices": false
+  },
+  {
+    "id": "emine-bair-hosar",
+    "name": "Пещера Эмине-Баир-Хосар",
+    "descLen": 123,
+    "hasTip": false,
+    "hasPrices": false
+  },
+  {
+    "id": "red-caves-kizil-koba",
+    "name": "Красные пещеры (Кизил-Коба)",
+    "descLen": 121,
+    "hasTip": false,
+    "hasPrices": false
+  },
+  {
+    "id": "su-uchkhan-waterfall",
+    "name": "Водопад Су-Учхан",
+    "descLen": 103,
+    "hasTip": false,
+    "hasPrices": false
+  },
+  {
+    "id": "viking-cinema-park",
+    "name": "Кинопарк «Викинг»",
+    "descLen": 128,
+    "hasTip": false,
+    "hasPrices": false
+  },
+  {
+    "id": "crimean-observatory",
+    "name": "Крымская астрофизическая обсерватория",
+    "descLen": 123,
+    "hasTip": false,
+    "hasPrices": false
+  },
+  {
+    "id": "nauchnyj-lake",
+    "name": "Озеро в Научном",
+    "descLen": 101,
+    "hasTip": false,
+    "hasPrices": false
+  },
+  {
+    "id": "nikolaya-lighthouse-church",
+    "name": "Храм-маяк Николая Чудотворца",
+    "descLen": 126,
+    "hasTip": false,
+    "hasPrices": false
+  },
+  {
+    "id": "museum-of-maritime-disasters",
+    "name": "Музей морских катастроф",
+    "descLen": 141,
+    "hasTip": false,
+    "hasPrices": false
+  },
+  {
+    "id": "cheese-rocks-tuzlukh",
+    "name": "Сырные скалы (Тузлух)",
+    "descLen": 132,
+    "hasTip": false,
+    "hasPrices": false
+  },
+  {
+    "id": "malorechenskoe-beach",
+    "name": "Бухта Малореченское",
+    "descLen": 95,
+    "hasTip": false,
+    "hasPrices": false
+  },
+  {
+    "id": "taxi-volna",
+    "name": "Такси «Волна»",
+    "descLen": 135,
+    "hasTip": false,
+    "hasPrices": false
+  },
+  {
+    "id": "taxi-maxim",
+    "name": "Такси «Максим»",
+    "descLen": 112,
+    "hasTip": false,
+    "hasPrices": false
+  },
+  {
+    "id": "winekitchen-yalta",
+    "name": "Winekitchen",
+    "descLen": 168,
+    "hasTip": false,
+    "hasPrices": false
+  },
+  {
+    "id": "salt-pepper-yalta",
+    "name": "Salt & Pepper",
+    "descLen": 139,
+    "hasTip": false,
+    "hasPrices": false
+  },
+  {
+    "id": "gussi-yalta",
+    "name": "Gussi",
+    "descLen": 124,
+    "hasTip": false,
+    "hasPrices": false
+  },
+  {
+    "id": "chaika-yalta",
+    "name": "Чайка",
+    "descLen": 117,
+    "hasTip": false,
+    "hasPrices": false
+  },
+  {
+    "id": "modern-evpatoria",
+    "name": "Модернъ",
+    "descLen": 113,
+    "hasTip": false,
+    "hasPrices": false
+  },
+  {
+    "id": "jules-verne-alushta",
+    "name": "Жюль Верн",
+    "descLen": 142,
+    "hasTip": false,
+    "hasPrices": false
+  },
+  {
+    "id": "dorado-alushta",
+    "name": "Дорадо",
+    "descLen": 103,
+    "hasTip": false,
+    "hasPrices": false
+  },
+  {
+    "id": "barkas-sevastopol",
+    "name": "Баркас",
+    "descLen": 116,
+    "hasTip": false,
+    "hasPrices": false
+  },
+  {
+    "id": "zolotaya-balka-sevastopol",
+    "name": "Золотая Балка",
+    "descLen": 106,
+    "hasTip": false,
+    "hasPrices": false
+  },
+  {
+    "id": "cyclope-balaklava",
+    "name": "Сусlope",
+    "descLen": 132,
+    "hasTip": false,
+    "hasPrices": false
+  },
+  {
+    "id": "mychara-simferopol",
+    "name": "Мычара",
+    "descLen": 103,
+    "hasTip": false,
+    "hasPrices": false
+  },
+  {
+    "id": "balkan-grill-simferopol",
+    "name": "Балкан Гриль",
+    "descLen": 109,
+    "hasTip": false,
+    "hasPrices": false
+  },
+  {
+    "id": "av-gusto-simferopol",
+    "name": "Av-Gusto",
+    "descLen": 101,
+    "hasTip": false,
+    "hasPrices": false
+  },
+  {
+    "id": "mekenzi-1783-sevastopol",
+    "name": "Мекензи 1783",
+    "descLen": 109,
+    "hasTip": false,
+    "hasPrices": false
+  },
+  {
+    "id": "marani-sevastopol",
+    "name": "Marani",
+    "descLen": 109,
+    "hasTip": false,
+    "hasPrices": false
+  },
+  {
+    "id": "fiolent-sevastopol",
+    "name": "Фиолент",
+    "descLen": 100,
+    "hasTip": false,
+    "hasPrices": false
+  },
+  {
+    "id": "dzheval-evpatoria",
+    "name": "Джеваль",
+    "descLen": 122,
+    "hasTip": false,
+    "hasPrices": false
+  },
+  {
+    "id": "super-mario-evpatoria",
+    "name": "Super Mario",
+    "descLen": 88,
+    "hasTip": false,
+    "hasPrices": false
+  },
+  {
+    "id": "fabrikant-yalta",
+    "name": "Фабрикантъ",
+    "descLen": 137,
+    "hasTip": false,
+    "hasPrices": false
+  },
+  {
+    "id": "ptizza-yalta",
+    "name": "Птица",
+    "descLen": 104,
+    "hasTip": false,
+    "hasPrices": false
+  },
+  {
+    "id": "van-gog-yalta",
+    "name": "Van Gogh",
+    "descLen": 107,
+    "hasTip": false,
+    "hasPrices": false
+  },
+  {
+    "id": "spadoni-yalta",
+    "name": "Spadoni",
+    "descLen": 100,
+    "hasTip": false,
+    "hasPrices": false
+  },
+  {
+    "id": "legenda-laspi",
+    "name": "Легенда",
+    "descLen": 114,
+    "hasTip": false,
+    "hasPrices": false
+  },
+  {
+    "id": "shafran-sudak",
+    "name": "Шафран",
+    "descLen": 97,
+    "hasTip": false,
+    "hasPrices": false
+  },
+  {
+    "id": "arzy-sudak",
+    "name": "Арзы",
+    "descLen": 79,
+    "hasTip": false,
+    "hasPrices": false
+  },
+  {
+    "id": "provincia-sudak",
+    "name": "Провинция",
+    "descLen": 90,
+    "hasTip": false,
+    "hasPrices": false
+  },
+  {
+    "id": "horeca-sudak",
+    "name": "HoReCa",
+    "descLen": 93,
+    "hasTip": false,
+    "hasPrices": false
+  },
+  {
+    "id": "mountains-place-0",
+    "name": "Озеро у скалы Шаан-Кая",
+    "descLen": 400,
+    "hasTip": false,
+    "hasPrices": false
+  },
+  {
+    "id": "mountains-place-1",
+    "name": "Гора Крокодил (Арман-Кая)",
+    "descLen": 383,
+    "hasTip": false,
+    "hasPrices": false
+  },
+  {
+    "id": "mountains-place-2",
+    "name": "Роман Кош",
+    "descLen": 446,
+    "hasTip": false,
+    "hasPrices": false
+  },
+  {
+    "id": "mountains-place-3",
+    "name": "Фаросский кант",
+    "descLen": 379,
+    "hasTip": false,
+    "hasPrices": false
+  },
+  {
+    "id": "mountains-place-4",
+    "name": "Гора Ай-Петри",
+    "descLen": 369,
+    "hasTip": false,
+    "hasPrices": false
+  },
+  {
+    "id": "mountains-place-5",
+    "name": "Мердвен-Тобе и Коба-Чаир",
+    "descLen": 432,
+    "hasTip": false,
+    "hasPrices": false
+  },
+  {
+    "id": "mountains-place-6",
+    "name": "Карадаг",
+    "descLen": 369,
+    "hasTip": false,
+    "hasPrices": false
+  },
+  {
+    "id": "mountains-place-7",
+    "name": "Гора Шаан-Кая",
+    "descLen": 439,
+    "hasTip": false,
+    "hasPrices": false
+  },
+  {
+    "id": "mountains-place-8",
+    "name": "Гора Аю-Даг (Медведь-гора)",
+    "descLen": 426,
+    "hasTip": false,
+    "hasPrices": false
+  },
+  {
+    "id": "mountains-place-9",
+    "name": "Гора Аскети (Спилия)",
+    "descLen": 378,
+    "hasTip": false,
+    "hasPrices": false
+  },
+  {
+    "id": "mountains-place-10",
+    "name": "Храм Солнца",
+    "descLen": 359,
+    "hasTip": false,
+    "hasPrices": false
+  },
+  {
+    "id": "mountains-place-11",
+    "name": "Гора Чатыр-Даг",
+    "descLen": 407,
+    "hasTip": false,
+    "hasPrices": false
+  },
+  {
+    "id": "waterfalls-place-0",
+    "name": "Арпатский водопад",
+    "descLen": 427,
+    "hasTip": false,
+    "hasPrices": false
+  },
+  {
+    "id": "waterfalls-place-1",
+    "name": "Черемисовские водопады",
+    "descLen": 374,
+    "hasTip": false,
+    "hasPrices": false
+  },
+  {
+    "id": "waterfalls-place-2",
+    "name": "Водопад Джур-Джур",
+    "descLen": 396,
+    "hasTip": false,
+    "hasPrices": false
+  },
+  {
+    "id": "waterfalls-place-3",
+    "name": "Мердвен-Тобе и Коба-Чаир",
+    "descLen": 432,
+    "hasTip": false,
+    "hasPrices": false
+  },
+  {
+    "id": "waterfalls-place-4",
+    "name": "Водопад Су-Учхан",
+    "descLen": 364,
+    "hasTip": false,
+    "hasPrices": false
+  },
+  {
+    "id": "waterfalls-place-5",
+    "name": "Водопад Суаткан",
+    "descLen": 392,
+    "hasTip": false,
+    "hasPrices": false
+  },
+  {
+    "id": "waterfalls-place-6",
+    "name": "Водопад козырек",
+    "descLen": 356,
+    "hasTip": false,
+    "hasPrices": false
+  },
+  {
+    "id": "waterfalls-place-7",
+    "name": "Водопад Головкинского (ущелье Яман-Дере)",
+    "descLen": 385,
+    "hasTip": false,
+    "hasPrices": false
+  },
+  {
+    "id": "waterfalls-place-8",
+    "name": "Водопад Учан-Су",
+    "descLen": 346,
+    "hasTip": false,
+    "hasPrices": false
+  },
+  {
+    "id": "waterfalls-place-9",
+    "name": "Водопад «Серебряные струи»",
+    "descLen": 429,
+    "hasTip": false,
+    "hasPrices": false
+  },
+  {
+    "id": "waterfalls-place-10",
+    "name": "Водопад Гейзер",
+    "descLen": 379,
+    "hasTip": false,
+    "hasPrices": false
+  },
+  {
+    "id": "waterfalls-place-11",
+    "name": "Водопад Бойковский",
+    "descLen": 347,
+    "hasTip": false,
+    "hasPrices": false
+  },
+  {
+    "id": "caves-place-0",
+    "name": "Мраморная пещера",
+    "descLen": 176,
+    "hasTip": false,
+    "hasPrices": true
+  },
+  {
+    "id": "caves-place-1",
+    "name": "Инкерманские штольни",
+    "descLen": 397,
+    "hasTip": false,
+    "hasPrices": false
+  },
+  {
+    "id": "caves-place-2",
+    "name": "Большой Бузлук (Ледяная пещера)",
+    "descLen": 399,
+    "hasTip": false,
+    "hasPrices": false
+  },
+  {
+    "id": "caves-place-3",
+    "name": "Пещера «Бездонный колодец»",
+    "descLen": 391,
+    "hasTip": false,
+    "hasPrices": false
+  },
+  {
+    "id": "caves-place-4",
+    "name": "Пещера Фатьма — Коба",
+    "descLen": 425,
+    "hasTip": false,
+    "hasPrices": false
+  },
+  {
+    "id": "caves-place-5",
+    "name": "Красные пещеры (Кизил-Коба)",
+    "descLen": 369,
+    "hasTip": false,
+    "hasPrices": false
+  },
+  {
+    "id": "caves-place-6",
+    "name": "Пещера-грот «Чокурча»",
+    "descLen": 412,
+    "hasTip": false,
+    "hasPrices": false
+  },
+  {
+    "id": "caves-place-7",
+    "name": "Пещера Киик-Коба",
+    "descLen": 421,
+    "hasTip": false,
+    "hasPrices": false
+  },
+  {
+    "id": "caves-place-8",
+    "name": "Пещера Сюндюрлю-Коба",
+    "descLen": 398,
+    "hasTip": false,
+    "hasPrices": false
+  },
+  {
+    "id": "caves-place-9",
+    "name": "Пещера Эмине-Баир-Хосар",
+    "descLen": 410,
+    "hasTip": false,
+    "hasPrices": false
+  },
+  {
+    "id": "caves-place-10",
+    "name": "Пещера «Трехглазка»",
+    "descLen": 373,
+    "hasTip": false,
+    "hasPrices": false
+  },
+  {
+    "id": "caves-place-11",
+    "name": "Скельская сталактитовая пещера",
+    "descLen": 411,
+    "hasTip": false,
+    "hasPrices": false
+  },
+  {
+    "id": "canyons-place-0",
+    "name": "Каньон Узунджа",
+    "descLen": 387,
+    "hasTip": false,
+    "hasPrices": false
+  },
+  {
+    "id": "canyons-place-1",
+    "name": "Большой каньон Крыма",
+    "descLen": 141,
+    "hasTip": false,
+    "hasPrices": false
+  },
+  {
+    "id": "canyons-place-2",
+    "name": "Бельбекский каньон",
+    "descLen": 361,
+    "hasTip": false,
+    "hasPrices": false
+  },
+  {
+    "id": "canyons-place-3",
+    "name": "Арпатский каньон",
+    "descLen": 456,
+    "hasTip": false,
+    "hasPrices": false
+  },
+  {
+    "id": "canyons-place-4",
+    "name": "Каньон Кок-Асан",
+    "descLen": 419,
+    "hasTip": false,
+    "hasPrices": false
+  },
+  {
+    "id": "canyons-place-5",
+    "name": "Чернореченский каньон",
+    "descLen": 401,
+    "hasTip": false,
+    "hasPrices": false
+  },
+  {
+    "id": "lakes-place-0",
+    "name": "Озеро у скалы Шаан-Кая",
+    "descLen": 400,
+    "hasTip": false,
+    "hasPrices": false
+  },
+  {
+    "id": "lakes-place-1",
+    "name": "Урочище Панагия",
+    "descLen": 412,
+    "hasTip": false,
+    "hasPrices": false
+  },
+  {
+    "id": "lakes-place-2",
+    "name": "Озеро Нижнее",
+    "descLen": 428,
+    "hasTip": false,
+    "hasPrices": false
+  },
+  {
+    "id": "lakes-place-3",
+    "name": "Горное озеро «Кастель»",
+    "descLen": 421,
+    "hasTip": false,
+    "hasPrices": false
+  },
+  {
+    "id": "lakes-place-4",
+    "name": "Бирюзовое озеро",
+    "descLen": 408,
+    "hasTip": false,
+    "hasPrices": false
+  },
+  {
+    "id": "lakes-place-5",
+    "name": "Озеро Гасфорта",
+    "descLen": 415,
+    "hasTip": false,
+    "hasPrices": false
+  },
+  {
+    "id": "lakes-place-6",
+    "name": "Черепашье озеро",
+    "descLen": 390,
+    "hasTip": false,
+    "hasPrices": false
+  },
+  {
+    "id": "lakes-place-7",
+    "name": "Озеро Красное",
+    "descLen": 376,
+    "hasTip": false,
+    "hasPrices": false
+  },
+  {
+    "id": "lakes-place-8",
+    "name": "Горное озеро «Ворон»",
+    "descLen": 332,
+    "hasTip": false,
+    "hasPrices": false
+  },
+  {
+    "id": "lakes-place-9",
+    "name": "Балановское водохранилище",
+    "descLen": 444,
+    "hasTip": false,
+    "hasPrices": false
+  },
+  {
+    "id": "lakes-place-10",
+    "name": "Мангупское озеро",
+    "descLen": 468,
+    "hasTip": false,
+    "hasPrices": false
+  },
+  {
+    "id": "lakes-place-11",
+    "name": "Могабинские озера",
+    "descLen": 405,
+    "hasTip": false,
+    "hasPrices": false
+  },
+  {
+    "id": "parks-place-0",
+    "name": "Агармышский лес",
+    "descLen": 414,
+    "hasTip": false,
+    "hasPrices": false
+  },
+  {
+    "id": "parks-place-1",
+    "name": "Урочище Джангуль",
+    "descLen": 441,
+    "hasTip": false,
+    "hasPrices": false
+  },
+  {
+    "id": "parks-place-2",
+    "name": "Урочище Алчак-Кая",
+    "descLen": 406,
+    "hasTip": false,
+    "hasPrices": false
+  },
+  {
+    "id": "parks-place-3",
+    "name": "Беседка ветров (Екатерининская)",
+    "descLen": 388,
+    "hasTip": false,
+    "hasPrices": false
+  },
+  {
+    "id": "parks-place-4",
+    "name": "Опукский заповедник",
+    "descLen": 413,
+    "hasTip": false,
+    "hasPrices": false
+  },
+  {
+    "id": "parks-place-5",
+    "name": "Гора Караул-Оба",
+    "descLen": 383,
+    "hasTip": false,
+    "hasPrices": false
+  },
+  {
+    "id": "parks-place-6",
+    "name": "Мыс Лукулл",
+    "descLen": 367,
+    "hasTip": false,
+    "hasPrices": false
+  },
+  {
+    "id": "parks-place-7",
+    "name": "Лебяжьи Острова",
+    "descLen": 402,
+    "hasTip": false,
+    "hasPrices": false
+  },
+  {
+    "id": "parks-place-8",
+    "name": "Ялтинский горно-лесной заповедник",
+    "descLen": 444,
+    "hasTip": false,
+    "hasPrices": false
+  }
+]

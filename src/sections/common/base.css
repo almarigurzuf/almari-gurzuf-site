@@ -1,0 +1,198 @@
+:root {
+    --primary-blue: #0093E9;
+    --secondary-blue: #80D0C7;
+    --accent-gold: #946B09;
+    --text-dark: #1A202C;
+    --text-light: #4A5568;
+    --glass-bg: rgba(255, 255, 255, 0.8);
+    --section-padding: 80px 0;
+    --font-main: 'Inter', sans-serif;
+    --font-heading: 'Montserrat', sans-serif;
+}
+
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+html, body {
+    height: 100%;
+}
+
+html {
+    scroll-behavior: smooth;
+    scroll-padding-top: 60px; /* С учетом компактного хедера */
+}
+
+body {
+    font-family: var(--font-main);
+    color: var(--text-dark);
+    line-height: 1.6;
+    background-color: #f9fbfd;
+    overflow-x: hidden;
+}
+
+a {
+    text-decoration: none;
+    color: inherit;
+}
+
+h1, h2, h3, h4 {
+    font-family: var(--font-heading);
+    color: var(--text-dark);
+}
+
+section {
+    padding: var(--section-padding);
+    content-visibility: auto;
+    contain-intrinsic-size: 1px 500px;
+}
+
+.container {
+    max-width: 1200px;
+    margin: 0 auto;
+    padding: 0 20px;
+}
+
+.section-title-centered {
+    text-align: center;
+    margin-bottom: 50px;
+    font-size: 32px;
+    font-family: var(--font-heading);
+    font-weight: 800;
+    width: 100%;
+}
+
+.btn {
+    display: inline-block;
+    padding: 12px 30px;
+    border-radius: 50px;
+    text-decoration: none;
+    font-weight: 600;
+    transition: transform 0.3s, box-shadow 0.3s, background-color 0.3s, opacity 0.3s;
+    cursor: pointer;
+    border: none;
+    font-family: var(--font-heading);
+    text-transform: uppercase;
+    letter-spacing: 1px;
+    font-size: 14px;
+    will-change: transform;
+}
+
+.btn-primary {
+    background: linear-gradient(135deg, var(--primary-blue), var(--secondary-blue));
+    color: white;
+    box-shadow: 0 4px 15px rgba(0, 147, 233, 0.3);
+}
+
+.btn-primary:hover {
+    transform: translateY(-2px);
+    box-shadow: 0 6px 20px rgba(0, 147, 233, 0.4);
+}
+
+.btn-accent {
+    background: linear-gradient(135deg, var(--primary-blue), var(--secondary-blue));
+    color: white;
+    box-shadow: 0 4px 15px rgba(0, 147, 233, 0.3);
+}
+
+.btn-accent:hover {
+    transform: translateY(-2px);
+    box-shadow: 0 6px 20px rgba(0, 147, 233, 0.4);
+    opacity: 0.9;
+}
+
+@media (max-width: 768px) {
+    section {
+        padding: 50px 0;
+    }
+    .container {
+        padding: 0 15px;
+    }
+    .section-title-centered {
+        font-size: 24px;
+        margin-bottom: 30px;
+    }
+    input, select, textarea {
+        font-size: 16px !important;
+    }
+}
+
+@media (max-width: 480px) {
+    section {
+        padding: 40px 0;
+    }
+    .container {
+        padding: 0 12px;
+    }
+    .section-title-centered {
+        font-size: 20px;
+        margin-bottom: 24px;
+    }
+}
+
+/* Back to Top */
+.back-to-top {
+    position: fixed;
+    bottom: 30px;
+    left: 30px;
+    width: 50px;
+    height: 50px;
+    background: var(--primary-blue);
+    color: white;
+    border-radius: 50%;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    cursor: pointer;
+    border: none;
+    box-shadow: 0 5px 15px rgba(0, 147, 233, 0.3);
+    opacity: 0;
+    visibility: hidden;
+    transition: opacity 0.3s, visibility 0.3s, transform 0.3s;
+    z-index: 1000;
+}
+
+.back-to-top.visible {
+    opacity: 1;
+    visibility: visible;
+}
+
+.back-to-top:hover {
+    background: var(--text-dark);
+    transform: translateY(-5px);
+}@media (min-width: 2000px) {
+    .container {
+        max-width: 2200px;
+        padding: 0 60px;
+    }
+    body {
+        font-size: 24px;
+    }
+    h1 { font-size: 130px !important; }
+    h2 { font-size: 80px !important; }
+    h3 { font-size: 40px !important; }
+    section { padding: 180px 0; }
+    .btn { 
+        padding: 25px 65px !important; 
+        font-size: 22px !important; 
+        border-radius: 60px !important;
+        letter-spacing: 2px !important;
+    }
+}
+
+.home-search-section {
+    min-height: 120px; /* Reserve space for search panel */
+    content-visibility: visible; /* Отключаем для этой секции — иначе position:fixed дропдаун обрезается её границами */
+    contain: none; /* Снимаем все ограничения containment */
+}
+
+.hero-content {
+    min-height: 200px; /* Reserve space for hero text */
+}
+
+.apt-image-wrapper {
+    aspect-ratio: 3 / 2;
+    background: #e0e6ed; /* Placeholder color */
+}

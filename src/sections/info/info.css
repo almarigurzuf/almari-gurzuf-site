@@ -1,0 +1,395 @@
+.info-section {
+    padding: 100px 0 40px; /* Уменьшил нижний отступ */
+    background: #fff;
+}
+
+.info-grid-luxury {
+    display: grid;
+    grid-template-columns: repeat(auto-fit, minmax(min(100%, 300px), 1fr));
+    gap: 40px;
+}
+
+.info-block-luxury {
+    padding: 40px;
+    border-radius: 30px;
+    position: relative;
+    overflow: hidden;
+    transition: 0.3s;
+}
+
+.info-block-light {
+    background: #f8fbff;
+    border: 1px solid #e1f0ff;
+}
+
+.info-block-white {
+    background: #fff;
+    border: 1px solid #eee;
+    box-shadow: 0 10px 40px rgba(0,0,0,0.03);
+}
+
+.info-icon-bg {
+    position: absolute;
+    top: -20px;
+    right: -20px;
+    font-size: 120px;
+    color: #0093E9;
+    opacity: 0.05;
+}
+
+.info-title-centered {
+    font-family: 'Montserrat', sans-serif;
+    font-weight: 800;
+    margin-bottom: 25px;
+    color: #1a2a3a;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    gap: 15px;
+    text-align: center;
+}
+
+.info-title-centered i {
+    color: #0093E9;
+}
+
+.info-title-small {
+    font-size: 18px;
+    margin-bottom: 20px;
+}
+
+.info-list {
+    list-style: none;
+    padding: 0;
+    margin: 0;
+    color: #4a5568;
+    line-height: 1.8;
+    font-size: 15px;
+}
+
+.info-list li {
+    margin-bottom: 12px;
+    display: flex;
+    gap: 10px;
+}
+
+.info-list li i {
+    color: #0093E9;
+    margin-top: 5px;
+}
+
+.info-divider {
+    border: none;
+    border-top: 1px solid #e1f0ff;
+    margin: 25px 0;
+}
+
+.info-text-centered {
+    color: #4a5568;
+    line-height: 1.6;
+    font-size: 14px;
+    text-align: center;
+}
+
+.info-note {
+    font-style: italic;
+    color: #566479;
+}
+
+.attractions-list-modern {
+    list-style: none;
+    padding: 0;
+    margin: 0;
+    color: #4a5568;
+    line-height: 2;
+}
+
+.attractions-list-modern li {
+    display: grid;
+    grid-template-columns: 1fr auto;
+    gap: 20px;
+    margin-bottom: 12px;
+    align-items: baseline;
+    border-bottom: 1px solid #f0f4f8;
+    padding-bottom: 8px;
+}
+
+.place-name {
+    color: #4a5568;
+    font-weight: 500;
+}
+
+.place-dist {
+    color: #1a2a3a;
+    white-space: nowrap;
+    font-family: 'Montserrat', sans-serif;
+}
+
+.transport-group-centered {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    text-align: center;
+    gap: 20px;
+}
+
+.transport-item-centered {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    gap: 10px;
+}
+
+.transport-item-centered i {
+    color: #0093E9;
+    font-size: 20px;
+}
+
+.transport-content strong {
+    display: block;
+    margin-bottom: 5px;
+}
+
+.transport-content p {
+    margin: 0;
+    font-size: 14px;
+    color: #566479;
+}
+
+@media (max-width: 768px) {
+    .info-section {
+        padding: 60px 0;
+    }
+
+    .info-block-luxury {
+        padding: 30px;
+    }
+}
+
+@media (max-width: 480px) {
+    .info-section {
+        padding: 44px 0;
+    }
+
+    .info-block-luxury {
+        padding: 22px 18px;
+        border-radius: 20px;
+    }
+
+    .info-grid-luxury {
+        gap: 20px;
+    }
+
+    .timing-centered {
+        gap: 20px;
+    }
+
+    .emergency-grid {
+        gap: 24px;
+    }
+
+    .rule-summary {
+        padding: 16px 20px;
+        font-size: 14px;
+    }
+
+    .rule-content {
+        padding: 0 20px 20px;
+        font-size: 14px;
+    }
+}
+
+/* Стили для расширенных правил проживания с питомцами */
+.pet-rules-list {
+    margin: 20px 0;
+}
+
+.pet-rules-list li {
+    margin-bottom: 12px !important;
+    align-items: flex-start !important;
+}
+
+.pet-rules-list i.fa-times {
+    color: #e53e3e !important;
+    margin-top: 4px;
+}
+
+.pet-rules-list i.fa-check {
+    margin-top: 4px;
+}
+
+.info-note-centered {
+    font-size: 13px;
+    color: #566479;
+    line-height: 1.6;
+    text-align: center;
+    font-style: italic;
+    margin-top: 15px;
+}
+
+/* Аккордеон для правил проживания */
+.rules-accordion {
+    max-width: 900px;
+    margin: 40px auto 0;
+}
+
+.rule-item {
+    background: #fff;
+    border: 1px solid #eee;
+    border-radius: 20px;
+    margin-bottom: 15px;
+    overflow: hidden;
+    transition: 0.3s;
+}
+
+.rule-item:hover {
+    border-color: #0093E9;
+    box-shadow: 0 10px 30px rgba(0, 147, 233, 0.05);
+}
+
+.rule-summary {
+    padding: 20px 30px;
+    cursor: pointer;
+    font-weight: 700;
+    font-family: 'Montserrat', sans-serif;
+    color: #1a2a3a;
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    list-style: none;
+    outline: none;
+}
+
+.rule-summary::-webkit-details-marker {
+    display: none;
+}
+
+.rule-summary i, .rule-summary span i {
+    color: #0093E9;
+    margin-right: 15px;
+    width: 20px;
+    text-align: center;
+    display: inline-block;
+}
+
+.rule-summary::after {
+    content: '\f078';
+    font-family: 'Font Awesome 6 Free';
+    font-weight: 900;
+    font-size: 12px;
+    transition: 0.3s;
+}
+
+.rule-item[open] .rule-summary::after {
+    transform: rotate(180deg);
+}
+
+.rule-content {
+    padding: 0 30px 30px;
+    color: #4a5568;
+    line-height: 1.8;
+    font-size: 15px;
+}
+
+.rule-content strong {
+    color: #1a2a3a;
+}
+
+.rule-content ul {
+    list-style: none;
+    padding: 0;
+    margin: 15px 0;
+}
+
+.rule-content ul li {
+    margin-bottom: 10px;
+    display: flex;
+    gap: 10px;
+}
+
+.rule-content ul li::before {
+    content: '\f00c';
+    font-family: 'Font Awesome 6 Free';
+    font-weight: 900;
+    color: #0093E9;
+    font-size: 12px;
+    margin-top: 5px;
+}
+
+.rule-content .alert-text {
+    background: #fff5f5;
+    border-left: 4px solid #e53e3e;
+    padding: 15px 20px;
+    margin: 20px 0;
+    border-radius: 0 10px 10px 0;
+    font-size: 14px;
+}
+
+.rule-content .alert-text strong {
+    color: #c53030;
+}
+
+.rules-footer {
+    text-align: center;
+    margin-top: 50px;
+    padding: 30px;
+    background: #f8fbff;
+    border-radius: 30px;
+}
+
+.emergency-grid {
+    display: flex;
+    justify-content: center;
+    gap: 40px;
+    margin-top: 20px;
+    flex-wrap: wrap;
+}
+
+.emergency-item {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    gap: 5px;
+}
+
+.emergency-item span {
+    font-size: 12px;
+    text-transform: uppercase;
+    letter-spacing: 1px;
+    color: #566479;
+}
+
+.emergency-item strong {
+    font-size: 20px;
+    color: #1a2a3a;
+    font-family: 'Montserrat', sans-serif;
+}
+
+/* Стили для блока тайминга */
+.timing-centered {
+    display: flex;
+    justify-content: center;
+    gap: 30px;
+    margin-top: 10px;
+}
+
+.time-item {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+}
+
+.time-label {
+    font-size: 12px;
+    text-transform: uppercase;
+    color: #566479;
+    letter-spacing: 1px;
+    margin-bottom: 5px;
+}
+
+.time-value {
+    font-size: 20px;
+    font-weight: 700;
+    color: #1a2a3a;
+    font-family: 'Montserrat', sans-serif;
+}

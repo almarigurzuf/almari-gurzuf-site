@@ -1,0 +1,36 @@
+export const ALL_PLACES = {
+    'taxi-volna': {
+        image: '/assets/guide/taxi-volna.webp',
+        name: 'Такси «Волна»',
+        rating: '4.8',
+        type: 'Заказ такси по всему Крыму',
+        desc: 'Одна из самых популярных служб такси в Крыму. Быстрая подача, фиксированные цены и возможность заказа через приложение или по телефону.',
+        facts: [
+            { icon:'fas fa-phone',label: 'Телефон',value: '+7 (978) 055-05-05' },
+            { icon:'fas fa-mobile-alt',label: 'Приложение',value: 'Метро / Волна' },
+            { icon:'fas fa-car',label: 'Тарифы',value: 'Эконом, Комфорт' },
+        ],
+        phone: '+79780550505',
+        website: 'https://taxi-volna.ru/',
+        category: 'taxi',
+        region: 'all',
+        city: 'all',
+    },
+    'taxi-maxim': {
+        image: '/assets/guide/taxi-maxim.webp',
+        name: 'Такси «Максим»',
+        rating: '4.7',
+        type: 'Сервис заказа такси',
+        desc: 'Крупный федеральный сервис заказа такси. Удобное приложение, широкий выбор тарифов и прозрачное ценообразование.',
+        facts: [
+            { icon:'fas fa-phone',label: 'Телефон',value: '+7 (978) 707-07-07' },
+            { icon:'fas fa-mobile-alt',label: 'Приложение',value: 'Maxim' },
+            { icon:'fas fa-wallet',label: 'Оплата',value: 'Карта, Наличные' },
+        ],
+        phone: '+79787070707',
+        website: 'https://taximaxim.ru/',
+        category: 'taxi',
+        region: 'all',
+        city: 'all',
+    },
+};

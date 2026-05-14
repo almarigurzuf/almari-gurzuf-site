@@ -1,0 +1,236 @@
+footer {
+    background: #1a2a3a;
+    color: white;
+    padding: 80px 0 40px;
+}
+
+.footer-grid {
+    display: grid;
+    grid-template-columns: repeat(4, 1fr); /* Равные колонки для симметрии на ПК */
+    gap: 40px;
+    margin-bottom: 60px;
+}
+
+.footer-block h3.footer-heading {
+    color: white;
+    margin-bottom: 25px;
+    font-size: 18px;
+    text-transform: uppercase;
+    letter-spacing: 1px;
+}
+
+.footer-logo {
+    display: block;
+    margin-bottom: 20px;
+}
+
+.footer-logo svg {
+    width: 180px;
+    height: auto;
+}
+
+.footer-logo .logo-text,
+.footer-logo .logo-text-sub {
+    fill: white !important; /* В футере всегда белый текст */
+}
+
+.footer-about p {
+    font-size: 14px;
+    line-height: 1.8;
+    color: rgba(255, 255, 255, 0.7);
+}
+
+.footer-links {
+    list-style: none;
+    padding: 0;
+}
+
+.footer-links li {
+    margin-bottom: 15px;
+}
+
+.footer-links a {
+    color: rgba(255, 255, 255, 0.7);
+    transition: 0.3s;
+    font-size: 15px;
+}
+
+.footer-links a:hover {
+    color: var(--primary-blue);
+    padding-left: 5px;
+}
+
+.footer-contact-item {
+    display: flex;
+    align-items: center;
+    gap: 15px;
+    margin-bottom: 20px;
+    color: rgba(255, 255, 255, 0.7);
+    font-size: 15px;
+}
+
+.footer-contact-item i {
+    color: var(--primary-blue);
+    font-size: 18px;
+    width: 20px;
+}
+
+.footer-socials {
+    display: flex;
+    gap: 15px;
+    margin-top: 25px;
+}
+
+.footer-social-link {
+    width: 40px;
+    height: 40px;
+    background: rgba(255, 255, 255, 0.1);
+    border-radius: 50%;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    color: white;
+    transition: 0.3s;
+}
+
+.footer-social-link:hover {
+    background: var(--primary-blue);
+    transform: translateY(-3px);
+}
+
+.footer-bottom {
+    padding-top: 40px;
+    border-top: 1px solid rgba(255, 255, 255, 0.1);
+    text-align: center;
+    font-size: 13px;
+    color: rgba(255, 255, 255, 0.5);
+}
+
+/* Адаптивность */
+@media (max-width: 992px) {
+    .footer-grid {
+        grid-template-columns: repeat(2, 1fr);
+        gap: 50px;
+    }
+}
+
+@media (max-width: 768px) {
+    footer {
+        padding: 60px 0 30px;
+        text-align: center;
+    }
+
+    .footer-grid {
+        grid-template-columns: 1fr;
+        gap: 40px;
+    }
+
+    .footer-logo {
+        margin: 0 auto 20px;
+    }
+
+    .footer-contact-item {
+        justify-content: center;
+    }
+
+    .footer-socials {
+        justify-content: center;
+    }
+    
+    .footer-links a:hover {
+        padding-left: 0;
+    }
+
+    .footer-bottom p {
+        display: flex;
+        flex-direction: column;
+        gap: 10px;
+        align-items: center;
+    }
+}
+
+.footer-legal-info {
+    font-size: 13px;
+    opacity: 0.8;
+    margin-top: 15px;
+    flex-direction: column;
+    align-items: flex-start;
+    gap: 5px;
+}
+
+@media (max-width: 768px) {
+    .footer-legal-info {
+        align-items: center !important;
+        text-align: center;
+    }
+}
+
+/* --- Ultra-Wide / 4K Optimization (2560px+) --- */
+@media (min-width: 2000px) {
+    footer {
+        padding: 140px 0 80px;
+    }
+
+    .footer-grid {
+        gap: 80px;
+        margin-bottom: 100px;
+    }
+
+    .footer-block h3.footer-heading {
+        font-size: 32px;
+        margin-bottom: 40px;
+    }
+
+    .footer-logo svg {
+        width: 350px;
+    }
+
+    .footer-about p {
+        font-size: 22px;
+        line-height: 1.8;
+    }
+
+    .footer-links li {
+        margin-bottom: 25px;
+    }
+
+    .footer-links a {
+        font-size: 22px;
+    }
+
+    .footer-contact-item {
+        font-size: 22px;
+        gap: 25px;
+        margin-bottom: 35px;
+    }
+
+    .footer-contact-item i {
+        font-size: 28px;
+        width: 35px;
+    }
+
+    .footer-socials {
+        gap: 25px;
+        margin-top: 45px;
+    }
+
+    .footer-social-link {
+        width: 70px;
+        height: 70px;
+    }
+
+    .footer-social-link i {
+        font-size: 28px;
+    }
+
+    .footer-bottom {
+        padding-top: 80px;
+        font-size: 20px;
+    }
+
+    .footer-legal-info {
+        font-size: 20px;
+        gap: 15px;
+        margin-top: 25px;
+    }
+}

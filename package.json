@@ -1,0 +1,25 @@
+{
+  "name": "almari-gurzuf",
+  "private": true,
+  "version": "0.1.0",
+  "type": "module",
+  "scripts": {
+    "dev": "vite",
+    "build": "vite build && node post-build.cjs",
+    "preview": "vite preview",
+    "deploy": "npm run build && node deploy.js",
+    "db:sort": "node scripts/geo_sort.js",
+    "db:validate": "node scripts/validate_data.js"
+  },
+  "devDependencies": {
+    "basic-ftp": "^6.0.0",
+    "dotenv": "^17.4.2",
+    "sharp": "^0.34.5",
+    "vite": "^5.0.0",
+    "vite-plugin-handlebars": "^2.0.3",
+    "vite-plugin-javascript-obfuscator": "^3.1.0"
+  },
+  "dependencies": {
+    "flatpickr": "^4.6.13"
+  }
+}

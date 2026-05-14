@@ -1,0 +1,276 @@
+<!DOCTYPE html>
+<html lang="ru">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Бронирование | Альмари Гурзуф</title>
+    
+    <!-- Предзагрузка критических ресурсов -->
+    <link rel="preconnect" href="https://fonts.googleapis.com">
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+    <!-- Preload Icons Font for faster FCP/LCP -->
+    <link rel="preload" href="/assets/fonts/fa-solid-900.woff2" as="font" type="font/woff2" crossorigin>
+    <link rel="preload" href="/assets/fonts/fa-regular-400.woff2" as="font" type="font/woff2" crossorigin>
+    
+    <!-- Preload Main Fonts -->
+    <link rel="preload" href="/assets/fonts/inter-cyrillic.woff2" as="font" type="font/woff2" crossorigin>
+    <link rel="preload" href="/assets/fonts/montserrat-cyrillic.woff2" as="font" type="font/woff2" crossorigin>
+
+    <!-- Локальные шрифты и иконки -->
+    <link rel="stylesheet" href="/src/assets/css/local-fonts.css">
+    <link rel="stylesheet" href="/src/assets/css/fontawesome-subset.css" media="print" onload="this.media='all'">
+    
+    <!-- Critical CSS to prevent FOUC -->
+    
+    <style>
+        :root {
+            --primary-blue: #0093E9;
+            --secondary-blue: #80D0C7;
+            --accent-gold: #B8941E;
+            --text-dark: #2c3e50;
+            --font-main: 'Inter', sans-serif;
+            --font-heading: 'Montserrat', sans-serif;
+        }
+        * { margin: 0; padding: 0; box-sizing: border-box; }
+        body { font-family: var(--font-main); color: var(--text-dark); background-color: #f9fbfd; line-height: 1.6; overflow-x: hidden; min-height: 100vh; }
+        
+        /* Header Critical */
+        header { position: fixed; top: 0; left: 0; width: 100%; padding: 10px 0; z-index: 2000; background: transparent; transition: 0.3s; height: 80px; }
+        .nav-wrapper { max-width: 1200px; margin: 0 auto; padding: 0 20px; display: flex; justify-content: space-between; align-items: center; min-height: 40px; }
+        .logo { display: block; width: 180px; height: 50px; }
+        
+        /* Hero Critical - This is where the 0.990 CLS comes from */
+        .hero { 
+            height: 100vh; 
+            height: 100svh; 
+            width: 100%; 
+            position: relative; 
+            display: flex; 
+            align-items: flex-end; 
+            justify-content: center; 
+            background-color: #1a2a3a; 
+            color: white; 
+            padding-bottom: 100px; 
+            
+        }
+        .hero-bg-img { 
+            position: absolute; 
+            top: 0; 
+            left: 0; 
+            width: 100%; 
+            height: 100%; 
+            object-fit: cover; 
+            z-index: 1;
+        }
+        .hero-overlay { 
+            position: absolute; 
+            top: 0; 
+            left: 0; 
+            width: 100%; 
+            height: 100%; 
+            background: rgba(0,0,0,0.4); 
+            z-index: 2; 
+        }
+        .hero-content { 
+            position: relative;
+            z-index: 3;
+            max-width: 900px; 
+            text-align: center; 
+            padding: 0 20px;
+            margin-bottom: 50px;
+        }
+        h1 { 
+            font-family: var(--font-heading); 
+            font-size: clamp(2rem, 8vw, 4rem); 
+            margin-bottom: 20px; 
+            text-shadow: 2px 2px 15px rgba(0,0,0,0.6); 
+            line-height: 1.1;
+        }
+        .btn { display: inline-block; padding: 12px 30px; border-radius: 50px; font-weight: 600; text-transform: uppercase; font-size: 14px; text-decoration: none; }
+        .btn-primary { background: linear-gradient(135deg, var(--primary-blue), var(--secondary-blue)); color: white; }
+        .btn-accent { background: var(--accent-gold); color: white; }
+        
+        /* Pre-reserve space for search panel to prevent main shift */
+        .home-search-section { min-height: 100px; }
+
+        @media (max-width: 768px) {
+            .hero {
+                padding-bottom: 15px !important; /* Еще ниже */
+            }
+            .hero-content {
+                margin-bottom: 5px !important;
+            }
+        }
+    </style>
+    
+    <!-- Календарь Flatpickr -->
+    
+    
+
+    <link rel="icon" type="image/svg+xml" href="/assets/favicon.svg">
+    <link rel="canonical" href="https://almari-gurzuf.ru/booking.html" />
+    <meta name="description" content="Забронируйте премиальные апартаменты в Гурзуфе. Прямое бронирование без комиссий в Альмари Гурзуф, ЖК Наутилус.">
+    
+    <style>
+        /* Минимальные стили для интеграции */
+        body { margin: 0; padding: 0; background: #fff; overflow-x: hidden; font-family: 'Inter', sans-serif; }
+        .booking-section { padding: 80px 0; background: #fcfdfe; min-height: 100vh; }
+        
+        #booking_iframe { 
+            width: 100% !important; 
+            min-height: 600px; 
+            opacity: 0;
+            transition: opacity 0.8s ease-in-out; 
+        }
+        
+        #booking_iframe.loaded {
+            opacity: 1;
+        }
+
+        /* Skeleton Loader */
+        .booking-loader {
+            position: relative;
+            width: 100%;
+            height: 600px;
+            background: linear-gradient(90deg, #f0f2f5 25%, #e0e4e8 50%, #f0f2f5 75%);
+            background-size: 200% 100%;
+            animation: skeleton-loading 1.5s infinite;
+            border-radius: 20px;
+            display: flex;
+            align-items: center;
+            justify-content: center;
+            color: #a0aec0;
+            font-size: 14px;
+            text-transform: uppercase;
+            letter-spacing: 2px;
+        }
+
+        @keyframes skeleton-loading {
+            0% { background-position: 200% 0; }
+            100% { background-position: -200% 0; }
+        }
+
+        @media (max-width: 768px) {
+            .booking-section {
+                padding: 30px 0;
+            }
+            .booking-loader, #booking_iframe {
+                min-height: 500px;
+            }
+        }
+
+        .booking-container {
+            position: relative;
+            min-height: 600px;
+        }
+    </style>
+
+    
+    <!-- /Yandex.Metrika counter -->
+</head>
+<body class="booking-page">
+    <!-- Yandex.Metrika noscript -->
+    <noscript><div><img src="https://mc.yandex.ru/watch/109002654" style="position:absolute; left:-9999px;" alt="" /></div></noscript>
+    <!-- /Yandex.Metrika noscript -->
+
+    {{> header/header}}
+
+    {{> hero/hero}}
+
+    <!-- Модуль бронирования в контексте сайта -->
+    <section class="booking-section">
+        <div class="container booking-container">
+            <div id="booking_loader" class="booking-loader">Загрузка модуля бронирования...</div>
+            <div id="booking_iframe"></div>
+        </div>
+    </section>
+
+    {{> location/location}}
+
+    {{> reviews/reviews}}
+
+    {{> footer/footer}}
+
+    <!-- Скрипты Bnovo -->
+    <script async src="https://widget.reservationsteps.ru/iframe/library/dist/booking_iframe.js" id="bnovo_script"></script>
+    <script type="text/javascript">
+        let bnovoInitialized = false;
+
+        function initBnovo() {
+            if (bnovoInitialized || typeof BookingIframe === 'undefined') {
+                if (!bnovoInitialized && typeof BookingIframe === 'undefined') {
+                    setTimeout(initBnovo, 100);
+                }
+                return;
+            }
+
+            bnovoInitialized = true;
+            const params = new URLSearchParams(window.location.search);
+            
+            // Премиальные стили для модуля Bnovo
+            const luxuryBnovoCss = `
+                :root { --primary-color: #0093E9; }
+                body { font-family: 'Inter', sans-serif !important; }
+                .card__title, h1, h2 { font-family: 'Montserrat', sans-serif !important; font-weight: 700 !important; }
+                .action_primary, .button_primary, .service-cart-modern__main .action_close { 
+                    background: linear-gradient(135deg, #0093E9 0%, #80D0C7 100%) !important;
+                    border: none !important;
+                    border-radius: 12px !important;
+                    text-transform: uppercase !important;
+                    font-weight: 700 !important;
+                }
+                .card { border-radius: 20px !important; border: 1px solid #eee !important; box-shadow: 0 10px 30px rgba(0,0,0,0.05) !important; }
+                .bnovo_link { display: none !important; }
+            `;
+            
+            const cssUrl = "data:text/css;base64," + btoa(unescape(encodeURIComponent(luxuryBnovoCss)));
+
+            var BnovoBookFrame = new BookingIframe({
+              html_id: 'booking_iframe',
+              uid: '2610f035-3b01-4cd0-9bd1-7298c9817370',
+              lang: 'ru',
+              width: 'auto',
+              height: 'auto',
+              dfrom: params.get('dfrom') || '',
+              dto: params.get('dto') || '',
+              adults: params.get('adults') || '2',
+              css_url: cssUrl
+            });
+            BnovoBookFrame.init();
+
+            // Плавное проявление после инициализации
+            const checkLoad = setInterval(() => {
+                const iframe = document.querySelector('#booking_iframe iframe');
+                if (iframe) {
+                    clearInterval(checkLoad);
+                    iframe.setAttribute('title', 'Модуль бронирования апартаментов Альмари Гурзуф');
+                    document.getElementById('booking_iframe').classList.add('loaded');
+                    const loader = document.getElementById('booking_loader');
+                    if (loader) loader.style.display = 'none';
+                }
+            }, 100);
+        }
+
+        document.getElementById('bnovo_script').addEventListener('load', initBnovo);
+        setTimeout(initBnovo, 1000);
+    </script>
+
+    <!-- Скрипт инициализации Vite/Handlebars (если нужен) -->
+    <script type="module" src="./src/main.js"></script>
+
+    <!-- Yandex.Metrika counter (Delayed 3s) -->
+    <script type="text/javascript">
+        window.addEventListener('load', function() {
+            setTimeout(function() {
+                (function(m,e,t,r,i,k,a){
+                    m[i]=m[i]||function(){(m[i].a=m[i].a||[]).push(arguments)};
+                    m[i].l=1*new Date();
+                    for (var j = 0; j < document.scripts.length; j++) {if (document.scripts[j].src === r) { return; }}
+                    k=e.createElement(t),a=e.getElementsByTagName(t)[0],k.async=1,k.src=r,a.parentNode.insertBefore(k,a)
+                })(window, document,'script','https://mc.yandex.ru/metrika/tag.js?id=109002654', 'ym');
+
+                ym(109002654, 'init', {ssr:true, webvisor:true, clickmap:true, ecommerce:"dataLayer", accurateTrackBounce:true, trackLinks:true});
+            }, 3000); });
+    </script>
+</body>
+</html>

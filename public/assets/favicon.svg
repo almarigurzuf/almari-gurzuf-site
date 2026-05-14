@@ -1,0 +1,8 @@
+<svg width="64" height="64" viewBox="0 0 200 200" xmlns="http://www.w3.org/2000/svg">
+    <g transform="translate(20, 15) scale(2)">
+        <path d="M0 30 L20 15 L45 28 L60 22 L80 35" stroke="#D4AF37" stroke-width="3" fill="none" stroke-linecap="round"/>
+        <path d="M0 38 H80" stroke="#D4AF37" stroke-width="1.5" opacity="0.6"/>
+    </g>
+    <text x="100" y="145" font-family="Montserrat, sans-serif" font-weight="700" font-size="46" text-anchor="middle" fill="#000000" style="letter-spacing: 2px;">Альмари</text>
+    <text x="100" y="178" font-family="Inter, sans-serif" font-weight="400" font-size="18" text-anchor="middle" fill="#000000" style="letter-spacing: 10px;">ГУРЗУФ</text>
+</svg>

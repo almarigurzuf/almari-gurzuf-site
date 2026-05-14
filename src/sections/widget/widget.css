@@ -1,0 +1,109 @@
+.map-container {
+    height: 450px;
+    background: #eef2f5;
+    border-radius: 20px;
+    overflow: hidden;
+    box-shadow: 0 10px 30px rgba(0,0,0,0.05);
+}
+
+.contact-widget {
+    position: fixed;
+    bottom: 30px;
+    right: 30px;
+    z-index: 2000;
+}
+
+@media (max-width: 768px) {
+    .contact-widget {
+        right: auto;
+        left: 20px;
+        bottom: 20px;
+    }
+    
+    .contact-menu {
+        right: auto;
+        left: 0;
+    }
+
+    .contact-close {
+        margin-left: 0;
+        margin-right: auto;
+    }
+}
+
+.contact-button {
+    width: 60px;
+    height: 60px;
+    background: var(--primary-blue);
+    border-radius: 50%;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    color: white;
+    font-size: 24px;
+    box-shadow: 0 10px 25px rgba(0, 147, 233, 0.4);
+    cursor: pointer;
+    transition: 0.3s;
+}
+
+.contact-button:hover {
+    transform: scale(1.1) rotate(15deg);
+}
+
+.contact-menu {
+    position: absolute;
+    bottom: 80px;
+    right: 0;
+    display: flex;
+    flex-direction: column;
+    gap: 15px;
+    pointer-events: none;
+    opacity: 0;
+    transform: translateY(20px);
+    transition: 0.4s cubic-bezier(0.175, 0.885, 0.32, 1.275);
+}
+
+.contact-widget.active .contact-menu {
+    pointer-events: auto;
+    opacity: 1;
+    transform: translateY(0);
+}
+
+.contact-item {
+    width: 50px;
+    height: 50px;
+    border-radius: 50%;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    color: white;
+    font-size: 20px;
+    box-shadow: 0 5px 15px rgba(0,0,0,0.1);
+}
+
+.wa { background: #25D366; }
+.tg { background: #0088cc; }
+.max { background: linear-gradient(135deg, #0072FF, #9B51E0); }
+.call { background: var(--primary-blue); color: #fff; box-shadow: 0 4px 15px rgba(0, 147, 233, 0.3); }
+
+.contact-close {
+    width: 30px;
+    height: 30px;
+    background: #e74c3c;
+    color: white;
+    border-radius: 50%;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    font-size: 14px;
+    cursor: pointer;
+    margin-bottom: 5px;
+    margin-left: auto;
+    transition: 0.3s;
+    box-shadow: 0 4px 10px rgba(0,0,0,0.1);
+}
+
+.contact-close:hover {
+    background: #c0392b;
+    transform: scale(1.1);
+}

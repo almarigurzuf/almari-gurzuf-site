@@ -1,0 +1,91 @@
+<div class="guide-tabs">
+    <div class="guide-tabs-inner">
+        <div class="guide-nav">
+            <!-- Ряд 1: Регионы -->
+            <div class="guide-regions-row">
+                <button class="guide-region-btn" data-region="north">
+                    <i class="fas fa-mountain"></i> Север
+                </button>
+                <button class="guide-region-btn" data-region="south">
+                    <i class="fas fa-map-marked-alt"></i> Юг
+                </button>
+                <button class="guide-region-btn" data-region="west">
+                    <i class="fas fa-compass"></i> Запад
+                </button>
+                <button class="guide-region-btn" data-region="east">
+                    <i class="fas fa-landmark"></i> Восток
+                </button>
+            </div>
+
+            <!-- Ряд 2: Города (зависят от региона) -->
+            <div class="guide-cities-row step-hidden" id="guideCitiesContainer">
+                <div class="guide-city-group" id="cities-south">
+                    <button class="guide-tab-btn" data-city="yalta">Ялта</button>
+                    <button class="guide-tab-btn" data-city="alushta">Алушта</button>
+                    <button class="guide-tab-btn" data-city="gurzuf">Гурзуф</button>
+                    <button class="guide-tab-btn" data-city="alupka">Алупка</button>
+                    <button class="guide-tab-btn" data-city="koreiz">Кореиз</button>
+                    <button class="guide-tab-btn" data-city="massandra">Массандра</button>
+                    <button class="guide-tab-btn" data-city="gaspra">Гаспра</button>
+                    <button class="guide-tab-btn" data-city="luchistoe">Лучистое</button>
+                    <button class="guide-tab-btn" data-city="laspi">Ласпи</button>
+                    <button class="guide-tab-btn" data-city="malorechenskoe">Малореченское</button>
+                    <button class="guide-tab-btn" data-city="partenit">Партенит</button>
+                    <button class="guide-tab-btn" data-city="foros">Форос</button>
+                    <button class="guide-tab-btn" data-city="sokolinoe">Соколиное</button>
+                    <button class="guide-tab-btn" data-city="zelenogorye">Зеленогорье</button>
+                </div>
+                <div class="guide-city-group" id="cities-north">
+                    <button class="guide-tab-btn" data-city="simferopol">Симферополь</button>
+                    <button class="guide-tab-btn" data-city="bakhchisarai">Бахчисарай</button>
+                    <button class="guide-tab-btn" data-city="belogorsk">Белогорск</button>
+                    <button class="guide-tab-btn" data-city="mramornoe">Мраморное</button>
+                    <button class="guide-tab-btn" data-city="perevalnoe">Перевальное</button>
+                    <button class="guide-tab-btn" data-city="nauchnyj">Научный</button>
+                </div>
+                <div class="guide-city-group" id="cities-west">
+                    <button class="guide-tab-btn" data-city="sevastopol">Севастополь</button>
+                    <button class="guide-tab-btn" data-city="balaklava">Балаклава</button>
+                    <button class="guide-tab-btn" data-city="evpatoria">Евпатория</button>
+                    <button class="guide-tab-btn" data-city="olenevka">Оленевка</button>
+                    <button class="guide-tab-btn" data-city="saki">Саки</button>
+                    <button class="guide-tab-btn" data-city="chernomorskoe">Черноморское</button>
+                </div>
+                <div class="guide-city-group" id="cities-east">
+                    <button class="guide-tab-btn" data-city="sudak">Судак</button>
+                    <button class="guide-tab-btn" data-city="feodosiya">Феодосия</button>
+                    <button class="guide-tab-btn" data-city="noviy_svet">Новый Свет</button>
+                    <button class="guide-tab-btn" data-city="kerch">Керчь</button>
+                    <button class="guide-tab-btn" data-city="koktebel">Коктебель</button>
+                    <button class="guide-tab-btn" data-city="shhyolkino">Щёлкино</button>
+                    <button class="guide-tab-btn" data-city="staryj-krym">Старый Крым</button>
+                </div>
+            </div>
+
+            <!-- Ряд 3: Категории -->
+            <div class="guide-categories-row step-hidden" id="guideCategoriesContainer">
+                <button class="guide-cat-btn" data-cat="nature">Природа</button>
+                <button class="guide-cat-btn" data-cat="history">История и Культура</button>
+                <button class="guide-cat-btn" data-cat="entertainment">Развлечения</button>
+                <button class="guide-cat-btn" data-cat="beaches">Пляжи и Море</button>
+                <button class="guide-cat-btn" data-cat="food">Еда</button>
+                <button class="guide-cat-btn" data-cat="shops">Магазины</button>
+                <button class="guide-cat-btn" data-cat="kids">Детям</button>
+                <button class="guide-cat-btn" data-cat="mountains">Горы</button>
+                <button class="guide-cat-btn" data-cat="waterfalls">Водопады</button>
+                <button class="guide-cat-btn" data-cat="caves">Пещеры</button>
+                <button class="guide-cat-btn" data-cat="canyons">Каньоны</button>
+                <button class="guide-cat-btn" data-cat="lakes">Озера</button>
+                <button class="guide-cat-btn" data-cat="parks">Заповедники</button>
+                <button class="guide-cat-btn" data-cat="taxi"><i class="fas fa-taxi"></i> Такси</button>
+            </div>
+        </div>
+    </div>
+</div>
+
+<!-- Контейнер для динамического рендера карточек -->
+<div class="container step-hidden" style="margin-top: 2rem;">
+    <div class="guide-grid" id="guideCardsContainer">
+        <!-- Сюда вставляются карточки -->
+    </div>
+</div>

@@ -1,0 +1,81 @@
+.guide-banner-section {
+    padding: 40px 0;
+    background: #f4f7fb;
+}
+
+.guide-banner {
+    background: linear-gradient(135deg, #1a2a3a 0%, #0d3a5c 100%);
+    border-radius: 20px;
+    padding: 36px 40px;
+    display: flex;
+    align-items: center;
+    gap: 28px;
+}
+
+.guide-banner-icon {
+    width: 64px;
+    height: 64px;
+    background: rgba(0, 147, 233, 0.2);
+    border-radius: 16px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    flex-shrink: 0;
+    font-size: 1.8rem;
+    color: #0093E9;
+}
+
+.guide-banner-content {
+    flex: 1;
+}
+
+.guide-banner-content h3 {
+    font-family: 'Montserrat', sans-serif;
+    font-size: 1.3rem;
+    font-weight: 700;
+    color: white;
+    margin-bottom: 6px;
+}
+
+.guide-banner-content p {
+    font-size: 0.95rem;
+    color: rgba(255, 255, 255, 0.85); /* Increased opacity for contrast */
+    line-height: 1.5;
+}
+
+.guide-banner-btn {
+    display: inline-flex;
+    align-items: center;
+    gap: 10px;
+    background: #0071b5; /* Darker blue for contrast */
+    color: white;
+    text-decoration: none;
+    padding: 14px 28px;
+    border-radius: 50px;
+    font-family: 'Montserrat', sans-serif;
+    font-weight: 600;
+    font-size: 0.9rem;
+    letter-spacing: 0.5px;
+    white-space: nowrap;
+    flex-shrink: 0;
+    transition: opacity 0.2s, transform 0.2s;
+}
+
+.guide-banner-btn:hover {
+    opacity: 0.9;
+    transform: translateY(-2px);
+}
+
+@media (max-width: 768px) {
+    .guide-banner {
+        flex-direction: column;
+        text-align: center;
+        padding: 28px 24px;
+        gap: 20px;
+    }
+
+    .guide-banner-btn {
+        width: 100%;
+        justify-content: center;
+    }
+}

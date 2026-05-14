@@ -1,0 +1,1339 @@
+=== ПОЛНЫЙ СПИСОК ВСЕХ ЛОКАЦИЙ ПУТЕВОДИТЕЛЯ ===
+
+Всего найдено: 1333 локаций.
+
+Формат: [ГОРОД] | [КАТЕГОРИЯ] | [НАЗВАНИЕ] | [ID] | [ПУТЬ К ФОТО]
+--------------------------------------------------------------------------------
+ALL             | other           | Ласточкино гнездо                        | swallows-nest                  | /assets/guide/crimea/swallows-nest.jpg
+ALL             | other           | Ливадийский дворец                       | livadia-palace                 | /assets/guide/crimea/livadia-palace.jpg
+ALL             | other           | Воронцовский дворец                      | vorontsov-palace               | /assets/guide/crimea/vorontsov-palace.jpg
+ALL             | other           | Ай-Петри                                 | ai-petri                       | /assets/guide/crimea/ai-petri.jpg
+ALL             | other           | Никитский ботанический сад               | nikitsky-garden                | /assets/guide/crimea/nikitsky-garden.jpg
+ALL             | other           | Дача А.П. Чехова                         | chekhov-dacha                  | /assets/guide/gurzuf/chekhov_museum.png
+ALL             | other           | Херсонес Таврический                     | chersonesus                    | /assets/guide/sevastopol/chersonesus_taurica_sevastopol.webp
+ALL             | other           | Музей подводных лодок                    | balaklava-base                 | /assets/guide/balaklava/maxres.webp
+ALL             | other           | Генуэзская крепость                      | sudak-fortress                 | /assets/guide/sudak/sudak.webp
+ALL             | other           | Тропа Голицына                           | golitsyn-trail                 | /assets/guide/sudak/noviy-svet.webp
+ALL             | other           | Парк «Дримвуд»                           | dreamwood-park                 | /assets/guide/kids/Drimwood.webp
+ALL             | other           | Парк львов «Тайган»                      | taigan-safari                  | НЕТ ФОТО
+ALL             | other           | Аквапарк «Атлантида»                     | atlantida-waterpark            | /assets/guide/yalta/Aquapark.jpg
+ALL             | other           | Кафе «Сомелье»                           | sommelier-gurzuf               | /assets/guide/gurzuf/cafe-somelie.webp
+ALL             | other           | Ресторан «Венеция»                       | venice-gurzuf                  | /assets/guide/gurzuf/venezia_cafe.png
+ALL             | other           | Супермаркет «ПУД»                        | pud-gurzuf                     | /assets/guide/gurzuf/pud.webp
+ALL             | other           | Набережная Ялты                          | yalta-embankment               | /assets/guide/yalta/yalta.jpg
+ALL             | other           | Белая Дача (Дом Чехова)                  | white-dacha-yalta              | /assets/guide/yalta/dacha.jpg
+ALL             | other           | Пляж Массандра                           | massandra-beach                | /assets/guide/yalta/Masandra.webp
+ALL             | other           | Панорама «Оборона Севастополя»           | sevastopol-panorama            | /assets/guide/sevastopol/panorama-oborona-sevastopolya.webp
+ALL             | history         | Малахов курган                           | malakhov-kurgan                | /assets/guide/sevastopol/MalahovKurgan.jpg
+ALL             | other           | Центральный пляж Гурзуфа                 | gurzuf-central-beach           | /assets/guide/gurzuf/gurzuf-central-beach.png
+ALL             | other           | Магазин «Смакмаркет»                     | smakmarket-gurzuf              | /assets/guide/gurzuf/SmakMarket.webp
+ALL             | other           | Гурзуфский рынок                         | market-gurzuf                  | /assets/guide/gurzuf/Bazar.webp
+ALL             | food            | Кафе «Мольберт»                          | molbert-cafe                   | /assets/guide/gurzuf/molbert.png
+ALL             | other           | Гурзуфский парк                          | gurzuf-park                    | /assets/guide/gurzuf/gurzuf_park.png
+ALL             | other           | Скалы Адалары                            | adalary-rocks                  | /assets/guide/gurzuf/adalary.png
+ALL             | other           | Собор Александра Невского                | alexander-nevsky-yalta         | НЕТ ФОТО
+ALL             | other           | Ялтинский аквариум                       | yalta-aquarium                 | /assets/guide/yalta/Akvarium.webp
+ALL             | other           | Ялтинский крокодиляриум                  | yalta-crocodilearium           | /assets/guide/yalta/Krokodelarium.webp
+ALL             | other           | Памятник затопленным кораблям            | sevastopol-monument-sunken-ships | /assets/guide/sevastopol/zatoplennimkoroblam.webp
+ALL             | other           | Графская пристань                        | sevastopol-grafskaya-pristan   | НЕТ ФОТО
+ALL             | other           | Долина Привидений                        | ghost-valley                   | /assets/guide/alushta/ghost-valley.jpg
+ALL             | other           | Водопад Джур-Джур                        | dzhur-dzhur                    | /assets/guide/alushta/dzhur-dzhur.jpg
+ALL             | other           | Алуштинский аквариум                     | alushta-aquarium               | /assets/guide/alushta/aquarium.jpg
+ALL             | other           | Мыс Алчак                                | alchak-cape                    | /assets/guide/sudak/Alchak.webp
+ALL             | other           | Мыс Меганом                              | meganom-cape                   | /assets/guide/sudak/meganom.webp
+ALL             | other           | Городской пляж Судака                    | sudak-beach                    | /assets/guide/sudak/PlajSudak.webp
+ALL             | other           | Крепость Чембало                         | chembalo-fortress              | /assets/guide/balaklava/krepost-chembalo.jpg
+ALL             | taxi            | Такси «Волна»                            | taxi-volna                     | /assets/guide/gurzuf/Volna.png
+ALL             | taxi            | Такси «Максим»                           | taxi-maxim                     | /assets/guide/gurzuf/Maxim.png
+ALUPKA          | mountains       | Озеро у скалы Шаан-Кая                   | mountains-place-0              | НЕТ ФОТО
+ALUPKA          | mountains       | Гора Шаан-Кая                            | mountains-place-7              | НЕТ ФОТО
+ALUPKA          | lakes           | Озеро у скалы Шаан-Кая                   | lakes-place-0                  | НЕТ ФОТО
+ALUPKA          | mountains       | Гора Шаан-Кая                            | shaan-kaya                     | НЕТ ФОТО
+ALUPKA          | lakes           | Озеро у скалы Шаан-Кая                   | shaan-kaya-lake                | НЕТ ФОТО
+ALUPKA          | history         | Музей Амет-Хана Султана                  | amet-khan-museum               | НЕТ ФОТО
+ALUPKA          | nature          | Скала Айвазовского                       | aivazovsky-rock                | НЕТ ФОТО
+ALUPKA          | history         | Храм Архангела Михаила                   | michael-archangel-church       | НЕТ ФОТО
+ALUPKA          | parks           | Воронцовский парк                        | vorontsov-park-full            | НЕТ ФОТО
+ALUSHTA         | waterfalls      | Арпатский водопад                        | waterfalls-place-0             | НЕТ ФОТО
+ALUSHTA         | waterfalls      | Водопад Джур-Джур                        | waterfalls-place-2             | /assets/guide/alushta/dzhur-dzhur.jpg
+ALUSHTA         | waterfalls      | Водопад Головкинского (ущелье Яман-Дере) | waterfalls-place-7             | НЕТ ФОТО
+ALUSHTA         | waterfalls      | Водопад Гейзер                           | waterfalls-place-10            | НЕТ ФОТО
+ALUSHTA         | caves           | Большой Бузлук (Ледяная пещера)          | caves-place-2                  | НЕТ ФОТО
+ALUSHTA         | caves           | Пещера «Трехглазка»                      | caves-place-10                 | НЕТ ФОТО
+ALUSHTA         | lakes           | Горное озеро «Кастель»                   | lakes-place-3                  | НЕТ ФОТО
+ALUSHTA         | sights          | Место 649                                | place_649                      | /assets/guide/alushta/ghost-valley.jpg
+ALUSHTA         | sights          | Место 650                                | place_650                      | НЕТ ФОТО
+ALUSHTA         | sights          | Место 651                                | place_651                      | НЕТ ФОТО
+ALUSHTA         | sights          | Место 652                                | place_652                      | НЕТ ФОТО
+ALUSHTA         | sights          | Место 653                                | place_653                      | НЕТ ФОТО
+ALUSHTA         | sights          | Место 654                                | place_654                      | НЕТ ФОТО
+ALUSHTA         | sights          | Место 655                                | place_655                      | НЕТ ФОТО
+ALUSHTA         | sights          | Место 656                                | place_656                      | НЕТ ФОТО
+ALUSHTA         | sights          | Место 657                                | place_657                      | /assets/guide/alushta/dzhur-dzhur.jpg
+ALUSHTA         | sights          | Место 658                                | place_658                      | НЕТ ФОТО
+ALUSHTA         | sights          | Место 659                                | place_659                      | НЕТ ФОТО
+ALUSHTA         | sights          | Место 660                                | place_660                      | НЕТ ФОТО
+ALUSHTA         | sights          | Место 661                                | place_661                      | НЕТ ФОТО
+ALUSHTA         | sights          | Место 662                                | place_662                      | НЕТ ФОТО
+ALUSHTA         | sights          | Место 663                                | place_663                      | НЕТ ФОТО
+ALUSHTA         | sights          | Место 664                                | place_664                      | НЕТ ФОТО
+ALUSHTA         | sights          | Место 665                                | place_665                      | /assets/guide/alushta/gagarina-palace.jpg
+ALUSHTA         | sights          | Место 666                                | place_666                      | НЕТ ФОТО
+ALUSHTA         | sights          | Место 667                                | place_667                      | НЕТ ФОТО
+ALUSHTA         | sights          | Место 668                                | place_668                      | НЕТ ФОТО
+ALUSHTA         | sights          | Место 669                                | place_669                      | НЕТ ФОТО
+ALUSHTA         | sights          | Место 670                                | place_670                      | НЕТ ФОТО
+ALUSHTA         | sights          | Место 671                                | place_671                      | НЕТ ФОТО
+ALUSHTA         | sights          | Место 672                                | place_672                      | НЕТ ФОТО
+ALUSHTA         | sights          | Место 673                                | place_673                      | /assets/guide/alushta/alushta-nab.jpg
+ALUSHTA         | sights          | Место 674                                | place_674                      | НЕТ ФОТО
+ALUSHTA         | sights          | Место 675                                | place_675                      | НЕТ ФОТО
+ALUSHTA         | sights          | Место 676                                | place_676                      | НЕТ ФОТО
+ALUSHTA         | sights          | Место 677                                | place_677                      | НЕТ ФОТО
+ALUSHTA         | sights          | Место 678                                | place_678                      | НЕТ ФОТО
+ALUSHTA         | sights          | Место 679                                | place_679                      | НЕТ ФОТО
+ALUSHTA         | sights          | Место 680                                | place_680                      | НЕТ ФОТО
+ALUSHTA         | sights          | Место 681                                | place_681                      | /assets/guide/alushta/miniature-park.jpg
+ALUSHTA         | sights          | Место 682                                | place_682                      | НЕТ ФОТО
+ALUSHTA         | sights          | Место 683                                | place_683                      | НЕТ ФОТО
+ALUSHTA         | sights          | Место 684                                | place_684                      | НЕТ ФОТО
+ALUSHTA         | sights          | Место 685                                | place_685                      | НЕТ ФОТО
+ALUSHTA         | sights          | Место 686                                | place_686                      | НЕТ ФОТО
+ALUSHTA         | sights          | Место 687                                | place_687                      | НЕТ ФОТО
+ALUSHTA         | sights          | Место 688                                | place_688                      | НЕТ ФОТО
+ALUSHTA         | sights          | Место 689                                | place_689                      | /assets/guide/alushta/aquarium.jpg
+ALUSHTA         | sights          | Место 690                                | place_690                      | НЕТ ФОТО
+ALUSHTA         | sights          | Место 691                                | place_691                      | НЕТ ФОТО
+ALUSHTA         | sights          | Место 692                                | place_692                      | НЕТ ФОТО
+ALUSHTA         | sights          | Место 693                                | place_693                      | НЕТ ФОТО
+ALUSHTA         | sights          | Место 694                                | place_694                      | НЕТ ФОТО
+ALUSHTA         | sights          | Место 695                                | place_695                      | НЕТ ФОТО
+ALUSHTA         | sights          | Место 696                                | place_696                      | НЕТ ФОТО
+ALUSHTA         | sights          | Место 697                                | place_697                      | /assets/guide/alushta/dolphinarium.jpg
+ALUSHTA         | sights          | Место 698                                | place_698                      | НЕТ ФОТО
+ALUSHTA         | sights          | Место 699                                | place_699                      | НЕТ ФОТО
+ALUSHTA         | sights          | Место 700                                | place_700                      | НЕТ ФОТО
+ALUSHTA         | sights          | Место 701                                | place_701                      | НЕТ ФОТО
+ALUSHTA         | sights          | Место 702                                | place_702                      | НЕТ ФОТО
+ALUSHTA         | sights          | Место 703                                | place_703                      | НЕТ ФОТО
+ALUSHTA         | sights          | Место 704                                | place_704                      | НЕТ ФОТО
+ALUSHTA         | food            | Место 705                                | place_705                      | /assets/guide/alushta/dorado.jpg
+ALUSHTA         | food            | Место 706                                | place_706                      | НЕТ ФОТО
+ALUSHTA         | food            | Место 707                                | place_707                      | НЕТ ФОТО
+ALUSHTA         | food            | Место 708                                | place_708                      | НЕТ ФОТО
+ALUSHTA         | food            | Место 709                                | place_709                      | НЕТ ФОТО
+ALUSHTA         | food            | Место 710                                | place_710                      | НЕТ ФОТО
+ALUSHTA         | food            | Место 711                                | place_711                      | НЕТ ФОТО
+ALUSHTA         | food            | Место 712                                | place_712                      | /assets/guide/alushta/vstrecha.jpg
+ALUSHTA         | food            | Место 713                                | place_713                      | НЕТ ФОТО
+ALUSHTA         | food            | Место 714                                | place_714                      | НЕТ ФОТО
+ALUSHTA         | food            | Место 715                                | place_715                      | НЕТ ФОТО
+ALUSHTA         | food            | Место 716                                | place_716                      | НЕТ ФОТО
+ALUSHTA         | food            | Место 717                                | place_717                      | НЕТ ФОТО
+ALUSHTA         | food            | Место 718                                | place_718                      | НЕТ ФОТО
+ALUSHTA         | food            | Место 719                                | place_719                      | /assets/guide/alushta/library.jpg
+ALUSHTA         | food            | Место 720                                | place_720                      | НЕТ ФОТО
+ALUSHTA         | food            | Место 721                                | place_721                      | НЕТ ФОТО
+ALUSHTA         | food            | Место 722                                | place_722                      | НЕТ ФОТО
+ALUSHTA         | food            | Место 723                                | place_723                      | НЕТ ФОТО
+ALUSHTA         | food            | Место 724                                | place_724                      | НЕТ ФОТО
+ALUSHTA         | food            | Место 725                                | place_725                      | НЕТ ФОТО
+ALUSHTA         | food            | Место 726                                | place_726                      | /assets/guide/alushta/barabulya-bar.jpg
+ALUSHTA         | food            | Место 727                                | place_727                      | НЕТ ФОТО
+ALUSHTA         | food            | Место 728                                | place_728                      | НЕТ ФОТО
+ALUSHTA         | food            | Место 729                                | place_729                      | НЕТ ФОТО
+ALUSHTA         | food            | Место 730                                | place_730                      | НЕТ ФОТО
+ALUSHTA         | food            | Место 731                                | place_731                      | НЕТ ФОТО
+ALUSHTA         | food            | Место 732                                | place_732                      | НЕТ ФОТО
+ALUSHTA         | food            | Место 733                                | place_733                      | /assets/guide/alushta/khinkalych.jpg
+ALUSHTA         | food            | Место 734                                | place_734                      | НЕТ ФОТО
+ALUSHTA         | food            | Место 735                                | place_735                      | НЕТ ФОТО
+ALUSHTA         | food            | Место 736                                | place_736                      | НЕТ ФОТО
+ALUSHTA         | food            | Место 737                                | place_737                      | НЕТ ФОТО
+ALUSHTA         | food            | Место 738                                | place_738                      | НЕТ ФОТО
+ALUSHTA         | food            | Место 739                                | place_739                      | НЕТ ФОТО
+ALUSHTA         | food            | Место 740                                | place_740                      | НЕТ ФОТО
+ALUSHTA         | food            | Место 741                                | place_741                      | НЕТ ФОТО
+ALUSHTA         | food            | Место 742                                | place_742                      | НЕТ ФОТО
+ALUSHTA         | food            | Место 743                                | place_743                      | НЕТ ФОТО
+ALUSHTA         | food            | Место 744                                | place_744                      | НЕТ ФОТО
+ALUSHTA         | food            | Место 745                                | place_745                      | НЕТ ФОТО
+ALUSHTA         | food            | Место 746                                | place_746                      | НЕТ ФОТО
+ALUSHTA         | food            | Место 747                                | place_747                      | НЕТ ФОТО
+ALUSHTA         | history         | Имение Карасан                           | karasan-estate                 | НЕТ ФОТО
+ALUSHTA         | history         | Дворец княгини Гагариной                 | gagarina-palace                | НЕТ ФОТО
+ALUSHTA         | history         | Крепость Алустон                         | aluston-fortress               | НЕТ ФОТО
+ALUSHTA         | waterfalls      | Водопад Головкинского                    | golovkinsky-waterfall          | НЕТ ФОТО
+ALUSHTA         | nature          | Родник Ай-Йори                           | ai-yori-spring                 | НЕТ ФОТО
+ALUSHTA         | lakes           | Изобильненское водохранилище             | izobilnoe-reservoir            | НЕТ ФОТО
+ALUSHTA         | entertainment   | Дельфинарий «Акварель»                   | akvarel-dolphinarium           | НЕТ ФОТО
+ALUSHTA         | kids            | Крым в миниатюре                         | crimea-miniature               | НЕТ ФОТО
+ALUSHTA         | food            | Жюль Верн                                | jules-verne-alushta            | /assets/guide/alushta/vstrecha.jpg
+ALUSHTA         | food            | Дорадо                                   | dorado-alushta                 | /assets/guide/alushta/dorado.jpg
+BAKHCHISARAI    | waterfalls      | Водопад Суаткан                          | waterfalls-place-5             | НЕТ ФОТО
+BAKHCHISARAI    | lakes           | Мангупское озеро                         | lakes-place-10                 | НЕТ ФОТО
+BAKHCHISARAI    | history         | Ханский дворец                           | khan-palace                    | НЕТ ФОТО
+BAKHCHISARAI    | history         | Бисерный храм                            | beaded-church                  | НЕТ ФОТО
+BAKHCHISARAI    | nature          | Сфинксы Каралезской долины               | karalez-sphinxes               | НЕТ ФОТО
+BAKHCHISARAI    | lakes           | Озеро Крепкое                            | krepostnoe-lake                | НЕТ ФОТО
+BAKHCHISARAI    | waterfalls      | Водопад Суаткан                          | suatkan-waterfall              | НЕТ ФОТО
+BAKHCHISARAI    | food            | Винодельня Alma Valley                   | alma-valley                    | НЕТ ФОТО
+BAKHCHISARAI    | nature          | Источник Аджи-Су                         | adzhi-su-spring                | НЕТ ФОТО
+BAKHCHISARAI    | kids            | Парк миниатюр (Бахчисарай)               | bakhchisarai-miniature         | НЕТ ФОТО
+BAKHCHISARAI    | history         | Свято-Успенский монастырь                | uspensky-monastery             | НЕТ ФОТО
+BAKHCHISARAI    | lakes           | Мангупское озеро                         | mangup-lake                    | НЕТ ФОТО
+BAKHCHISARAI    | kids            | Ферма «Чудо Ослик»                       | donkey-farm                    | НЕТ ФОТО
+BAKHCHISARAI    | history         | Чуфут-Кале                               | chufut-kale                    | НЕТ ФОТО
+BAKHCHISARAI    | history         | Эски-Кермен                              | eski-kermen                    | НЕТ ФОТО
+BALAKLAVA       | mountains       | Мердвен-Тобе и Коба-Чаир                 | mountains-place-5              | НЕТ ФОТО
+BALAKLAVA       | mountains       | Гора Аскети (Спилия)                     | mountains-place-9              | НЕТ ФОТО
+BALAKLAVA       | waterfalls      | Мердвен-Тобе и Коба-Чаир                 | waterfalls-place-3             | НЕТ ФОТО
+BALAKLAVA       | waterfalls      | Водопад козырек                          | waterfalls-place-6             | НЕТ ФОТО
+BALAKLAVA       | caves           | Пещера Фатьма — Коба                     | caves-place-4                  | НЕТ ФОТО
+BALAKLAVA       | canyons         | Чернореченский каньон                    | canyons-place-5                | /assets/guide/crimea/grand_canyon.png
+BALAKLAVA       | sights          | Место 307                                | place_307                      | /assets/guide/balaklava/balaklava.webp
+BALAKLAVA       | sights          | Место 308                                | place_308                      | НЕТ ФОТО
+BALAKLAVA       | sights          | Место 309                                | place_309                      | НЕТ ФОТО
+BALAKLAVA       | sights          | Место 310                                | place_310                      | НЕТ ФОТО
+BALAKLAVA       | sights          | Место 311                                | place_311                      | НЕТ ФОТО
+BALAKLAVA       | sights          | Место 312                                | place_312                      | НЕТ ФОТО
+BALAKLAVA       | sights          | Место 313                                | place_313                      | НЕТ ФОТО
+BALAKLAVA       | sights          | Место 314                                | place_314                      | НЕТ ФОТО
+BALAKLAVA       | sights          | Место 315                                | place_315                      | /assets/guide/balaklava/maxres.webp
+BALAKLAVA       | sights          | Место 316                                | place_316                      | НЕТ ФОТО
+BALAKLAVA       | sights          | Место 317                                | place_317                      | НЕТ ФОТО
+BALAKLAVA       | sights          | Место 318                                | place_318                      | НЕТ ФОТО
+BALAKLAVA       | sights          | Место 319                                | place_319                      | НЕТ ФОТО
+BALAKLAVA       | sights          | Место 320                                | place_320                      | НЕТ ФОТО
+BALAKLAVA       | sights          | Место 321                                | place_321                      | НЕТ ФОТО
+BALAKLAVA       | sights          | Место 322                                | place_322                      | НЕТ ФОТО
+BALAKLAVA       | sights          | Место 323                                | place_323                      | /assets/guide/balaklava/krepost-chembalo.webp
+BALAKLAVA       | sights          | Место 324                                | place_324                      | НЕТ ФОТО
+BALAKLAVA       | sights          | Место 325                                | place_325                      | НЕТ ФОТО
+BALAKLAVA       | sights          | Место 326                                | place_326                      | НЕТ ФОТО
+BALAKLAVA       | sights          | Место 327                                | place_327                      | НЕТ ФОТО
+BALAKLAVA       | sights          | Место 328                                | place_328                      | НЕТ ФОТО
+BALAKLAVA       | sights          | Место 329                                | place_329                      | НЕТ ФОТО
+BALAKLAVA       | sights          | Место 330                                | place_330                      | НЕТ ФОТО
+BALAKLAVA       | sights          | Место 331                                | place_331                      | /assets/guide/balaklava/NaberejnayaNazukina.webp
+BALAKLAVA       | sights          | Место 332                                | place_332                      | НЕТ ФОТО
+BALAKLAVA       | sights          | Место 333                                | place_333                      | НЕТ ФОТО
+BALAKLAVA       | sights          | Место 334                                | place_334                      | НЕТ ФОТО
+BALAKLAVA       | sights          | Место 335                                | place_335                      | НЕТ ФОТО
+BALAKLAVA       | sights          | Место 336                                | place_336                      | НЕТ ФОТО
+BALAKLAVA       | sights          | Место 337                                | place_337                      | НЕТ ФОТО
+BALAKLAVA       | sights          | Место 338                                | place_338                      | НЕТ ФОТО
+BALAKLAVA       | food            | Место 339                                | place_339                      | /assets/guide/balaklava/zolotaya_balka_balaklava.webp
+BALAKLAVA       | food            | Место 340                                | place_340                      | НЕТ ФОТО
+BALAKLAVA       | food            | Место 341                                | place_341                      | НЕТ ФОТО
+BALAKLAVA       | food            | Место 342                                | place_342                      | НЕТ ФОТО
+BALAKLAVA       | food            | Место 343                                | place_343                      | НЕТ ФОТО
+BALAKLAVA       | food            | Место 344                                | place_344                      | НЕТ ФОТО
+BALAKLAVA       | food            | Место 345                                | place_345                      | НЕТ ФОТО
+BALAKLAVA       | food            | Место 346                                | place_346                      | /assets/guide/balaklava/tatyanin_mys_balaklava.webp
+BALAKLAVA       | food            | Место 347                                | place_347                      | НЕТ ФОТО
+BALAKLAVA       | food            | Место 348                                | place_348                      | НЕТ ФОТО
+BALAKLAVA       | food            | Место 349                                | place_349                      | НЕТ ФОТО
+BALAKLAVA       | food            | Место 350                                | place_350                      | НЕТ ФОТО
+BALAKLAVA       | food            | Место 351                                | place_351                      | НЕТ ФОТО
+BALAKLAVA       | food            | Место 352                                | place_352                      | НЕТ ФОТО
+BALAKLAVA       | food            | Место 353                                | place_353                      | /assets/guide/balaklava/prince_restaurant_balaklava.webp
+BALAKLAVA       | food            | Место 354                                | place_354                      | НЕТ ФОТО
+BALAKLAVA       | food            | Место 355                                | place_355                      | НЕТ ФОТО
+BALAKLAVA       | food            | Место 356                                | place_356                      | НЕТ ФОТО
+BALAKLAVA       | food            | Место 357                                | place_357                      | НЕТ ФОТО
+BALAKLAVA       | food            | Место 358                                | place_358                      | НЕТ ФОТО
+BALAKLAVA       | food            | Место 359                                | place_359                      | НЕТ ФОТО
+BALAKLAVA       | food            | Место 360                                | place_360                      | /assets/guide/balaklava/oblaka_restaurant_balaklava.webp
+BALAKLAVA       | food            | Место 361                                | place_361                      | НЕТ ФОТО
+BALAKLAVA       | food            | Место 362                                | place_362                      | НЕТ ФОТО
+BALAKLAVA       | food            | Место 363                                | place_363                      | НЕТ ФОТО
+BALAKLAVA       | food            | Место 364                                | place_364                      | НЕТ ФОТО
+BALAKLAVA       | food            | Место 365                                | place_365                      | НЕТ ФОТО
+BALAKLAVA       | food            | Место 366                                | place_366                      | НЕТ ФОТО
+BALAKLAVA       | food            | Место 367                                | place_367                      | /assets/guide/balaklava/fishermans_hut_balaklava.webp
+BALAKLAVA       | food            | Место 368                                | place_368                      | НЕТ ФОТО
+BALAKLAVA       | food            | Место 369                                | place_369                      | НЕТ ФОТО
+BALAKLAVA       | food            | Место 370                                | place_370                      | НЕТ ФОТО
+BALAKLAVA       | food            | Место 371                                | place_371                      | НЕТ ФОТО
+BALAKLAVA       | food            | Место 372                                | place_372                      | НЕТ ФОТО
+BALAKLAVA       | food            | Место 373                                | place_373                      | НЕТ ФОТО
+BALAKLAVA       | food            | Место 374                                | place_374                      | /assets/guide/balaklava/marina_restaurant_balaklava.webp
+BALAKLAVA       | food            | Место 375                                | place_375                      | НЕТ ФОТО
+BALAKLAVA       | food            | Место 376                                | place_376                      | НЕТ ФОТО
+BALAKLAVA       | food            | Место 377                                | place_377                      | НЕТ ФОТО
+BALAKLAVA       | food            | Место 378                                | place_378                      | НЕТ ФОТО
+BALAKLAVA       | food            | Место 379                                | place_379                      | НЕТ ФОТО
+BALAKLAVA       | food            | Место 380                                | place_380                      | НЕТ ФОТО
+BALAKLAVA       | food            | Место 381                                | place_381                      | /assets/guide/balaklava/mimino_balaklava.webp
+BALAKLAVA       | food            | Место 382                                | place_382                      | НЕТ ФОТО
+BALAKLAVA       | food            | Место 383                                | place_383                      | НЕТ ФОТО
+BALAKLAVA       | food            | Место 384                                | place_384                      | НЕТ ФОТО
+BALAKLAVA       | food            | Место 385                                | place_385                      | НЕТ ФОТО
+BALAKLAVA       | food            | Место 386                                | place_386                      | НЕТ ФОТО
+BALAKLAVA       | food            | Место 387                                | place_387                      | НЕТ ФОТО
+BALAKLAVA       | food            | Место 388                                | place_388                      | /assets/guide/balaklava/kefalo_vrisi_balaklava.webp
+BALAKLAVA       | food            | Место 389                                | place_389                      | НЕТ ФОТО
+BALAKLAVA       | food            | Место 390                                | place_390                      | НЕТ ФОТО
+BALAKLAVA       | food            | Место 391                                | place_391                      | НЕТ ФОТО
+BALAKLAVA       | food            | Место 392                                | place_392                      | НЕТ ФОТО
+BALAKLAVA       | food            | Место 393                                | place_393                      | НЕТ ФОТО
+BALAKLAVA       | food            | Место 394                                | place_394                      | НЕТ ФОТО
+BALAKLAVA       | food            | Место 395                                | place_395                      | /assets/guide/balaklava/kapral_cafe_balaklava.webp
+BALAKLAVA       | food            | Место 396                                | place_396                      | НЕТ ФОТО
+BALAKLAVA       | food            | Место 397                                | place_397                      | НЕТ ФОТО
+BALAKLAVA       | food            | Место 398                                | place_398                      | НЕТ ФОТО
+BALAKLAVA       | food            | Место 399                                | place_399                      | НЕТ ФОТО
+BALAKLAVA       | food            | Место 400                                | place_400                      | НЕТ ФОТО
+BALAKLAVA       | food            | Место 401                                | place_401                      | НЕТ ФОТО
+BALAKLAVA       | food            | Место 402                                | place_402                      | /assets/guide/balaklava/balaklava_restaurant_balaklava.webp
+BALAKLAVA       | food            | Место 403                                | place_403                      | НЕТ ФОТО
+BALAKLAVA       | food            | Место 404                                | place_404                      | НЕТ ФОТО
+BALAKLAVA       | food            | Место 405                                | place_405                      | НЕТ ФОТО
+BALAKLAVA       | food            | Место 406                                | place_406                      | НЕТ ФОТО
+BALAKLAVA       | food            | Место 407                                | place_407                      | НЕТ ФОТО
+BALAKLAVA       | food            | Место 408                                | place_408                      | НЕТ ФОТО
+BALAKLAVA       | food            | Место 409                                | place_409                      | /assets/guide/balaklava/paradise_restaurant_balaklava.webp
+BALAKLAVA       | food            | Место 410                                | place_410                      | НЕТ ФОТО
+BALAKLAVA       | food            | Место 411                                | place_411                      | НЕТ ФОТО
+BALAKLAVA       | food            | Место 412                                | place_412                      | НЕТ ФОТО
+BALAKLAVA       | food            | Место 413                                | place_413                      | НЕТ ФОТО
+BALAKLAVA       | food            | Место 414                                | place_414                      | НЕТ ФОТО
+BALAKLAVA       | food            | Место 415                                | place_415                      | НЕТ ФОТО
+BALAKLAVA       | food            | Место 416                                | place_416                      | /assets/guide/balaklava/gusto_balaklava.webp
+BALAKLAVA       | food            | Место 417                                | place_417                      | НЕТ ФОТО
+BALAKLAVA       | food            | Место 418                                | place_418                      | НЕТ ФОТО
+BALAKLAVA       | food            | Место 419                                | place_419                      | НЕТ ФОТО
+BALAKLAVA       | food            | Место 420                                | place_420                      | НЕТ ФОТО
+BALAKLAVA       | food            | Место 421                                | place_421                      | НЕТ ФОТО
+BALAKLAVA       | food            | Место 422                                | place_422                      | НЕТ ФОТО
+BALAKLAVA       | nature          | Балаклавская бухта                       | balaklava-bay                  | НЕТ ФОТО
+BALAKLAVA       | entertainment   | Набережная Назукина                      | nazukin-embankment             | НЕТ ФОТО
+BALAKLAVA       | history         | Храм Двенадцати Апостолов                | twelve-apostles-church         | НЕТ ФОТО
+BALAKLAVA       | beaches         | Бухта Ласпи                              | laspi-bay                      | НЕТ ФОТО
+BALAKLAVA       | nature          | Скала Святого Явления                    | st-appearance-rock             | НЕТ ФОТО
+BALAKLAVA       | beaches         | Урочище Инжир (Аязьма)                   | fig-tract                      | НЕТ ФОТО
+BALAKLAVA       | waterfalls      | Водопад Козырек                          | kozyrek-waterfall              | НЕТ ФОТО
+BALAKLAVA       | canyons         | Чернореченский каньон                    | chernorechensky-canyon         | НЕТ ФОТО
+BALAKLAVA       | history         | Бочка смерти                             | death-barrel                   | НЕТ ФОТО
+BALAKLAVA       | beaches         | Яшмовый пляж                             | jasper-beach                   | НЕТ ФОТО
+BALAKLAVA       | nature          | Кадыковский карьер                       | kadykovsky-quarry              | НЕТ ФОТО
+BALAKLAVA       | beaches         | Пляж «Васили»                            | vasili-beach                   | НЕТ ФОТО
+BALAKLAVA       | food            | Золотая Балка                            | zolotaya-balka-sevastopol      | /assets/guide/balaklava/zolotaya_balka_balaklava.webp
+BALAKLAVA       | food            | Сусlope                                  | cyclope-balaklava              | НЕТ ФОТО
+BELOGORSK       | waterfalls      | Черемисовские водопады                   | waterfalls-place-1             | НЕТ ФОТО
+BELOGORSK       | canyons         | Каньон Кок-Асан                          | canyons-place-4                | /assets/guide/crimea/grand_canyon.png
+BELOGORSK       | nature          | Белая скала (Ак-Кая)                     | white-rock                     | НЕТ ФОТО
+BELOGORSK       | waterfalls      | Черемисовские водопады                   | cheremisov-waterfalls          | НЕТ ФОТО
+BELOGORSK       | canyons         | Каньон Кок-Асан                          | kok-asan-canyon                | НЕТ ФОТО
+BELOGORSK       | lakes           | Тайганское водохранилище                 | taigan-reservoir               | НЕТ ФОТО
+BELOGORSK       | nature          | Урочище Карасу-Баши                      | karasu-bashi-tract             | НЕТ ФОТО
+BELOGORSK       | lakes           | Балановское водохранилище                | balanovo-reservoir             | НЕТ ФОТО
+BELOGORSK       | waterfalls      | Водопад Трех Святителей                  | three-saints-waterfall         | НЕТ ФОТО
+BELOGORSK       | history         | Суворовский дуб                          | suvorov-oak                    | НЕТ ФОТО
+BELOGORSK       | history         | Таш-Хан                                  | tash-khan                      | НЕТ ФОТО
+CHERNOMORSKOE   | nature          | Бухта Ожинная                            | ozhinnaya-bay                  | НЕТ ФОТО
+CHERNOMORSKOE   | history         | Античное городище Калос-Лимен            | kalos-limen                    | НЕТ ФОТО
+CRIMEA          | other           | Место 988                                | place_988                      | /assets/guide/crimea/swallows-nest.jpg
+CRIMEA          | other           | Место 989                                | place_989                      | НЕТ ФОТО
+CRIMEA          | other           | Место 990                                | place_990                      | НЕТ ФОТО
+CRIMEA          | other           | Место 991                                | place_991                      | НЕТ ФОТО
+CRIMEA          | other           | Место 992                                | place_992                      | НЕТ ФОТО
+CRIMEA          | other           | Место 993                                | place_993                      | НЕТ ФОТО
+CRIMEA          | other           | Место 994                                | place_994                      | НЕТ ФОТО
+CRIMEA          | other           | Место 995                                | place_995                      | НЕТ ФОТО
+CRIMEA          | other           | Место 996                                | place_996                      | /assets/guide/crimea/ai-petri.jpg
+CRIMEA          | other           | Место 997                                | place_997                      | НЕТ ФОТО
+CRIMEA          | other           | Место 998                                | place_998                      | НЕТ ФОТО
+CRIMEA          | other           | Место 999                                | place_999                      | НЕТ ФОТО
+CRIMEA          | other           | Место 1000                               | place_1000                     | НЕТ ФОТО
+CRIMEA          | other           | Место 1001                               | place_1001                     | НЕТ ФОТО
+CRIMEA          | other           | Место 1002                               | place_1002                     | НЕТ ФОТО
+CRIMEA          | other           | Место 1003                               | place_1003                     | НЕТ ФОТО
+CRIMEA          | other           | Место 1004                               | place_1004                     | /assets/guide/crimea/livadia-palace.jpg
+CRIMEA          | other           | Место 1005                               | place_1005                     | НЕТ ФОТО
+CRIMEA          | other           | Место 1006                               | place_1006                     | НЕТ ФОТО
+CRIMEA          | other           | Место 1007                               | place_1007                     | НЕТ ФОТО
+CRIMEA          | other           | Место 1008                               | place_1008                     | НЕТ ФОТО
+CRIMEA          | other           | Место 1009                               | place_1009                     | НЕТ ФОТО
+CRIMEA          | other           | Место 1010                               | place_1010                     | НЕТ ФОТО
+CRIMEA          | other           | Место 1011                               | place_1011                     | НЕТ ФОТО
+CRIMEA          | other           | Место 1012                               | place_1012                     | /assets/guide/crimea/vorontsov-palace.jpg
+CRIMEA          | other           | Место 1013                               | place_1013                     | НЕТ ФОТО
+CRIMEA          | other           | Место 1014                               | place_1014                     | НЕТ ФОТО
+CRIMEA          | other           | Место 1015                               | place_1015                     | НЕТ ФОТО
+CRIMEA          | other           | Место 1016                               | place_1016                     | НЕТ ФОТО
+CRIMEA          | other           | Место 1017                               | place_1017                     | НЕТ ФОТО
+CRIMEA          | other           | Место 1018                               | place_1018                     | НЕТ ФОТО
+CRIMEA          | other           | Место 1019                               | place_1019                     | НЕТ ФОТО
+CRIMEA          | other           | Место 1020                               | place_1020                     | /assets/guide/crimea/massandra-palace.jpg
+CRIMEA          | other           | Место 1021                               | place_1021                     | НЕТ ФОТО
+CRIMEA          | other           | Место 1022                               | place_1022                     | НЕТ ФОТО
+CRIMEA          | other           | Место 1023                               | place_1023                     | НЕТ ФОТО
+CRIMEA          | other           | Место 1024                               | place_1024                     | НЕТ ФОТО
+CRIMEA          | other           | Место 1025                               | place_1025                     | НЕТ ФОТО
+CRIMEA          | other           | Место 1026                               | place_1026                     | НЕТ ФОТО
+CRIMEA          | other           | Место 1027                               | place_1027                     | НЕТ ФОТО
+CRIMEA          | other           | Место 1028                               | place_1028                     | /assets/guide/crimea/nikitsky-garden.jpg
+CRIMEA          | other           | Место 1029                               | place_1029                     | НЕТ ФОТО
+CRIMEA          | other           | Место 1030                               | place_1030                     | НЕТ ФОТО
+CRIMEA          | other           | Место 1031                               | place_1031                     | НЕТ ФОТО
+CRIMEA          | other           | Место 1032                               | place_1032                     | НЕТ ФОТО
+CRIMEA          | other           | Место 1033                               | place_1033                     | НЕТ ФОТО
+CRIMEA          | other           | Место 1034                               | place_1034                     | НЕТ ФОТО
+CRIMEA          | other           | Место 1035                               | place_1035                     | НЕТ ФОТО
+EVPATORIA       | kids            | Аквапарк «Банановая Республика»          | banana-republic                | НЕТ ФОТО
+EVPATORIA       | other           | Аквапарк «У Лукоморья» (Акваленд)        | lukomorye-aquapark             | НЕТ ФОТО
+EVPATORIA       | history         | Мечеть Джума-Джами                       | dzhuma-dzhami-mosque           | НЕТ ФОТО
+EVPATORIA       | history         | Текие Дервишей                           | tekie-dervishej                | НЕТ ФОТО
+EVPATORIA       | history         | Синагога Егия Капай                      | egiya-kapay-synagogue          | НЕТ ФОТО
+EVPATORIA       | history         | Караимские кенасы                        | karaite-kenasas                | НЕТ ФОТО
+EVPATORIA       | history         | Свято-Николаевский собор                 | nicholas-cathedral-evp         | НЕТ ФОТО
+EVPATORIA       | nature          | Озеро Сасык-Сиваш (Розовое озеро)        | sasyk-sivash-lake              | НЕТ ФОТО
+EVPATORIA       | nature          | Озеро Мойнаки                            | moynaki-lake                   | НЕТ ФОТО
+EVPATORIA       | beaches         | Пляж «Лазурный берег»                    | lazurny-bereg-beach            | НЕТ ФОТО
+EVPATORIA       | kids            | Евпаторийский Дельфинарий                | evpatoria-dolphinarium         | НЕТ ФОТО
+EVPATORIA       | kids            | Евпаторийский Аквариум                   | evpatoria-aquarium             | НЕТ ФОТО
+EVPATORIA       | kids            | Динопарк                                 | dinopark-evpatoria             | НЕТ ФОТО
+EVPATORIA       | kids            | Парк миниатюр (Евпатория)                | evpatoria-miniature            | НЕТ ФОТО
+EVPATORIA       | history         | Городище Чайка                           | chaika-settlement              | НЕТ ФОТО
+EVPATORIA       | history         | Турецкие бани (XV век)                   | turkish-baths                  | НЕТ ФОТО
+EVPATORIA       | history         | Храм Святого Илии                        | st-elias-church                | НЕТ ФОТО
+EVPATORIA       | food            | Модернъ                                  | modern-evpatoria               | НЕТ ФОТО
+EVPATORIA       | food            | Джеваль                                  | dzheval-evpatoria              | НЕТ ФОТО
+EVPATORIA       | food            | Super Mario                              | super-mario-evpatoria          | НЕТ ФОТО
+FEODOSIYA       | other           | Аквапарк «Коктебель»                     | koktebel-aquapark              | НЕТ ФОТО
+FEODOSIYA       | history         | Генуэзская крепость Кафа                 | kafa-fortress                  | НЕТ ФОТО
+FOROS           | history         | Форосская церковь                        | foros-church                   | НЕТ ФОТО
+FOROS           | parks           | Форосский парк                           | foros-park                     | НЕТ ФОТО
+FOROS           | history         | Байдарские ворота                        | baidarskie-gates               | НЕТ ФОТО
+GASPRA          | history         | Дворец графини Паниной                   | panina-palace                  | НЕТ ФОТО
+GASPRA          | history         | Дворец Кичкине                           | kichkine-palace                | НЕТ ФОТО
+GASPRA          | nature          | Царская (Солнечная) тропа                | royal-trail                    | НЕТ ФОТО
+GASPRA          | history         | Ай-Тодорский маяк                        | ai-todor-lighthouse            | НЕТ ФОТО
+GASPRA          | parks           | Парк Харакс                              | charax-park                    | НЕТ ФОТО
+GURZUF          | mountains       | Роман Кош                                | mountains-place-2              | НЕТ ФОТО
+GURZUF          | mountains       | Гора Аю-Даг (Медведь-гора)               | mountains-place-8              | НЕТ ФОТО
+GURZUF          | parks           | Беседка ветров (Екатерининская)          | parks-place-3                  | НЕТ ФОТО
+GURZUF          | parks           | Ялтинский горно-лесной заповедник        | parks-place-8                  | НЕТ ФОТО
+GURZUF          | shops           | Место 479                                | place_479                      | /assets/guide/gurzuf/Shop.webp
+GURZUF          | shops           | Место 480                                | place_480                      | НЕТ ФОТО
+GURZUF          | shops           | Место 481                                | place_481                      | НЕТ ФОТО
+GURZUF          | shops           | Место 482                                | place_482                      | НЕТ ФОТО
+GURZUF          | shops           | Место 483                                | place_483                      | НЕТ ФОТО
+GURZUF          | shops           | Место 484                                | place_484                      | /assets/guide/gurzuf/SmakMarket.webp
+GURZUF          | shops           | Место 485                                | place_485                      | НЕТ ФОТО
+GURZUF          | shops           | Место 486                                | place_486                      | НЕТ ФОТО
+GURZUF          | shops           | Место 487                                | place_487                      | НЕТ ФОТО
+GURZUF          | shops           | Место 488                                | place_488                      | НЕТ ФОТО
+GURZUF          | shops           | Место 489                                | place_489                      | /assets/guide/gurzuf/Bazar.webp
+GURZUF          | shops           | Место 490                                | place_490                      | НЕТ ФОТО
+GURZUF          | shops           | Место 491                                | place_491                      | НЕТ ФОТО
+GURZUF          | shops           | Место 492                                | place_492                      | НЕТ ФОТО
+GURZUF          | shops           | Место 493                                | place_493                      | НЕТ ФОТО
+GURZUF          | shops           | Место 494                                | place_494                      | НЕТ ФОТО
+GURZUF          | shops           | Место 495                                | place_495                      | /assets/guide/gurzuf/pud.webp
+GURZUF          | shops           | Место 496                                | place_496                      | НЕТ ФОТО
+GURZUF          | shops           | Место 497                                | place_497                      | НЕТ ФОТО
+GURZUF          | shops           | Место 498                                | place_498                      | НЕТ ФОТО
+GURZUF          | shops           | Место 499                                | place_499                      | НЕТ ФОТО
+GURZUF          | shops           | Место 500                                | place_500                      | НЕТ ФОТО
+GURZUF          | food            | Место 501                                | place_501                      | /assets/guide/gurzuf/sommelier.png
+GURZUF          | food            | Место 502                                | place_502                      | НЕТ ФОТО
+GURZUF          | food            | Место 503                                | place_503                      | НЕТ ФОТО
+GURZUF          | food            | Место 504                                | place_504                      | НЕТ ФОТО
+GURZUF          | food            | Место 505                                | place_505                      | НЕТ ФОТО
+GURZUF          | food            | Место 506                                | place_506                      | НЕТ ФОТО
+GURZUF          | food            | Место 507                                | place_507                      | НЕТ ФОТО
+GURZUF          | food            | Место 508                                | place_508                      | /assets/guide/gurzuf/molbert.png
+GURZUF          | food            | Место 509                                | place_509                      | НЕТ ФОТО
+GURZUF          | food            | Место 510                                | place_510                      | НЕТ ФОТО
+GURZUF          | food            | Место 511                                | place_511                      | НЕТ ФОТО
+GURZUF          | food            | Место 512                                | place_512                      | НЕТ ФОТО
+GURZUF          | food            | Место 513                                | place_513                      | НЕТ ФОТО
+GURZUF          | food            | Место 514                                | place_514                      | НЕТ ФОТО
+GURZUF          | food            | Место 515                                | place_515                      | /assets/guide/gurzuf/dubai_grand_cafe.png
+GURZUF          | food            | Место 516                                | place_516                      | НЕТ ФОТО
+GURZUF          | food            | Место 517                                | place_517                      | НЕТ ФОТО
+GURZUF          | food            | Место 518                                | place_518                      | НЕТ ФОТО
+GURZUF          | food            | Место 519                                | place_519                      | НЕТ ФОТО
+GURZUF          | food            | Место 520                                | place_520                      | НЕТ ФОТО
+GURZUF          | food            | Место 521                                | place_521                      | НЕТ ФОТО
+GURZUF          | food            | Место 522                                | place_522                      | /assets/guide/gurzuf/venezia_cafe.png
+GURZUF          | food            | Место 523                                | place_523                      | НЕТ ФОТО
+GURZUF          | food            | Место 524                                | place_524                      | НЕТ ФОТО
+GURZUF          | food            | Место 525                                | place_525                      | НЕТ ФОТО
+GURZUF          | food            | Место 526                                | place_526                      | НЕТ ФОТО
+GURZUF          | food            | Место 527                                | place_527                      | НЕТ ФОТО
+GURZUF          | food            | Место 528                                | place_528                      | НЕТ ФОТО
+GURZUF          | sights          | Место 529                                | place_529                      | /assets/guide/gurzuf/chekhov_museum.png
+GURZUF          | sights          | Место 530                                | place_530                      | НЕТ ФОТО
+GURZUF          | sights          | Место 531                                | place_531                      | НЕТ ФОТО
+GURZUF          | sights          | Место 532                                | place_532                      | НЕТ ФОТО
+GURZUF          | sights          | Место 533                                | place_533                      | НЕТ ФОТО
+GURZUF          | sights          | Место 534                                | place_534                      | НЕТ ФОТО
+GURZUF          | sights          | Место 535                                | place_535                      | НЕТ ФОТО
+GURZUF          | sights          | Место 536                                | place_536                      | /assets/guide/gurzuf/pushkin_museum.png
+GURZUF          | sights          | Место 537                                | place_537                      | НЕТ ФОТО
+GURZUF          | sights          | Место 538                                | place_538                      | НЕТ ФОТО
+GURZUF          | sights          | Место 539                                | place_539                      | НЕТ ФОТО
+GURZUF          | sights          | Место 540                                | place_540                      | НЕТ ФОТО
+GURZUF          | sights          | Место 541                                | place_541                      | НЕТ ФОТО
+GURZUF          | sights          | Место 542                                | place_542                      | НЕТ ФОТО
+GURZUF          | sights          | Место 543                                | place_543                      | /assets/guide/gurzuf/gurzuf_park.png
+GURZUF          | sights          | Место 544                                | place_544                      | НЕТ ФОТО
+GURZUF          | sights          | Место 545                                | place_545                      | НЕТ ФОТО
+GURZUF          | sights          | Место 546                                | place_546                      | НЕТ ФОТО
+GURZUF          | sights          | Место 547                                | place_547                      | НЕТ ФОТО
+GURZUF          | sights          | Место 548                                | place_548                      | НЕТ ФОТО
+GURZUF          | sights          | Место 549                                | place_549                      | НЕТ ФОТО
+GURZUF          | sights          | Место 550                                | place_550                      | /assets/guide/gurzuf/pyatachok.png
+GURZUF          | sights          | Место 551                                | place_551                      | НЕТ ФОТО
+GURZUF          | sights          | Место 552                                | place_552                      | НЕТ ФОТО
+GURZUF          | sights          | Место 553                                | place_553                      | НЕТ ФОТО
+GURZUF          | sights          | Место 554                                | place_554                      | НЕТ ФОТО
+GURZUF          | sights          | Место 555                                | place_555                      | НЕТ ФОТО
+GURZUF          | sights          | Место 556                                | place_556                      | НЕТ ФОТО
+GURZUF          | sights          | Место 557                                | place_557                      | /assets/guide/gurzuf/goddess_night.png
+GURZUF          | sights          | Место 558                                | place_558                      | НЕТ ФОТО
+GURZUF          | sights          | Место 559                                | place_559                      | НЕТ ФОТО
+GURZUF          | sights          | Место 560                                | place_560                      | НЕТ ФОТО
+GURZUF          | sights          | Место 561                                | place_561                      | НЕТ ФОТО
+GURZUF          | sights          | Место 562                                | place_562                      | НЕТ ФОТО
+GURZUF          | sights          | Место 563                                | place_563                      | НЕТ ФОТО
+GURZUF          | sights          | Место 564                                | place_564                      | /assets/guide/gurzuf/adalary.png
+GURZUF          | sights          | Место 565                                | place_565                      | НЕТ ФОТО
+GURZUF          | sights          | Место 566                                | place_566                      | НЕТ ФОТО
+GURZUF          | sights          | Место 567                                | place_567                      | НЕТ ФОТО
+GURZUF          | sights          | Место 568                                | place_568                      | НЕТ ФОТО
+GURZUF          | sights          | Место 569                                | place_569                      | НЕТ ФОТО
+GURZUF          | sights          | Место 570                                | place_570                      | НЕТ ФОТО
+GURZUF          | sights          | Место 571                                | place_571                      | /assets/guide/gurzuf/genuese_rock.png
+GURZUF          | sights          | Место 572                                | place_572                      | НЕТ ФОТО
+GURZUF          | sights          | Место 573                                | place_573                      | НЕТ ФОТО
+GURZUF          | sights          | Место 574                                | place_574                      | НЕТ ФОТО
+GURZUF          | sights          | Место 575                                | place_575                      | НЕТ ФОТО
+GURZUF          | sights          | Место 576                                | place_576                      | НЕТ ФОТО
+GURZUF          | sights          | Место 577                                | place_577                      | НЕТ ФОТО
+GURZUF          | sights          | Место 578                                | place_578                      | /assets/guide/gurzuf/bolgatur.png
+GURZUF          | sights          | Место 579                                | place_579                      | НЕТ ФОТО
+GURZUF          | sights          | Место 580                                | place_580                      | НЕТ ФОТО
+GURZUF          | sights          | Место 581                                | place_581                      | НЕТ ФОТО
+GURZUF          | sights          | Место 582                                | place_582                      | НЕТ ФОТО
+GURZUF          | sights          | Место 583                                | place_583                      | НЕТ ФОТО
+GURZUF          | sights          | Место 584                                | place_584                      | НЕТ ФОТО
+GURZUF          | sights          | Место 585                                | place_585                      | /assets/guide/gurzuf/korovin_museum.png
+GURZUF          | sights          | Место 586                                | place_586                      | НЕТ ФОТО
+GURZUF          | sights          | Место 587                                | place_587                      | НЕТ ФОТО
+GURZUF          | sights          | Место 588                                | place_588                      | НЕТ ФОТО
+GURZUF          | sights          | Место 589                                | place_589                      | НЕТ ФОТО
+GURZUF          | sights          | Место 590                                | place_590                      | НЕТ ФОТО
+GURZUF          | sights          | Место 591                                | place_591                      | НЕТ ФОТО
+GURZUF          | sights          | Место 592                                | place_592                      | /assets/guide/gurzuf/white_gallery.png
+GURZUF          | sights          | Место 593                                | place_593                      | НЕТ ФОТО
+GURZUF          | sights          | Место 594                                | place_594                      | НЕТ ФОТО
+GURZUF          | sights          | Место 595                                | place_595                      | НЕТ ФОТО
+GURZUF          | sights          | Место 596                                | place_596                      | НЕТ ФОТО
+GURZUF          | sights          | Место 597                                | place_597                      | НЕТ ФОТО
+GURZUF          | sights          | Место 598                                | place_598                      | НЕТ ФОТО
+GURZUF          | sights          | Место 599                                | place_599                      | /assets/guide/gurzuf/MuseumMag.webp
+GURZUF          | sights          | Место 600                                | place_600                      | НЕТ ФОТО
+GURZUF          | sights          | Место 601                                | place_601                      | НЕТ ФОТО
+GURZUF          | sights          | Место 602                                | place_602                      | НЕТ ФОТО
+GURZUF          | sights          | Место 603                                | place_603                      | НЕТ ФОТО
+GURZUF          | sights          | Место 604                                | place_604                      | НЕТ ФОТО
+GURZUF          | sights          | Место 605                                | place_605                      | НЕТ ФОТО
+GURZUF          | sights          | Место 606                                | place_606                      | /assets/guide/gurzuf/VodniyMir.webp
+GURZUF          | sights          | Место 607                                | place_607                      | НЕТ ФОТО
+GURZUF          | sights          | Место 608                                | place_608                      | НЕТ ФОТО
+GURZUF          | sights          | Место 609                                | place_609                      | НЕТ ФОТО
+GURZUF          | sights          | Место 610                                | place_610                      | НЕТ ФОТО
+GURZUF          | sights          | Место 611                                | place_611                      | НЕТ ФОТО
+GURZUF          | sights          | Место 612                                | place_612                      | НЕТ ФОТО
+GURZUF          | sights          | Место 613                                | place_613                      | /assets/guide/crimea/nikitsky-garden.jpg
+GURZUF          | sights          | Место 614                                | place_614                      | НЕТ ФОТО
+GURZUF          | sights          | Место 615                                | place_615                      | НЕТ ФОТО
+GURZUF          | sights          | Место 616                                | place_616                      | НЕТ ФОТО
+GURZUF          | sights          | Место 617                                | place_617                      | НЕТ ФОТО
+GURZUF          | sights          | Место 618                                | place_618                      | НЕТ ФОТО
+GURZUF          | sights          | Место 619                                | place_619                      | НЕТ ФОТО
+GURZUF          | sights          | Место 620                                | place_620                      | НЕТ ФОТО
+GURZUF          | sea             | Место 621                                | place_621                      | /assets/guide/gurzuf/PrichalGurzuf.webp
+GURZUF          | sea             | Место 622                                | place_622                      | НЕТ ФОТО
+GURZUF          | sea             | Место 623                                | place_623                      | НЕТ ФОТО
+GURZUF          | sea             | Место 624                                | place_624                      | НЕТ ФОТО
+GURZUF          | sea             | Место 625                                | place_625                      | НЕТ ФОТО
+GURZUF          | sea             | Место 626                                | place_626                      | НЕТ ФОТО
+GURZUF          | transport       | Место 627                                | place_627                      | /assets/guide/gurzuf/Volna.png
+GURZUF          | transport       | Место 628                                | place_628                      | НЕТ ФОТО
+GURZUF          | transport       | Место 629                                | place_629                      | НЕТ ФОТО
+GURZUF          | transport       | Место 630                                | place_630                      | НЕТ ФОТО
+GURZUF          | transport       | Место 631                                | place_631                      | НЕТ ФОТО
+GURZUF          | transport       | Место 632                                | place_632                      | НЕТ ФОТО
+GURZUF          | transport       | Место 633                                | place_633                      | /assets/guide/gurzuf/Maxim.png
+GURZUF          | transport       | Место 634                                | place_634                      | НЕТ ФОТО
+GURZUF          | transport       | Место 635                                | place_635                      | НЕТ ФОТО
+GURZUF          | transport       | Место 636                                | place_636                      | НЕТ ФОТО
+GURZUF          | transport       | Место 637                                | place_637                      | НЕТ ФОТО
+GURZUF          | transport       | Место 638                                | place_638                      | НЕТ ФОТО
+GURZUF          | important       | Место 639                                | place_639                      | /assets/guide/gurzuf/Bolnica.webp
+GURZUF          | important       | Место 640                                | place_640                      | НЕТ ФОТО
+GURZUF          | important       | Место 641                                | place_641                      | НЕТ ФОТО
+GURZUF          | important       | Место 642                                | place_642                      | НЕТ ФОТО
+GURZUF          | important       | Место 643                                | place_643                      | НЕТ ФОТО
+GURZUF          | important       | Место 644                                | place_644                      | /assets/guide/gurzuf/Apteka.webp
+GURZUF          | important       | Место 645                                | place_645                      | НЕТ ФОТО
+GURZUF          | important       | Место 646                                | place_646                      | НЕТ ФОТО
+GURZUF          | important       | Место 647                                | place_647                      | НЕТ ФОТО
+GURZUF          | important       | Место 648                                | place_648                      | НЕТ ФОТО
+GURZUF          | history         | Музей А.С. Пушкина                       | pushkin-museum-gurzuf          | НЕТ ФОТО
+GURZUF          | history         | Дворец Суук-Су                           | suuk-su-palace                 | НЕТ ФОТО
+GURZUF          | history         | Дача Чехова в Гурзуфе                    | chekhov-dacha-gurzuf           | НЕТ ФОТО
+GURZUF          | nature          | Гора Аю-Даг (Медведь-гора)               | ayu-dag-mountain               | НЕТ ФОТО
+GURZUF          | nature          | Пушкинский грот                          | pushkin-grotto                 | НЕТ ФОТО
+GURZUF          | entertainment   | МДЦ «Артек»                              | artek-camp                     | НЕТ ФОТО
+GURZUF          | nature          | Гора Роман-Кош                           | roman-kosh-peak                | НЕТ ФОТО
+GURZUF          | nature          | Красный камень                           | red-stone-rock                 | НЕТ ФОТО
+GURZUF          | history         | Памятник гурзуфской кошке                | gurzuf-cat-monument            | НЕТ ФОТО
+GURZUF          | nature          | Скала Шаляпина                           | shalyapin-rock                 | НЕТ ФОТО
+GURZUF          | history         | Генуэзская скала                         | genoise-rock-gurzuf            | НЕТ ФОТО
+KERCH           | parks           | Опукский заповедник                      | parks-place-4                  | НЕТ ФОТО
+KERCH           | entertainment   | Крымский мост                            | crimean-bridge                 | НЕТ ФОТО
+KERCH           | history         | Гора Митридат                            | mitridat-mountain              | НЕТ ФОТО
+KERCH           | history         | Керченская крепость (Форт Тотлебен)      | kerch-fortress                 | НЕТ ФОТО
+KERCH           | history         | Крепость Ени-Кале                        | yeni-kale-fortress             | НЕТ ФОТО
+KERCH           | history         | Храм Иоанна Предтечи                     | john-baptist-church            | НЕТ ФОТО
+KERCH           | history         | Аджимушкайские каменоломни               | adzhimushkay-quarries          | НЕТ ФОТО
+KERCH           | history         | Царский курган                           | royal-kurgan                   | НЕТ ФОТО
+KERCH           | history         | Античный город Пантикапей                | pantikapaion-city              | НЕТ ФОТО
+KERCH           | nature          | Кояшское розовое озеро                   | koyashskoe-pink-lake           | НЕТ ФОТО
+KERCH           | nature          | Булганакские грязевые вулканы            | mud-volcanoes-kerch            | НЕТ ФОТО
+KIDS            | entertainment   | Место 423                                | place_423                      | /assets/guide/kids/dolphinarium.png
+KIDS            | entertainment   | Место 424                                | place_424                      | НЕТ ФОТО
+KIDS            | entertainment   | Место 425                                | place_425                      | НЕТ ФОТО
+KIDS            | entertainment   | Место 426                                | place_426                      | НЕТ ФОТО
+KIDS            | entertainment   | Место 427                                | place_427                      | НЕТ ФОТО
+KIDS            | entertainment   | Место 428                                | place_428                      | НЕТ ФОТО
+KIDS            | entertainment   | Место 429                                | place_429                      | НЕТ ФОТО
+KIDS            | entertainment   | Место 430                                | place_430                      | НЕТ ФОТО
+KIDS            | entertainment   | Место 431                                | place_431                      | /assets/guide/kids/waterpark.png
+KIDS            | entertainment   | Место 432                                | place_432                      | НЕТ ФОТО
+KIDS            | entertainment   | Место 433                                | place_433                      | НЕТ ФОТО
+KIDS            | entertainment   | Место 434                                | place_434                      | НЕТ ФОТО
+KIDS            | entertainment   | Место 435                                | place_435                      | НЕТ ФОТО
+KIDS            | entertainment   | Место 436                                | place_436                      | НЕТ ФОТО
+KIDS            | entertainment   | Место 437                                | place_437                      | НЕТ ФОТО
+KIDS            | entertainment   | Место 438                                | place_438                      | НЕТ ФОТО
+KIDS            | entertainment   | Место 439                                | place_439                      | /assets/guide/kids/Drimwood.webp
+KIDS            | entertainment   | Место 440                                | place_440                      | НЕТ ФОТО
+KIDS            | entertainment   | Место 441                                | place_441                      | НЕТ ФОТО
+KIDS            | entertainment   | Место 442                                | place_442                      | НЕТ ФОТО
+KIDS            | entertainment   | Место 443                                | place_443                      | НЕТ ФОТО
+KIDS            | entertainment   | Место 444                                | place_444                      | НЕТ ФОТО
+KIDS            | entertainment   | Место 445                                | place_445                      | НЕТ ФОТО
+KIDS            | entertainment   | Место 446                                | place_446                      | НЕТ ФОТО
+KIDS            | entertainment   | Место 447                                | place_447                      | /assets/guide/gurzuf/adalary.png
+KIDS            | entertainment   | Место 448                                | place_448                      | НЕТ ФОТО
+KIDS            | entertainment   | Место 449                                | place_449                      | НЕТ ФОТО
+KIDS            | entertainment   | Место 450                                | place_450                      | НЕТ ФОТО
+KIDS            | entertainment   | Место 451                                | place_451                      | НЕТ ФОТО
+KIDS            | entertainment   | Место 452                                | place_452                      | НЕТ ФОТО
+KIDS            | entertainment   | Место 453                                | place_453                      | НЕТ ФОТО
+KIDS            | entertainment   | Место 454                                | place_454                      | НЕТ ФОТО
+KIDS            | entertainment   | Место 455                                | place_455                      | /assets/guide/yalta/Akvarium.webp
+KIDS            | entertainment   | Место 456                                | place_456                      | НЕТ ФОТО
+KIDS            | entertainment   | Место 457                                | place_457                      | НЕТ ФОТО
+KIDS            | entertainment   | Место 458                                | place_458                      | НЕТ ФОТО
+KIDS            | entertainment   | Место 459                                | place_459                      | НЕТ ФОТО
+KIDS            | entertainment   | Место 460                                | place_460                      | НЕТ ФОТО
+KIDS            | entertainment   | Место 461                                | place_461                      | НЕТ ФОТО
+KIDS            | entertainment   | Место 462                                | place_462                      | НЕТ ФОТО
+KIDS            | entertainment   | Место 463                                | place_463                      | /assets/guide/yalta/Krokodelarium.webp
+KIDS            | entertainment   | Место 464                                | place_464                      | НЕТ ФОТО
+KIDS            | entertainment   | Место 465                                | place_465                      | НЕТ ФОТО
+KIDS            | entertainment   | Место 466                                | place_466                      | НЕТ ФОТО
+KIDS            | entertainment   | Место 467                                | place_467                      | НЕТ ФОТО
+KIDS            | entertainment   | Место 468                                | place_468                      | НЕТ ФОТО
+KIDS            | entertainment   | Место 469                                | place_469                      | НЕТ ФОТО
+KIDS            | entertainment   | Место 470                                | place_470                      | НЕТ ФОТО
+KIDS            | entertainment   | Место 471                                | place_471                      | /assets/guide/yalta/Aquapark.jpg
+KIDS            | entertainment   | Место 472                                | place_472                      | НЕТ ФОТО
+KIDS            | entertainment   | Место 473                                | place_473                      | НЕТ ФОТО
+KIDS            | entertainment   | Место 474                                | place_474                      | НЕТ ФОТО
+KIDS            | entertainment   | Место 475                                | place_475                      | НЕТ ФОТО
+KIDS            | entertainment   | Место 476                                | place_476                      | НЕТ ФОТО
+KIDS            | entertainment   | Место 477                                | place_477                      | НЕТ ФОТО
+KIDS            | entertainment   | Место 478                                | place_478                      | НЕТ ФОТО
+KOKTEBEL        | entertainment   | Аквапарк «Коктебель»                     | akvapark-koktebel              | НЕТ ФОТО
+KOKTEBEL        | nature          | Скала Чертов палец                       | chertov-palets-koktebel        | НЕТ ФОТО
+KOKTEBEL        | entertainment   | Дельфинарий «Коктебель»                  | delfinarij-koktebel            | НЕТ ФОТО
+KOKTEBEL        | nature          | Золотые ворота                           | zolotye-vorota                 | НЕТ ФОТО
+KOKTEBEL        | nature          | Карадагский заповедник                   | karadag-reserve                | НЕТ ФОТО
+KOKTEBEL        | nature          | Озеро Бараколь                           | barakol-lake                   | НЕТ ФОТО
+KOKTEBEL        | history         | Звездопад воспоминаний                   | zvezdopad-vospominanij         | НЕТ ФОТО
+KOKTEBEL        | history         | Винзавод «Коктебель»                     | koktebel-winery                | НЕТ ФОТО
+KOKTEBEL        | nature          | Мыс Хамелеон                             | mys-hameleon                   | НЕТ ФОТО
+KOKTEBEL        | nature          | Гора Клементьева                         | klementyeva-mountain           | НЕТ ФОТО
+KOKTEBEL        | nature          | Тихая бухта                              | tikhaya-bay                    | НЕТ ФОТО
+KOREIZ          | history         | Дворец Дюльбер                           | dulber-palace                  | НЕТ ФОТО
+LASPI           | nature          | Урочище Батилиман                        | batiliman                      | НЕТ ФОТО
+LASPI           | nature          | Ласпинский перевал                       | laspinskij-pass                | НЕТ ФОТО
+LASPI           | beaches         | Пляж «Затерянный мир»                    | lost-world-beach               | НЕТ ФОТО
+LASPI           | nature          | Храм Солнца (Ильяс-Кая)                  | sun-temple                     | НЕТ ФОТО
+LASPI           | food            | Легенда                                  | legenda-laspi                  | /assets/guide/sevastopol/legenda_restaurant_sevastopol.webp
+LUCHISTOE       | nature          | Водопад Джурла                           | dzhurla-waterfall              | НЕТ ФОТО
+LUCHISTOE       | history         | Крепость Фуна                            | funa-fortress                  | НЕТ ФОТО
+LUCHISTOE       | nature          | Гора Демерджи                            | demerdzhi-mountain             | НЕТ ФОТО
+LUCHISTOE       | nature          | Долина Привидений                        | valley-of-ghosts               | НЕТ ФОТО
+LUCHISTOE       | history         | Орех Юрия Никулина                       | nikulin-walnut                 | НЕТ ФОТО
+MALORECHENSKOE  | history         | Храм-маяк Николая Чудотворца             | nikolaya-lighthouse-church     | НЕТ ФОТО
+MALORECHENSKOE  | history         | Музей морских катастроф                  | museum-of-maritime-disasters   | НЕТ ФОТО
+MALORECHENSKOE  | nature          | Сырные скалы (Тузлух)                    | cheese-rocks-tuzlukh           | НЕТ ФОТО
+MALORECHENSKOE  | beaches         | Бухта Малореченское                      | malorechenskoe-beach           | НЕТ ФОТО
+MASSANDRA       | history         | Массандровский дворец                    | massandra-palace               | /assets/guide/crimea/massandra-palace.jpg
+MASSANDRA       | history         | Винзавод «Массандра»                     | massandra-winery               | /assets/guide/yalta/massandra-winery.png
+MASSANDRA       | parks           | Массандровский парк                      | massandra-park                 | НЕТ ФОТО
+MASSANDRA       | nature          | Ущелье Уч-Кош                            | uch-kosh-canyon                | НЕТ ФОТО
+MRAMORNOE       | nature          | Мраморная пещера                         | marble-cave                    | НЕТ ФОТО
+MRAMORNOE       | nature          | Пещера Эмине-Баир-Хосар                  | emine-bair-hosar               | НЕТ ФОТО
+NAUCHNYJ        | entertainment   | Крымская астрофизическая обсерватория    | crimean-observatory            | НЕТ ФОТО
+NAUCHNYJ        | lakes           | Озеро в Научном                          | nauchnyj-lake                  | НЕТ ФОТО
+OLENEVKA        | parks           | Урочище Джангуль                         | parks-place-1                  | НЕТ ФОТО
+PARTENIT        | parks           | Парк «Парадиз» (Айвазовское)             | paradise-park-aivazovskoe      | НЕТ ФОТО
+PARTENIT        | lakes           | Бирюзовое озеро                          | turquoise-lake-zaprudnoe       | НЕТ ФОТО
+PEREVALNOE      | nature          | Красные пещеры (Кизил-Коба)              | red-caves-kizil-koba           | НЕТ ФОТО
+PEREVALNOE      | nature          | Водопад Су-Учхан                         | su-uchkhan-waterfall           | НЕТ ФОТО
+PEREVALNOE      | entertainment   | Кинопарк «Викинг»                        | viking-cinema-park             | НЕТ ФОТО
+SAKI            | lakes           | Сакское лечебное озеро                   | saki-mud-lake                  | НЕТ ФОТО
+SAKI            | history         | Музей «Кара-Тобе»                        | kara-tobe-museum               | НЕТ ФОТО
+SEVASTOPOL      | history         | Место 1                                  | place_1                        | /assets/guide/sevastopol/sevastopol.jpg
+SEVASTOPOL      | history         | Место 2                                  | place_2                        | НЕТ ФОТО
+SEVASTOPOL      | history         | Место 3                                  | place_3                        | НЕТ ФОТО
+SEVASTOPOL      | history         | Место 4                                  | place_4                        | НЕТ ФОТО
+SEVASTOPOL      | history         | Место 5                                  | place_5                        | НЕТ ФОТО
+SEVASTOPOL      | history         | Место 6                                  | place_6                        | НЕТ ФОТО
+SEVASTOPOL      | history         | Место 7                                  | place_7                        | НЕТ ФОТО
+SEVASTOPOL      | history         | Место 8                                  | place_8                        | НЕТ ФОТО
+SEVASTOPOL      | history         | Место 9                                  | place_9                        | /assets/guide/sevastopol/zatoplennimkoroblam.webp
+SEVASTOPOL      | history         | Место 10                                 | place_10                       | НЕТ ФОТО
+SEVASTOPOL      | history         | Место 11                                 | place_11                       | НЕТ ФОТО
+SEVASTOPOL      | history         | Место 12                                 | place_12                       | НЕТ ФОТО
+SEVASTOPOL      | history         | Место 13                                 | place_13                       | НЕТ ФОТО
+SEVASTOPOL      | history         | Место 14                                 | place_14                       | НЕТ ФОТО
+SEVASTOPOL      | history         | Место 15                                 | place_15                       | НЕТ ФОТО
+SEVASTOPOL      | history         | Место 16                                 | place_16                       | НЕТ ФОТО
+SEVASTOPOL      | history         | Место 17                                 | place_17                       | /assets/guide/sevastopol/chersonesus_taurica_sevastopol.webp
+SEVASTOPOL      | history         | Место 18                                 | place_18                       | НЕТ ФОТО
+SEVASTOPOL      | history         | Место 19                                 | place_19                       | НЕТ ФОТО
+SEVASTOPOL      | history         | Место 20                                 | place_20                       | НЕТ ФОТО
+SEVASTOPOL      | history         | Место 21                                 | place_21                       | НЕТ ФОТО
+SEVASTOPOL      | history         | Место 22                                 | place_22                       | НЕТ ФОТО
+SEVASTOPOL      | history         | Место 23                                 | place_23                       | НЕТ ФОТО
+SEVASTOPOL      | history         | Место 24                                 | place_24                       | НЕТ ФОТО
+SEVASTOPOL      | history         | Место 25                                 | place_25                       | /assets/guide/sevastopol/panorama-oborona-sevastopolya.webp
+SEVASTOPOL      | history         | Место 26                                 | place_26                       | НЕТ ФОТО
+SEVASTOPOL      | history         | Место 27                                 | place_27                       | НЕТ ФОТО
+SEVASTOPOL      | history         | Место 28                                 | place_28                       | НЕТ ФОТО
+SEVASTOPOL      | history         | Место 29                                 | place_29                       | НЕТ ФОТО
+SEVASTOPOL      | history         | Место 30                                 | place_30                       | НЕТ ФОТО
+SEVASTOPOL      | history         | Место 31                                 | place_31                       | НЕТ ФОТО
+SEVASTOPOL      | history         | Место 32                                 | place_32                       | НЕТ ФОТО
+SEVASTOPOL      | history         | Место 33                                 | place_33                       | /assets/guide/sevastopol/MalahovKurgan.jpg
+SEVASTOPOL      | history         | Место 34                                 | place_34                       | НЕТ ФОТО
+SEVASTOPOL      | history         | Место 35                                 | place_35                       | НЕТ ФОТО
+SEVASTOPOL      | history         | Место 36                                 | place_36                       | НЕТ ФОТО
+SEVASTOPOL      | history         | Место 37                                 | place_37                       | НЕТ ФОТО
+SEVASTOPOL      | history         | Место 38                                 | place_38                       | НЕТ ФОТО
+SEVASTOPOL      | history         | Место 39                                 | place_39                       | НЕТ ФОТО
+SEVASTOPOL      | history         | Место 40                                 | place_40                       | НЕТ ФОТО
+SEVASTOPOL      | history         | Место 41                                 | place_41                       | /assets/guide/sevastopol/WarMuseum.jpg
+SEVASTOPOL      | history         | Место 42                                 | place_42                       | НЕТ ФОТО
+SEVASTOPOL      | history         | Место 43                                 | place_43                       | НЕТ ФОТО
+SEVASTOPOL      | history         | Место 44                                 | place_44                       | НЕТ ФОТО
+SEVASTOPOL      | history         | Место 45                                 | place_45                       | НЕТ ФОТО
+SEVASTOPOL      | history         | Место 46                                 | place_46                       | НЕТ ФОТО
+SEVASTOPOL      | history         | Место 47                                 | place_47                       | НЕТ ФОТО
+SEVASTOPOL      | history         | Место 48                                 | place_48                       | НЕТ ФОТО
+SEVASTOPOL      | history         | Место 49                                 | place_49                       | /assets/guide/crimea/khans-palace.jpg
+SEVASTOPOL      | history         | Место 50                                 | place_50                       | НЕТ ФОТО
+SEVASTOPOL      | history         | Место 51                                 | place_51                       | НЕТ ФОТО
+SEVASTOPOL      | history         | Место 52                                 | place_52                       | НЕТ ФОТО
+SEVASTOPOL      | history         | Место 53                                 | place_53                       | НЕТ ФОТО
+SEVASTOPOL      | history         | Место 54                                 | place_54                       | НЕТ ФОТО
+SEVASTOPOL      | history         | Место 55                                 | place_55                       | НЕТ ФОТО
+SEVASTOPOL      | history         | Место 56                                 | place_56                       | НЕТ ФОТО
+SEVASTOPOL      | history         | Место 57                                 | place_57                       | /assets/guide/crimea/foros_church.png
+SEVASTOPOL      | history         | Место 58                                 | place_58                       | НЕТ ФОТО
+SEVASTOPOL      | history         | Место 59                                 | place_59                       | НЕТ ФОТО
+SEVASTOPOL      | history         | Место 60                                 | place_60                       | НЕТ ФОТО
+SEVASTOPOL      | history         | Место 61                                 | place_61                       | НЕТ ФОТО
+SEVASTOPOL      | history         | Место 62                                 | place_62                       | НЕТ ФОТО
+SEVASTOPOL      | history         | Место 63                                 | place_63                       | НЕТ ФОТО
+SEVASTOPOL      | history         | Место 64                                 | place_64                       | НЕТ ФОТО
+SEVASTOPOL      | history         | Место 65                                 | place_65                       | /assets/guide/crimea/SvatoUspenskiyMonostir.webp
+SEVASTOPOL      | history         | Место 66                                 | place_66                       | НЕТ ФОТО
+SEVASTOPOL      | history         | Место 67                                 | place_67                       | НЕТ ФОТО
+SEVASTOPOL      | history         | Место 68                                 | place_68                       | НЕТ ФОТО
+SEVASTOPOL      | history         | Место 69                                 | place_69                       | НЕТ ФОТО
+SEVASTOPOL      | history         | Место 70                                 | place_70                       | НЕТ ФОТО
+SEVASTOPOL      | history         | Место 71                                 | place_71                       | НЕТ ФОТО
+SEVASTOPOL      | history         | Место 72                                 | place_72                       | НЕТ ФОТО
+SEVASTOPOL      | history         | Место 73                                 | place_73                       | /assets/guide/crimea/grand_canyon.png
+SEVASTOPOL      | history         | Место 74                                 | place_74                       | НЕТ ФОТО
+SEVASTOPOL      | history         | Место 75                                 | place_75                       | НЕТ ФОТО
+SEVASTOPOL      | history         | Место 76                                 | place_76                       | НЕТ ФОТО
+SEVASTOPOL      | history         | Место 77                                 | place_77                       | НЕТ ФОТО
+SEVASTOPOL      | history         | Место 78                                 | place_78                       | НЕТ ФОТО
+SEVASTOPOL      | history         | Место 79                                 | place_79                       | НЕТ ФОТО
+SEVASTOPOL      | history         | Место 80                                 | place_80                       | НЕТ ФОТО
+SEVASTOPOL      | history         | Место 81                                 | place_81                       | /assets/guide/crimea/chufut-kale.jpg
+SEVASTOPOL      | history         | Место 82                                 | place_82                       | НЕТ ФОТО
+SEVASTOPOL      | history         | Место 83                                 | place_83                       | НЕТ ФОТО
+SEVASTOPOL      | history         | Место 84                                 | place_84                       | НЕТ ФОТО
+SEVASTOPOL      | history         | Место 85                                 | place_85                       | НЕТ ФОТО
+SEVASTOPOL      | history         | Место 86                                 | place_86                       | НЕТ ФОТО
+SEVASTOPOL      | history         | Место 87                                 | place_87                       | НЕТ ФОТО
+SEVASTOPOL      | history         | Место 88                                 | place_88                       | НЕТ ФОТО
+SEVASTOPOL      | nature          | Место 89                                 | place_89                       | /assets/guide/crimea/cape-fiolent.jpg
+SEVASTOPOL      | nature          | Место 90                                 | place_90                       | НЕТ ФОТО
+SEVASTOPOL      | nature          | Место 91                                 | place_91                       | НЕТ ФОТО
+SEVASTOPOL      | nature          | Место 92                                 | place_92                       | НЕТ ФОТО
+SEVASTOPOL      | nature          | Место 93                                 | place_93                       | НЕТ ФОТО
+SEVASTOPOL      | nature          | Место 94                                 | place_94                       | НЕТ ФОТО
+SEVASTOPOL      | nature          | Место 95                                 | place_95                       | НЕТ ФОТО
+SEVASTOPOL      | nature          | Место 96                                 | place_96                       | НЕТ ФОТО
+SEVASTOPOL      | nature          | Место 97                                 | place_97                       | /assets/guide/sevastopol/BaydarskayaDolina.webp
+SEVASTOPOL      | nature          | Место 98                                 | place_98                       | НЕТ ФОТО
+SEVASTOPOL      | nature          | Место 99                                 | place_99                       | НЕТ ФОТО
+SEVASTOPOL      | nature          | Место 100                                | place_100                      | НЕТ ФОТО
+SEVASTOPOL      | nature          | Место 101                                | place_101                      | НЕТ ФОТО
+SEVASTOPOL      | nature          | Место 102                                | place_102                      | НЕТ ФОТО
+SEVASTOPOL      | nature          | Место 103                                | place_103                      | НЕТ ФОТО
+SEVASTOPOL      | nature          | Место 104                                | place_104                      | НЕТ ФОТО
+SEVASTOPOL      | food            | Место 105                                | place_105                      | /assets/guide/sevastopol/legenda_restaurant_sevastopol.webp
+SEVASTOPOL      | food            | Место 106                                | place_106                      | НЕТ ФОТО
+SEVASTOPOL      | food            | Место 107                                | place_107                      | НЕТ ФОТО
+SEVASTOPOL      | food            | Место 108                                | place_108                      | НЕТ ФОТО
+SEVASTOPOL      | food            | Место 109                                | place_109                      | НЕТ ФОТО
+SEVASTOPOL      | food            | Место 110                                | place_110                      | НЕТ ФОТО
+SEVASTOPOL      | food            | Место 111                                | place_111                      | НЕТ ФОТО
+SEVASTOPOL      | food            | Место 112                                | place_112                      | /assets/guide/sevastopol/sreda_obitaniya_sevastopol.webp
+SEVASTOPOL      | food            | Место 113                                | place_113                      | НЕТ ФОТО
+SEVASTOPOL      | food            | Место 114                                | place_114                      | НЕТ ФОТО
+SEVASTOPOL      | food            | Место 115                                | place_115                      | НЕТ ФОТО
+SEVASTOPOL      | food            | Место 116                                | place_116                      | НЕТ ФОТО
+SEVASTOPOL      | food            | Место 117                                | place_117                      | НЕТ ФОТО
+SEVASTOPOL      | food            | Место 118                                | place_118                      | НЕТ ФОТО
+SEVASTOPOL      | food            | Место 119                                | place_119                      | /assets/guide/sevastopol/aivazovsky_sevastopol.webp
+SEVASTOPOL      | food            | Место 120                                | place_120                      | НЕТ ФОТО
+SEVASTOPOL      | food            | Место 121                                | place_121                      | НЕТ ФОТО
+SEVASTOPOL      | food            | Место 122                                | place_122                      | НЕТ ФОТО
+SEVASTOPOL      | food            | Место 123                                | place_123                      | НЕТ ФОТО
+SEVASTOPOL      | food            | Место 124                                | place_124                      | НЕТ ФОТО
+SEVASTOPOL      | food            | Место 125                                | place_125                      | НЕТ ФОТО
+SEVASTOPOL      | food            | Место 126                                | place_126                      | /assets/guide/sevastopol/monroe_restaurant_sevastopol.webp
+SEVASTOPOL      | food            | Место 127                                | place_127                      | НЕТ ФОТО
+SEVASTOPOL      | food            | Место 128                                | place_128                      | НЕТ ФОТО
+SEVASTOPOL      | food            | Место 129                                | place_129                      | НЕТ ФОТО
+SEVASTOPOL      | food            | Место 130                                | place_130                      | НЕТ ФОТО
+SEVASTOPOL      | food            | Место 131                                | place_131                      | НЕТ ФОТО
+SEVASTOPOL      | food            | Место 132                                | place_132                      | НЕТ ФОТО
+SEVASTOPOL      | food            | Место 133                                | place_133                      | /assets/guide/sevastopol/mekenzi_1783_sevastopol.webp
+SEVASTOPOL      | food            | Место 134                                | place_134                      | НЕТ ФОТО
+SEVASTOPOL      | food            | Место 135                                | place_135                      | НЕТ ФОТО
+SEVASTOPOL      | food            | Место 136                                | place_136                      | НЕТ ФОТО
+SEVASTOPOL      | food            | Место 137                                | place_137                      | НЕТ ФОТО
+SEVASTOPOL      | food            | Место 138                                | place_138                      | НЕТ ФОТО
+SEVASTOPOL      | food            | Место 139                                | place_139                      | НЕТ ФОТО
+SEVASTOPOL      | food            | Место 140                                | place_140                      | /assets/guide/sevastopol/la_brasserie_sevastopol.webp
+SEVASTOPOL      | food            | Место 141                                | place_141                      | НЕТ ФОТО
+SEVASTOPOL      | food            | Место 142                                | place_142                      | НЕТ ФОТО
+SEVASTOPOL      | food            | Место 143                                | place_143                      | НЕТ ФОТО
+SEVASTOPOL      | food            | Место 144                                | place_144                      | НЕТ ФОТО
+SEVASTOPOL      | food            | Место 145                                | place_145                      | НЕТ ФОТО
+SEVASTOPOL      | food            | Место 146                                | place_146                      | НЕТ ФОТО
+SEVASTOPOL      | food            | Место 147                                | place_147                      | /assets/guide/sevastopol/black_sea_sevastopol.webp
+SEVASTOPOL      | food            | Место 148                                | place_148                      | НЕТ ФОТО
+SEVASTOPOL      | food            | Место 149                                | place_149                      | НЕТ ФОТО
+SEVASTOPOL      | food            | Место 150                                | place_150                      | НЕТ ФОТО
+SEVASTOPOL      | food            | Место 151                                | place_151                      | НЕТ ФОТО
+SEVASTOPOL      | food            | Место 152                                | place_152                      | НЕТ ФОТО
+SEVASTOPOL      | food            | Место 153                                | place_153                      | НЕТ ФОТО
+SEVASTOPOL      | food            | Место 154                                | place_154                      | /assets/guide/sevastopol/barkas_sevastopol.webp
+SEVASTOPOL      | food            | Место 155                                | place_155                      | НЕТ ФОТО
+SEVASTOPOL      | food            | Место 156                                | place_156                      | НЕТ ФОТО
+SEVASTOPOL      | food            | Место 157                                | place_157                      | НЕТ ФОТО
+SEVASTOPOL      | food            | Место 158                                | place_158                      | НЕТ ФОТО
+SEVASTOPOL      | food            | Место 159                                | place_159                      | НЕТ ФОТО
+SEVASTOPOL      | food            | Место 160                                | place_160                      | НЕТ ФОТО
+SEVASTOPOL      | food            | Место 161                                | place_161                      | /assets/guide/sevastopol/waffles_love_sevastopol.webp
+SEVASTOPOL      | food            | Место 162                                | place_162                      | НЕТ ФОТО
+SEVASTOPOL      | food            | Место 163                                | place_163                      | НЕТ ФОТО
+SEVASTOPOL      | food            | Место 164                                | place_164                      | НЕТ ФОТО
+SEVASTOPOL      | food            | Место 165                                | place_165                      | НЕТ ФОТО
+SEVASTOPOL      | food            | Место 166                                | place_166                      | НЕТ ФОТО
+SEVASTOPOL      | food            | Место 167                                | place_167                      | НЕТ ФОТО
+SEVASTOPOL      | food            | Место 168                                | place_168                      | /assets/guide/sevastopol/etazhi_cafe_sevastopol.webp
+SEVASTOPOL      | food            | Место 169                                | place_169                      | НЕТ ФОТО
+SEVASTOPOL      | food            | Место 170                                | place_170                      | НЕТ ФОТО
+SEVASTOPOL      | food            | Место 171                                | place_171                      | НЕТ ФОТО
+SEVASTOPOL      | food            | Место 172                                | place_172                      | НЕТ ФОТО
+SEVASTOPOL      | food            | Место 173                                | place_173                      | НЕТ ФОТО
+SEVASTOPOL      | food            | Место 174                                | place_174                      | НЕТ ФОТО
+SEVASTOPOL      | food            | Место 175                                | place_175                      | /assets/guide/sevastopol/sol_restobar_sevastopol.webp
+SEVASTOPOL      | food            | Место 176                                | place_176                      | НЕТ ФОТО
+SEVASTOPOL      | food            | Место 177                                | place_177                      | НЕТ ФОТО
+SEVASTOPOL      | food            | Место 178                                | place_178                      | НЕТ ФОТО
+SEVASTOPOL      | food            | Место 179                                | place_179                      | НЕТ ФОТО
+SEVASTOPOL      | food            | Место 180                                | place_180                      | НЕТ ФОТО
+SEVASTOPOL      | food            | Место 181                                | place_181                      | НЕТ ФОТО
+SEVASTOPOL      | food            | Место 182                                | place_182                      | /assets/guide/sevastopol/miyagi_hall_sevastopol.webp
+SEVASTOPOL      | food            | Место 183                                | place_183                      | НЕТ ФОТО
+SEVASTOPOL      | food            | Место 184                                | place_184                      | НЕТ ФОТО
+SEVASTOPOL      | food            | Место 185                                | place_185                      | НЕТ ФОТО
+SEVASTOPOL      | food            | Место 186                                | place_186                      | НЕТ ФОТО
+SEVASTOPOL      | food            | Место 187                                | place_187                      | НЕТ ФОТО
+SEVASTOPOL      | food            | Место 188                                | place_188                      | НЕТ ФОТО
+SEVASTOPOL      | other           | Аквапарк «Зурбаган»                      | zurbagan-aquapark              | НЕТ ФОТО
+SEVASTOPOL      | history         | Свято-Климентовский монастырь            | inkerman-monastery             | НЕТ ФОТО
+SEVASTOPOL      | history         | Инкерманский завод марочных вин          | inkerman-winery                | НЕТ ФОТО
+SEVASTOPOL      | history         | Крепость Каламита                        | kalamita-fortress              | НЕТ ФОТО
+SEVASTOPOL      | nature          | Инкерманское озеро                       | inkerman-lake                  | НЕТ ФОТО
+SEVASTOPOL      | history         | Монастырь Челтер-Мармара                 | chelter-marmara                | НЕТ ФОТО
+SEVASTOPOL      | history         | Башня Кыз-Куле (Девичья башня)           | kyz-kule-tower                 | НЕТ ФОТО
+SEVASTOPOL      | food            | Баркас                                   | barkas-sevastopol              | /assets/guide/sevastopol/barkas_sevastopol.webp
+SEVASTOPOL      | food            | Мекензи 1783                             | mekenzi-1783-sevastopol        | /assets/guide/sevastopol/mekenzi_1783_sevastopol.webp
+SEVASTOPOL      | food            | Marani                                   | marani-sevastopol              | НЕТ ФОТО
+SEVASTOPOL      | food            | Фиолент                                  | fiolent-sevastopol             | /assets/guide/crimea/cape-fiolent.jpg
+SHHYOLKINO      | history         | Крымская АЭС (недостроенная)             | crimean-nuclear-plant          | НЕТ ФОТО
+SHHYOLKINO      | nature          | Мыс Казантип                             | kazantip-cape                  | НЕТ ФОТО
+SIMFEROPOL      | caves           | Пещера-грот «Чокурча»                    | caves-place-6                  | НЕТ ФОТО
+SIMFEROPOL      | history         | Неаполь Скифский                         | neapol-skifsky                 | НЕТ ФОТО
+SIMFEROPOL      | history         | Усадьба Кесслера (Ферсманово)            | kessler-manor                  | НЕТ ФОТО
+SIMFEROPOL      | history         | Караимская кенасса                       | karaim-kenassa                 | НЕТ ФОТО
+SIMFEROPOL      | lakes           | Симферопольское водохранилище            | simf-reservoir                 | НЕТ ФОТО
+SIMFEROPOL      | kids            | Детский парк                             | childrens-park                 | НЕТ ФОТО
+SIMFEROPOL      | kids            | Симферопольский зоопарк                  | simf-zoo                       | НЕТ ФОТО
+SIMFEROPOL      | caves           | Пещера-грот «Чокурча»                    | chokurcha-cave                 | НЕТ ФОТО
+SIMFEROPOL      | nature          | Урочище Таш-Джарган                      | tash-dzhargan                  | НЕТ ФОТО
+SIMFEROPOL      | nature          | Плачущая скала                           | weeping-rock                   | НЕТ ФОТО
+SIMFEROPOL      | parks           | Парк им. Гагарина                        | gagarinsky-park                | НЕТ ФОТО
+SIMFEROPOL      | food            | Мычара                                   | mychara-simferopol             | НЕТ ФОТО
+SIMFEROPOL      | food            | Балкан Гриль                             | balkan-grill-simferopol        | /assets/guide/yalta/balkan-gril.jpg
+SIMFEROPOL      | food            | Av-Gusto                                 | av-gusto-simferopol            | НЕТ ФОТО
+SOKOLINOE       | nature          | Большой каньон Крыма                     | grand-canyon-crimea            | НЕТ ФОТО
+SOKOLINOE       | nature          | Водопад «Серебряные струи»               | silver-streams-waterfall       | НЕТ ФОТО
+STARYJ-KRYM     | history         | Монастырь Сурб-Хач                       | surb-khach-monastery           | НЕТ ФОТО
+STARYJ-KRYM     | history         | Мечеть хана Узбека                       | khan-uzbek-mosque              | НЕТ ФОТО
+STARYJ-KRYM     | history         | Дом-музей Александра Грина               | grin-house-museum              | НЕТ ФОТО
+SUDAK           | lakes           | Горное озеро «Ворон»                     | lakes-place-8                  | НЕТ ФОТО
+SUDAK           | parks           | Урочище Алчак-Кая                        | parks-place-2                  | /assets/guide/sudak/Alchak.jpg
+SUDAK           | parks           | Гора Караул-Оба                          | parks-place-5                  | НЕТ ФОТО
+SUDAK           | sights          | Место 189                                | place_189                      | /assets/guide/sudak/sudak.webp
+SUDAK           | sights          | Место 190                                | place_190                      | НЕТ ФОТО
+SUDAK           | sights          | Место 191                                | place_191                      | НЕТ ФОТО
+SUDAK           | sights          | Место 192                                | place_192                      | НЕТ ФОТО
+SUDAK           | sights          | Место 193                                | place_193                      | НЕТ ФОТО
+SUDAK           | sights          | Место 194                                | place_194                      | НЕТ ФОТО
+SUDAK           | sights          | Место 195                                | place_195                      | НЕТ ФОТО
+SUDAK           | sights          | Место 196                                | place_196                      | НЕТ ФОТО
+SUDAK           | sights          | Место 197                                | place_197                      | /assets/guide/sudak/noviy-svet.webp
+SUDAK           | sights          | Место 198                                | place_198                      | НЕТ ФОТО
+SUDAK           | sights          | Место 199                                | place_199                      | НЕТ ФОТО
+SUDAK           | sights          | Место 200                                | place_200                      | НЕТ ФОТО
+SUDAK           | sights          | Место 201                                | place_201                      | НЕТ ФОТО
+SUDAK           | sights          | Место 202                                | place_202                      | НЕТ ФОТО
+SUDAK           | sights          | Место 203                                | place_203                      | НЕТ ФОТО
+SUDAK           | sights          | Место 204                                | place_204                      | НЕТ ФОТО
+SUDAK           | sights          | Место 205                                | place_205                      | /assets/guide/sudak/Alchak.webp
+SUDAK           | sights          | Место 206                                | place_206                      | НЕТ ФОТО
+SUDAK           | sights          | Место 207                                | place_207                      | НЕТ ФОТО
+SUDAK           | sights          | Место 208                                | place_208                      | НЕТ ФОТО
+SUDAK           | sights          | Место 209                                | place_209                      | НЕТ ФОТО
+SUDAK           | sights          | Место 210                                | place_210                      | НЕТ ФОТО
+SUDAK           | sights          | Место 211                                | place_211                      | НЕТ ФОТО
+SUDAK           | sights          | Место 212                                | place_212                      | НЕТ ФОТО
+SUDAK           | sights          | Место 213                                | place_213                      | /assets/guide/sudak/meganom.webp
+SUDAK           | sights          | Место 214                                | place_214                      | НЕТ ФОТО
+SUDAK           | sights          | Место 215                                | place_215                      | НЕТ ФОТО
+SUDAK           | sights          | Место 216                                | place_216                      | НЕТ ФОТО
+SUDAK           | sights          | Место 217                                | place_217                      | НЕТ ФОТО
+SUDAK           | sights          | Место 218                                | place_218                      | НЕТ ФОТО
+SUDAK           | sights          | Место 219                                | place_219                      | НЕТ ФОТО
+SUDAK           | sights          | Место 220                                | place_220                      | НЕТ ФОТО
+SUDAK           | beaches         | Место 221                                | place_221                      | /assets/guide/sudak/PlajSudak.webp
+SUDAK           | beaches         | Место 222                                | place_222                      | НЕТ ФОТО
+SUDAK           | beaches         | Место 223                                | place_223                      | НЕТ ФОТО
+SUDAK           | beaches         | Место 224                                | place_224                      | НЕТ ФОТО
+SUDAK           | beaches         | Место 225                                | place_225                      | НЕТ ФОТО
+SUDAK           | beaches         | Место 226                                | place_226                      | НЕТ ФОТО
+SUDAK           | beaches         | Место 227                                | place_227                      | НЕТ ФОТО
+SUDAK           | beaches         | Место 228                                | place_228                      | НЕТ ФОТО
+SUDAK           | beaches         | Место 229                                | place_229                      | /assets/guide/sudak/noviy_svet_beaches_sudak.webp
+SUDAK           | beaches         | Место 230                                | place_230                      | НЕТ ФОТО
+SUDAK           | beaches         | Место 231                                | place_231                      | НЕТ ФОТО
+SUDAK           | beaches         | Место 232                                | place_232                      | НЕТ ФОТО
+SUDAK           | beaches         | Место 233                                | place_233                      | НЕТ ФОТО
+SUDAK           | beaches         | Место 234                                | place_234                      | НЕТ ФОТО
+SUDAK           | beaches         | Место 235                                | place_235                      | НЕТ ФОТО
+SUDAK           | beaches         | Место 236                                | place_236                      | НЕТ ФОТО
+SUDAK           | food            | Место 237                                | place_237                      | /assets/guide/sudak/provincia_restaurant_sudak.png
+SUDAK           | food            | Место 238                                | place_238                      | НЕТ ФОТО
+SUDAK           | food            | Место 239                                | place_239                      | НЕТ ФОТО
+SUDAK           | food            | Место 240                                | place_240                      | НЕТ ФОТО
+SUDAK           | food            | Место 241                                | place_241                      | НЕТ ФОТО
+SUDAK           | food            | Место 242                                | place_242                      | НЕТ ФОТО
+SUDAK           | food            | Место 243                                | place_243                      | НЕТ ФОТО
+SUDAK           | food            | Место 244                                | place_244                      | /assets/guide/sudak/horeca_sudak.png
+SUDAK           | food            | Место 245                                | place_245                      | НЕТ ФОТО
+SUDAK           | food            | Место 246                                | place_246                      | НЕТ ФОТО
+SUDAK           | food            | Место 247                                | place_247                      | НЕТ ФОТО
+SUDAK           | food            | Место 248                                | place_248                      | НЕТ ФОТО
+SUDAK           | food            | Место 249                                | place_249                      | НЕТ ФОТО
+SUDAK           | food            | Место 250                                | place_250                      | НЕТ ФОТО
+SUDAK           | food            | Место 251                                | place_251                      | /assets/guide/sudak/shafran_cafe_sudak.png
+SUDAK           | food            | Место 252                                | place_252                      | НЕТ ФОТО
+SUDAK           | food            | Место 253                                | place_253                      | НЕТ ФОТО
+SUDAK           | food            | Место 254                                | place_254                      | НЕТ ФОТО
+SUDAK           | food            | Место 255                                | place_255                      | НЕТ ФОТО
+SUDAK           | food            | Место 256                                | place_256                      | НЕТ ФОТО
+SUDAK           | food            | Место 257                                | place_257                      | НЕТ ФОТО
+SUDAK           | food            | Место 258                                | place_258                      | /assets/guide/sudak/barburger_sudak.png
+SUDAK           | food            | Место 259                                | place_259                      | НЕТ ФОТО
+SUDAK           | food            | Место 260                                | place_260                      | НЕТ ФОТО
+SUDAK           | food            | Место 261                                | place_261                      | НЕТ ФОТО
+SUDAK           | food            | Место 262                                | place_262                      | НЕТ ФОТО
+SUDAK           | food            | Место 263                                | place_263                      | НЕТ ФОТО
+SUDAK           | food            | Место 264                                | place_264                      | НЕТ ФОТО
+SUDAK           | food            | Место 265                                | place_265                      | /assets/guide/sudak/vkus_nashego_morya_sudak.png
+SUDAK           | food            | Место 266                                | place_266                      | НЕТ ФОТО
+SUDAK           | food            | Место 267                                | place_267                      | НЕТ ФОТО
+SUDAK           | food            | Место 268                                | place_268                      | НЕТ ФОТО
+SUDAK           | food            | Место 269                                | place_269                      | НЕТ ФОТО
+SUDAK           | food            | Место 270                                | place_270                      | НЕТ ФОТО
+SUDAK           | food            | Место 271                                | place_271                      | НЕТ ФОТО
+SUDAK           | food            | Место 272                                | place_272                      | /assets/guide/sudak/alchak_cafe_sudak.png
+SUDAK           | food            | Место 273                                | place_273                      | НЕТ ФОТО
+SUDAK           | food            | Место 274                                | place_274                      | НЕТ ФОТО
+SUDAK           | food            | Место 275                                | place_275                      | НЕТ ФОТО
+SUDAK           | food            | Место 276                                | place_276                      | НЕТ ФОТО
+SUDAK           | food            | Место 277                                | place_277                      | НЕТ ФОТО
+SUDAK           | food            | Место 278                                | place_278                      | НЕТ ФОТО
+SUDAK           | food            | Место 279                                | place_279                      | /assets/guide/sudak/stolovaya_po_domashnemu_sudak.png
+SUDAK           | food            | Место 280                                | place_280                      | НЕТ ФОТО
+SUDAK           | food            | Место 281                                | place_281                      | НЕТ ФОТО
+SUDAK           | food            | Место 282                                | place_282                      | НЕТ ФОТО
+SUDAK           | food            | Место 283                                | place_283                      | НЕТ ФОТО
+SUDAK           | food            | Место 284                                | place_284                      | НЕТ ФОТО
+SUDAK           | food            | Место 285                                | place_285                      | НЕТ ФОТО
+SUDAK           | food            | Место 286                                | place_286                      | /assets/guide/sudak/arzy_restaurant_sudak.png
+SUDAK           | food            | Место 287                                | place_287                      | НЕТ ФОТО
+SUDAK           | food            | Место 288                                | place_288                      | НЕТ ФОТО
+SUDAK           | food            | Место 289                                | place_289                      | НЕТ ФОТО
+SUDAK           | food            | Место 290                                | place_290                      | НЕТ ФОТО
+SUDAK           | food            | Место 291                                | place_291                      | НЕТ ФОТО
+SUDAK           | food            | Место 292                                | place_292                      | НЕТ ФОТО
+SUDAK           | food            | Место 293                                | place_293                      | /assets/guide/sudak/pizza_coffee_sea_sudak.png
+SUDAK           | food            | Место 294                                | place_294                      | НЕТ ФОТО
+SUDAK           | food            | Место 295                                | place_295                      | НЕТ ФОТО
+SUDAK           | food            | Место 296                                | place_296                      | НЕТ ФОТО
+SUDAK           | food            | Место 297                                | place_297                      | НЕТ ФОТО
+SUDAK           | food            | Место 298                                | place_298                      | НЕТ ФОТО
+SUDAK           | food            | Место 299                                | place_299                      | НЕТ ФОТО
+SUDAK           | food            | Место 300                                | place_300                      | /assets/guide/sudak/vysota_1234_sudak.png
+SUDAK           | food            | Место 301                                | place_301                      | НЕТ ФОТО
+SUDAK           | food            | Место 302                                | place_302                      | НЕТ ФОТО
+SUDAK           | food            | Место 303                                | place_303                      | НЕТ ФОТО
+SUDAK           | food            | Место 304                                | place_304                      | НЕТ ФОТО
+SUDAK           | food            | Место 305                                | place_305                      | НЕТ ФОТО
+SUDAK           | food            | Место 306                                | place_306                      | НЕТ ФОТО
+SUDAK           | other           | Аквапарк в Судаке                        | sudak-aquapark                 | НЕТ ФОТО
+SUDAK           | food            | Шафран                                   | shafran-sudak                  | /assets/guide/sudak/shafran_cafe_sudak.webp
+SUDAK           | food            | Арзы                                     | arzy-sudak                     | /assets/guide/sudak/arzy_restaurant_sudak.png
+SUDAK           | food            | Провинция                                | provincia-sudak                | /assets/guide/sudak/provincia_restaurant_sudak.webp
+SUDAK           | food            | HoReCa                                   | horeca-sudak                   | /assets/guide/sudak/horeca_sudak.webp
+YALTA           | mountains       | Гора Крокодил (Арман-Кая)                | mountains-place-1              | НЕТ ФОТО
+YALTA           | mountains       | Фаросский кант                           | mountains-place-3              | НЕТ ФОТО
+YALTA           | mountains       | Гора Ай-Петри                            | mountains-place-4              | /assets/guide/crimea/ai-petri.jpg
+YALTA           | mountains       | Карадаг                                  | mountains-place-6              | НЕТ ФОТО
+YALTA           | mountains       | Храм Солнца                              | mountains-place-10             | НЕТ ФОТО
+YALTA           | mountains       | Гора Чатыр-Даг                           | mountains-place-11             | НЕТ ФОТО
+YALTA           | waterfalls      | Водопад Су-Учхан                         | waterfalls-place-4             | НЕТ ФОТО
+YALTA           | waterfalls      | Водопад Учан-Су                          | waterfalls-place-8             | НЕТ ФОТО
+YALTA           | waterfalls      | Водопад «Серебряные струи»               | waterfalls-place-9             | НЕТ ФОТО
+YALTA           | waterfalls      | Водопад Бойковский                       | waterfalls-place-11            | НЕТ ФОТО
+YALTA           | caves           | Мраморная пещера                         | caves-place-0                  | НЕТ ФОТО
+YALTA           | caves           | Инкерманские штольни                     | caves-place-1                  | НЕТ ФОТО
+YALTA           | caves           | Пещера «Бездонный колодец»               | caves-place-3                  | НЕТ ФОТО
+YALTA           | caves           | Красные пещеры (Кизил-Коба)              | caves-place-5                  | НЕТ ФОТО
+YALTA           | caves           | Пещера Киик-Коба                         | caves-place-7                  | НЕТ ФОТО
+YALTA           | caves           | Пещера Сюндюрлю-Коба                     | caves-place-8                  | НЕТ ФОТО
+YALTA           | caves           | Пещера Эмине-Баир-Хосар                  | caves-place-9                  | НЕТ ФОТО
+YALTA           | caves           | Скельская сталактитовая пещера           | caves-place-11                 | НЕТ ФОТО
+YALTA           | canyons         | Каньон Узунджа                           | canyons-place-0                | /assets/guide/crimea/grand_canyon.png
+YALTA           | canyons         | Большой каньон Крыма                     | canyons-place-1                | /assets/guide/crimea/grand_canyon.png
+YALTA           | canyons         | Бельбекский каньон                       | canyons-place-2                | /assets/guide/crimea/grand_canyon.png
+YALTA           | canyons         | Арпатский каньон                         | canyons-place-3                | /assets/guide/crimea/grand_canyon.png
+YALTA           | lakes           | Урочище Панагия                          | lakes-place-1                  | НЕТ ФОТО
+YALTA           | lakes           | Озеро Нижнее                             | lakes-place-2                  | НЕТ ФОТО
+YALTA           | lakes           | Бирюзовое озеро                          | lakes-place-4                  | НЕТ ФОТО
+YALTA           | lakes           | Озеро Гасфорта                           | lakes-place-5                  | НЕТ ФОТО
+YALTA           | lakes           | Черепашье озеро                          | lakes-place-6                  | НЕТ ФОТО
+YALTA           | lakes           | Озеро Красное                            | lakes-place-7                  | НЕТ ФОТО
+YALTA           | lakes           | Балановское водохранилище                | lakes-place-9                  | НЕТ ФОТО
+YALTA           | lakes           | Могабинские озера                        | lakes-place-11                 | НЕТ ФОТО
+YALTA           | parks           | Агармышский лес                          | parks-place-0                  | НЕТ ФОТО
+YALTA           | parks           | Мыс Лукулл                               | parks-place-6                  | НЕТ ФОТО
+YALTA           | parks           | Лебяжьи Острова                          | parks-place-7                  | НЕТ ФОТО
+YALTA           | other           | Место 748                                | place_748                      | /assets/guide/yalta/yalta.jpg
+YALTA           | other           | Место 749                                | place_749                      | НЕТ ФОТО
+YALTA           | other           | Место 750                                | place_750                      | НЕТ ФОТО
+YALTA           | other           | Место 751                                | place_751                      | НЕТ ФОТО
+YALTA           | other           | Место 752                                | place_752                      | НЕТ ФОТО
+YALTA           | other           | Место 753                                | place_753                      | НЕТ ФОТО
+YALTA           | other           | Место 754                                | place_754                      | НЕТ ФОТО
+YALTA           | other           | Место 755                                | place_755                      | НЕТ ФОТО
+YALTA           | other           | Место 756                                | place_756                      | /assets/guide/crimea/ai-petri.jpg
+YALTA           | other           | Место 757                                | place_757                      | НЕТ ФОТО
+YALTA           | other           | Место 758                                | place_758                      | НЕТ ФОТО
+YALTA           | other           | Место 759                                | place_759                      | НЕТ ФОТО
+YALTA           | other           | Место 760                                | place_760                      | НЕТ ФОТО
+YALTA           | other           | Место 761                                | place_761                      | НЕТ ФОТО
+YALTA           | other           | Место 762                                | place_762                      | НЕТ ФОТО
+YALTA           | other           | Место 763                                | place_763                      | НЕТ ФОТО
+YALTA           | other           | Место 764                                | place_764                      | /assets/guide/yalta/zoopark-skazka.jpg
+YALTA           | other           | Место 765                                | place_765                      | НЕТ ФОТО
+YALTA           | other           | Место 766                                | place_766                      | НЕТ ФОТО
+YALTA           | other           | Место 767                                | place_767                      | НЕТ ФОТО
+YALTA           | other           | Место 768                                | place_768                      | НЕТ ФОТО
+YALTA           | other           | Место 769                                | place_769                      | НЕТ ФОТО
+YALTA           | other           | Место 770                                | place_770                      | НЕТ ФОТО
+YALTA           | other           | Место 771                                | place_771                      | НЕТ ФОТО
+YALTA           | other           | Место 772                                | place_772                      | /assets/guide/yalta/Akvarium.webp
+YALTA           | other           | Место 773                                | place_773                      | НЕТ ФОТО
+YALTA           | other           | Место 774                                | place_774                      | НЕТ ФОТО
+YALTA           | other           | Место 775                                | place_775                      | НЕТ ФОТО
+YALTA           | other           | Место 776                                | place_776                      | НЕТ ФОТО
+YALTA           | other           | Место 777                                | place_777                      | НЕТ ФОТО
+YALTA           | other           | Место 778                                | place_778                      | НЕТ ФОТО
+YALTA           | other           | Место 779                                | place_779                      | НЕТ ФОТО
+YALTA           | other           | Место 780                                | place_780                      | /assets/guide/yalta/Krokodelarium.webp
+YALTA           | other           | Место 781                                | place_781                      | НЕТ ФОТО
+YALTA           | other           | Место 782                                | place_782                      | НЕТ ФОТО
+YALTA           | other           | Место 783                                | place_783                      | НЕТ ФОТО
+YALTA           | other           | Место 784                                | place_784                      | НЕТ ФОТО
+YALTA           | other           | Место 785                                | place_785                      | НЕТ ФОТО
+YALTA           | other           | Место 786                                | place_786                      | НЕТ ФОТО
+YALTA           | other           | Место 787                                | place_787                      | НЕТ ФОТО
+YALTA           | other           | Место 788                                | place_788                      | /assets/guide/yalta/Aquapark.jpg
+YALTA           | other           | Место 789                                | place_789                      | НЕТ ФОТО
+YALTA           | other           | Место 790                                | place_790                      | НЕТ ФОТО
+YALTA           | other           | Место 791                                | place_791                      | НЕТ ФОТО
+YALTA           | other           | Место 792                                | place_792                      | НЕТ ФОТО
+YALTA           | other           | Место 793                                | place_793                      | НЕТ ФОТО
+YALTA           | other           | Место 794                                | place_794                      | НЕТ ФОТО
+YALTA           | other           | Место 795                                | place_795                      | НЕТ ФОТО
+YALTA           | other           | Место 796                                | place_796                      | /assets/guide/yalta/bazarYalta.webp
+YALTA           | other           | Место 797                                | place_797                      | НЕТ ФОТО
+YALTA           | other           | Место 798                                | place_798                      | НЕТ ФОТО
+YALTA           | other           | Место 799                                | place_799                      | НЕТ ФОТО
+YALTA           | other           | Место 800                                | place_800                      | НЕТ ФОТО
+YALTA           | other           | Место 801                                | place_801                      | НЕТ ФОТО
+YALTA           | other           | Место 802                                | place_802                      | НЕТ ФОТО
+YALTA           | other           | Место 803                                | place_803                      | НЕТ ФОТО
+YALTA           | other           | Место 804                                | place_804                      | /assets/guide/yalta/YablokoYalta.webp
+YALTA           | other           | Место 805                                | place_805                      | НЕТ ФОТО
+YALTA           | other           | Место 806                                | place_806                      | НЕТ ФОТО
+YALTA           | other           | Место 807                                | place_807                      | НЕТ ФОТО
+YALTA           | other           | Место 808                                | place_808                      | НЕТ ФОТО
+YALTA           | other           | Место 809                                | place_809                      | НЕТ ФОТО
+YALTA           | other           | Место 810                                | place_810                      | НЕТ ФОТО
+YALTA           | other           | Место 811                                | place_811                      | НЕТ ФОТО
+YALTA           | nature          | Место 812                                | place_812                      | /assets/guide/crimea/swallows-nest.jpg
+YALTA           | nature          | Место 813                                | place_813                      | НЕТ ФОТО
+YALTA           | nature          | Место 814                                | place_814                      | НЕТ ФОТО
+YALTA           | nature          | Место 815                                | place_815                      | НЕТ ФОТО
+YALTA           | nature          | Место 816                                | place_816                      | НЕТ ФОТО
+YALTA           | nature          | Место 817                                | place_817                      | НЕТ ФОТО
+YALTA           | nature          | Место 818                                | place_818                      | НЕТ ФОТО
+YALTA           | nature          | Место 819                                | place_819                      | НЕТ ФОТО
+YALTA           | nature          | Место 820                                | place_820                      | /assets/guide/crimea/livadia-palace.jpg
+YALTA           | nature          | Место 821                                | place_821                      | НЕТ ФОТО
+YALTA           | nature          | Место 822                                | place_822                      | НЕТ ФОТО
+YALTA           | nature          | Место 823                                | place_823                      | НЕТ ФОТО
+YALTA           | nature          | Место 824                                | place_824                      | НЕТ ФОТО
+YALTA           | nature          | Место 825                                | place_825                      | НЕТ ФОТО
+YALTA           | nature          | Место 826                                | place_826                      | НЕТ ФОТО
+YALTA           | nature          | Место 827                                | place_827                      | НЕТ ФОТО
+YALTA           | nature          | Место 828                                | place_828                      | /assets/guide/crimea/vorontsov-palace.jpg
+YALTA           | nature          | Место 829                                | place_829                      | НЕТ ФОТО
+YALTA           | nature          | Место 830                                | place_830                      | НЕТ ФОТО
+YALTA           | nature          | Место 831                                | place_831                      | НЕТ ФОТО
+YALTA           | nature          | Место 832                                | place_832                      | НЕТ ФОТО
+YALTA           | nature          | Место 833                                | place_833                      | НЕТ ФОТО
+YALTA           | nature          | Место 834                                | place_834                      | НЕТ ФОТО
+YALTA           | nature          | Место 835                                | place_835                      | НЕТ ФОТО
+YALTA           | nature          | Место 836                                | place_836                      | /assets/guide/crimea/massandra-palace.jpg
+YALTA           | nature          | Место 837                                | place_837                      | НЕТ ФОТО
+YALTA           | nature          | Место 838                                | place_838                      | НЕТ ФОТО
+YALTA           | nature          | Место 839                                | place_839                      | НЕТ ФОТО
+YALTA           | nature          | Место 840                                | place_840                      | НЕТ ФОТО
+YALTA           | nature          | Место 841                                | place_841                      | НЕТ ФОТО
+YALTA           | nature          | Место 842                                | place_842                      | НЕТ ФОТО
+YALTA           | nature          | Место 843                                | place_843                      | НЕТ ФОТО
+YALTA           | nature          | Место 844                                | place_844                      | /assets/guide/crimea/ai-petri.jpg
+YALTA           | nature          | Место 845                                | place_845                      | НЕТ ФОТО
+YALTA           | nature          | Место 846                                | place_846                      | НЕТ ФОТО
+YALTA           | nature          | Место 847                                | place_847                      | НЕТ ФОТО
+YALTA           | nature          | Место 848                                | place_848                      | НЕТ ФОТО
+YALTA           | nature          | Место 849                                | place_849                      | НЕТ ФОТО
+YALTA           | nature          | Место 850                                | place_850                      | НЕТ ФОТО
+YALTA           | nature          | Место 851                                | place_851                      | НЕТ ФОТО
+YALTA           | other           | Место 852                                | place_852                      | /assets/guide/yalta/Chayka.webp
+YALTA           | other           | Место 853                                | place_853                      | НЕТ ФОТО
+YALTA           | other           | Место 854                                | place_854                      | НЕТ ФОТО
+YALTA           | other           | Место 855                                | place_855                      | НЕТ ФОТО
+YALTA           | other           | Место 856                                | place_856                      | НЕТ ФОТО
+YALTA           | other           | Место 857                                | place_857                      | НЕТ ФОТО
+YALTA           | other           | Место 858                                | place_858                      | НЕТ ФОТО
+YALTA           | other           | Место 859                                | place_859                      | НЕТ ФОТО
+YALTA           | other           | Место 860                                | place_860                      | /assets/guide/yalta/paititi.jpg
+YALTA           | other           | Место 861                                | place_861                      | НЕТ ФОТО
+YALTA           | other           | Место 862                                | place_862                      | НЕТ ФОТО
+YALTA           | other           | Место 863                                | place_863                      | НЕТ ФОТО
+YALTA           | other           | Место 864                                | place_864                      | НЕТ ФОТО
+YALTA           | other           | Место 865                                | place_865                      | НЕТ ФОТО
+YALTA           | other           | Место 866                                | place_866                      | НЕТ ФОТО
+YALTA           | other           | Место 867                                | place_867                      | НЕТ ФОТО
+YALTA           | other           | Место 868                                | place_868                      | /assets/guide/yalta/ptizza.jpg
+YALTA           | other           | Место 869                                | place_869                      | НЕТ ФОТО
+YALTA           | other           | Место 870                                | place_870                      | НЕТ ФОТО
+YALTA           | other           | Место 871                                | place_871                      | НЕТ ФОТО
+YALTA           | other           | Место 872                                | place_872                      | НЕТ ФОТО
+YALTA           | other           | Место 873                                | place_873                      | НЕТ ФОТО
+YALTA           | other           | Место 874                                | place_874                      | НЕТ ФОТО
+YALTA           | other           | Место 875                                | place_875                      | НЕТ ФОТО
+YALTA           | other           | Место 876                                | place_876                      | /assets/guide/yalta/fabrikant.jpg
+YALTA           | other           | Место 877                                | place_877                      | НЕТ ФОТО
+YALTA           | other           | Место 878                                | place_878                      | НЕТ ФОТО
+YALTA           | other           | Место 879                                | place_879                      | НЕТ ФОТО
+YALTA           | other           | Место 880                                | place_880                      | НЕТ ФОТО
+YALTA           | other           | Место 881                                | place_881                      | НЕТ ФОТО
+YALTA           | other           | Место 882                                | place_882                      | НЕТ ФОТО
+YALTA           | other           | Место 883                                | place_883                      | НЕТ ФОТО
+YALTA           | other           | Место 884                                | place_884                      | /assets/guide/yalta/dacha.jpg
+YALTA           | other           | Место 885                                | place_885                      | НЕТ ФОТО
+YALTA           | other           | Место 886                                | place_886                      | НЕТ ФОТО
+YALTA           | other           | Место 887                                | place_887                      | НЕТ ФОТО
+YALTA           | other           | Место 888                                | place_888                      | НЕТ ФОТО
+YALTA           | other           | Место 889                                | place_889                      | НЕТ ФОТО
+YALTA           | other           | Место 890                                | place_890                      | НЕТ ФОТО
+YALTA           | other           | Место 891                                | place_891                      | НЕТ ФОТО
+YALTA           | other           | Место 892                                | place_892                      | /assets/guide/yalta/gorodskoy-sad.jpg
+YALTA           | other           | Место 893                                | place_893                      | НЕТ ФОТО
+YALTA           | other           | Место 894                                | place_894                      | НЕТ ФОТО
+YALTA           | other           | Место 895                                | place_895                      | НЕТ ФОТО
+YALTA           | other           | Место 896                                | place_896                      | НЕТ ФОТО
+YALTA           | other           | Место 897                                | place_897                      | НЕТ ФОТО
+YALTA           | other           | Место 898                                | place_898                      | НЕТ ФОТО
+YALTA           | other           | Место 899                                | place_899                      | НЕТ ФОТО
+YALTA           | other           | Место 900                                | place_900                      | /assets/guide/yalta/miyagi.jpg
+YALTA           | other           | Место 901                                | place_901                      | НЕТ ФОТО
+YALTA           | other           | Место 902                                | place_902                      | НЕТ ФОТО
+YALTA           | other           | Место 903                                | place_903                      | НЕТ ФОТО
+YALTA           | other           | Место 904                                | place_904                      | НЕТ ФОТО
+YALTA           | other           | Место 905                                | place_905                      | НЕТ ФОТО
+YALTA           | other           | Место 906                                | place_906                      | НЕТ ФОТО
+YALTA           | other           | Место 907                                | place_907                      | НЕТ ФОТО
+YALTA           | other           | Место 908                                | place_908                      | /assets/guide/yalta/van-gog.jpg
+YALTA           | other           | Место 909                                | place_909                      | НЕТ ФОТО
+YALTA           | other           | Место 910                                | place_910                      | НЕТ ФОТО
+YALTA           | other           | Место 911                                | place_911                      | НЕТ ФОТО
+YALTA           | other           | Место 912                                | place_912                      | НЕТ ФОТО
+YALTA           | other           | Место 913                                | place_913                      | НЕТ ФОТО
+YALTA           | other           | Место 914                                | place_914                      | НЕТ ФОТО
+YALTA           | other           | Место 915                                | place_915                      | НЕТ ФОТО
+YALTA           | other           | Место 916                                | place_916                      | /assets/guide/yalta/gussi.jpg
+YALTA           | other           | Место 917                                | place_917                      | НЕТ ФОТО
+YALTA           | other           | Место 918                                | place_918                      | НЕТ ФОТО
+YALTA           | other           | Место 919                                | place_919                      | НЕТ ФОТО
+YALTA           | other           | Место 920                                | place_920                      | НЕТ ФОТО
+YALTA           | other           | Место 921                                | place_921                      | НЕТ ФОТО
+YALTA           | other           | Место 922                                | place_922                      | НЕТ ФОТО
+YALTA           | other           | Место 923                                | place_923                      | НЕТ ФОТО
+YALTA           | other           | Место 924                                | place_924                      | /assets/guide/yalta/balkan-gril.jpg
+YALTA           | other           | Место 925                                | place_925                      | НЕТ ФОТО
+YALTA           | other           | Место 926                                | place_926                      | НЕТ ФОТО
+YALTA           | other           | Место 927                                | place_927                      | НЕТ ФОТО
+YALTA           | other           | Место 928                                | place_928                      | НЕТ ФОТО
+YALTA           | other           | Место 929                                | place_929                      | НЕТ ФОТО
+YALTA           | other           | Место 930                                | place_930                      | НЕТ ФОТО
+YALTA           | other           | Место 931                                | place_931                      | НЕТ ФОТО
+YALTA           | other           | Место 932                                | place_932                      | /assets/guide/yalta/villa-sofia.jpg
+YALTA           | other           | Место 933                                | place_933                      | НЕТ ФОТО
+YALTA           | other           | Место 934                                | place_934                      | НЕТ ФОТО
+YALTA           | other           | Место 935                                | place_935                      | НЕТ ФОТО
+YALTA           | other           | Место 936                                | place_936                      | НЕТ ФОТО
+YALTA           | other           | Место 937                                | place_937                      | НЕТ ФОТО
+YALTA           | other           | Место 938                                | place_938                      | НЕТ ФОТО
+YALTA           | other           | Место 939                                | place_939                      | НЕТ ФОТО
+YALTA           | other           | Место 940                                | place_940                      | /assets/guide/yalta/villa-elena.jpg
+YALTA           | other           | Место 941                                | place_941                      | НЕТ ФОТО
+YALTA           | other           | Место 942                                | place_942                      | НЕТ ФОТО
+YALTA           | other           | Место 943                                | place_943                      | НЕТ ФОТО
+YALTA           | other           | Место 944                                | place_944                      | НЕТ ФОТО
+YALTA           | other           | Место 945                                | place_945                      | НЕТ ФОТО
+YALTA           | other           | Место 946                                | place_946                      | НЕТ ФОТО
+YALTA           | other           | Место 947                                | place_947                      | НЕТ ФОТО
+YALTA           | other           | Место 948                                | place_948                      | /assets/guide/yalta/spadoni.jpg
+YALTA           | other           | Место 949                                | place_949                      | НЕТ ФОТО
+YALTA           | other           | Место 950                                | place_950                      | НЕТ ФОТО
+YALTA           | other           | Место 951                                | place_951                      | НЕТ ФОТО
+YALTA           | other           | Место 952                                | place_952                      | НЕТ ФОТО
+YALTA           | other           | Место 953                                | place_953                      | НЕТ ФОТО
+YALTA           | other           | Место 954                                | place_954                      | НЕТ ФОТО
+YALTA           | other           | Место 955                                | place_955                      | НЕТ ФОТО
+YALTA           | other           | Место 956                                | place_956                      | /assets/guide/yalta/modus.webp
+YALTA           | other           | Место 957                                | place_957                      | НЕТ ФОТО
+YALTA           | other           | Место 958                                | place_958                      | НЕТ ФОТО
+YALTA           | other           | Место 959                                | place_959                      | НЕТ ФОТО
+YALTA           | other           | Место 960                                | place_960                      | НЕТ ФОТО
+YALTA           | other           | Место 961                                | place_961                      | НЕТ ФОТО
+YALTA           | other           | Место 962                                | place_962                      | НЕТ ФОТО
+YALTA           | other           | Место 963                                | place_963                      | НЕТ ФОТО
+YALTA           | other           | Место 964                                | place_964                      | /assets/guide/yalta/oreanda.jpg
+YALTA           | other           | Место 965                                | place_965                      | НЕТ ФОТО
+YALTA           | other           | Место 966                                | place_966                      | НЕТ ФОТО
+YALTA           | other           | Место 967                                | place_967                      | НЕТ ФОТО
+YALTA           | other           | Место 968                                | place_968                      | НЕТ ФОТО
+YALTA           | other           | Место 969                                | place_969                      | НЕТ ФОТО
+YALTA           | other           | Место 970                                | place_970                      | НЕТ ФОТО
+YALTA           | other           | Место 971                                | place_971                      | НЕТ ФОТО
+YALTA           | beaches         | Место 972                                | place_972                      | /assets/guide/yalta/Masandra.webp
+YALTA           | beaches         | Место 973                                | place_973                      | НЕТ ФОТО
+YALTA           | beaches         | Место 974                                | place_974                      | НЕТ ФОТО
+YALTA           | beaches         | Место 975                                | place_975                      | НЕТ ФОТО
+YALTA           | beaches         | Место 976                                | place_976                      | НЕТ ФОТО
+YALTA           | beaches         | Место 977                                | place_977                      | НЕТ ФОТО
+YALTA           | beaches         | Место 978                                | place_978                      | НЕТ ФОТО
+YALTA           | beaches         | Место 979                                | place_979                      | НЕТ ФОТО
+YALTA           | beaches         | Место 980                                | place_980                      | /assets/guide/yalta/yalta.jpg
+YALTA           | beaches         | Место 981                                | place_981                      | НЕТ ФОТО
+YALTA           | beaches         | Место 982                                | place_982                      | НЕТ ФОТО
+YALTA           | beaches         | Место 983                                | place_983                      | НЕТ ФОТО
+YALTA           | beaches         | Место 984                                | place_984                      | НЕТ ФОТО
+YALTA           | beaches         | Место 985                                | place_985                      | НЕТ ФОТО
+YALTA           | beaches         | Место 986                                | place_986                      | НЕТ ФОТО
+YALTA           | beaches         | Место 987                                | place_987                      | НЕТ ФОТО
+YALTA           | other           | Аквапарк «Голубой Залив»                 | blue-bay-aquapark              | НЕТ ФОТО
+YALTA           | history         | Дворец Эмира Бухарского                  | bukhara-emir-palace            | НЕТ ФОТО
+YALTA           | food            | Winekitchen                              | winekitchen-yalta              | /assets/guide/kids/Drimwood.webp
+YALTA           | food            | Salt & Pepper                            | salt-pepper-yalta              | /assets/guide/yalta/modus.webp
+YALTA           | food            | Gussi                                    | gussi-yalta                    | /assets/guide/yalta/gussi.jpg
+YALTA           | food            | Чайка                                    | chaika-yalta                   | /assets/guide/yalta/Chayka.webp
+YALTA           | food            | Фабрикантъ                               | fabrikant-yalta                | /assets/guide/yalta/fabrikant.webp
+YALTA           | food            | Птица                                    | ptizza-yalta                   | /assets/guide/yalta/ptizza.webp
+YALTA           | food            | Van Gogh                                 | van-gog-yalta                  | /assets/guide/yalta/van-gog.webp
+YALTA           | food            | Spadoni                                  | spadoni-yalta                  | /assets/guide/yalta/spadoni.webp
+ZELENOGORYE     | nature          | Арпатский каньон                         | arpat-canyon                   | НЕТ ФОТО
+ZELENOGORYE     | lakes           | Горное озеро в Зеленогорье               | panagia-lake                   | НЕТ ФОТО
