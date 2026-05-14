@@ -70,7 +70,7 @@ export const NORTH_PLACES = {
         "region": "north",
         "city": "bakhchisarai",
         "category": "food",
-        "routeDest": "44.845,33.585"
+        "routeDest": "44.854,33.631"
     },
     'bakhchisarai-miniature': {
         "image": "/assets/guide/bakhchisarai-miniature.webp",

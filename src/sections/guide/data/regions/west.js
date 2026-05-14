@@ -467,7 +467,7 @@ export const WEST_PLACES = {
         "category": "food",
         "region": "west",
         "city": "balaklava",
-        "routeDest": "44.489,33.572"
+        "routeDest": "44.568,33.788"
     },
     'st-appearance-rock': {
         "image": "/assets/guide/st-appearance-rock.webp",
@@ -1943,7 +1943,7 @@ export const WEST_PLACES = {
         "category": "food",
         "region": "west",
         "city": "sevastopol",
-        "routeDest": "44.509,33.471"
+        "routeDest": "44.527,33.453"
     },
     'mekenzi-1783-sevastopol': {
         "image": "/assets/guide/mekenzi-1783-sevastopol.webp",
@@ -1982,7 +1982,7 @@ export const WEST_PLACES = {
         "category": "food",
         "region": "west",
         "city": "sevastopol",
-        "routeDest": "44.617,33.530"
+        "routeDest": "44.6153,33.5253"
     },
     'fiolent-sevastopol': {
         "image": "/assets/guide/fiolent-sevastopol.webp",

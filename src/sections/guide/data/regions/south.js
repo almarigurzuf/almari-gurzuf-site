@@ -383,7 +383,7 @@ export const SOUTH_PLACES = {
         "region": "south",
         "city": "alushta",
         "category": "nature",
-        "routeDest": "44.662,34.305"
+        "routeDest": "44.6685,34.3115"
     },
     'akvarel-dolphinarium': {
         "image": "/assets/guide/akvarel-dolphinarium.webp",
@@ -553,7 +553,7 @@ export const SOUTH_PLACES = {
         "region": "south",
         "city": "alushta",
         "category": "nature",
-        "routeDest": "44.673,34.336"
+        "routeDest": "44.6715,34.3310"
     },
     'baidarskie-gates': {
         "image": "/assets/guide/baidarskie-gates.webp",
@@ -988,7 +988,7 @@ export const SOUTH_PLACES = {
         "region": "south",
         "city": "gurzuf",
         "category": "nature",
-        "routeDest": "44.611,34.243"
+        "routeDest": "44.6097,34.2505"
     },
     'gurzuf-park': {
         "image": "/assets/guide/gurzuf-park.webp",
@@ -1843,7 +1843,7 @@ export const SOUTH_PLACES = {
         "region": "south",
         "city": "luchistoe",
         "category": "nature",
-        "routeDest": "44.764,34.432"
+        "routeDest": "44.7611,34.4285"
     },
     'demerdzhi-mountain': {
         "image": "/assets/guide/demerdzhi-mountain.webp",
@@ -1866,7 +1866,7 @@ export const SOUTH_PLACES = {
         "region": "south",
         "city": "luchistoe",
         "category": "nature",
-        "routeDest": "44.755,34.411"
+        "routeDest": "44.7497,34.4092"
     },
     'valley-of-ghosts': {
         "image": "/assets/guide/valley-of-ghosts.webp",
@@ -1889,7 +1889,7 @@ export const SOUTH_PLACES = {
         "region": "south",
         "city": "luchistoe",
         "category": "nature",
-        "routeDest": "44.752,34.398"
+        "routeDest": "44.7510,34.4078"
     },
     'ghost-valley': {
         "image": "/assets/guide/ghost-valley.webp",
@@ -1951,7 +1951,7 @@ export const SOUTH_PLACES = {
         "region": "south",
         "city": "luchistoe",
         "category": "nature",
-        "routeDest": "44.708,34.345"
+        "routeDest": "44.7230,34.3670"
     },
     'funa-fortress': {
         "image": "/assets/guide/funa-fortress.webp",
@@ -2765,7 +2765,7 @@ export const SOUTH_PLACES = {
         "category": "food",
         "region": "south",
         "city": "yalta",
-        "routeDest": "44.497,34.164"
+        "routeDest": "44.4975,34.1638"
     },
     'salt-pepper-yalta': {
         "image": "/assets/guide/salt-pepper-yalta.webp",
@@ -2805,7 +2805,7 @@ export const SOUTH_PLACES = {
         "category": "food",
         "region": "south",
         "city": "yalta",
-        "routeDest": "44.429,34.086"
+        "routeDest": "44.4278,34.0845"
     },
     'winekitchen-yalta': {
         "image": "/assets/guide/winekitchen-yalta.webp",
@@ -2845,7 +2845,7 @@ export const SOUTH_PLACES = {
         "category": "food",
         "region": "south",
         "city": "yalta",
-        "routeDest": "44.429,34.086"
+        "routeDest": "44.4278,34.0845"
     },
     'atlantida-waterpark': {
         "image": "/assets/guide/atlantida-waterpark.webp",
@@ -3194,7 +3194,7 @@ export const SOUTH_PLACES = {
         "category": "food",
         "region": "south",
         "city": "yalta",
-        "routeDest": "44.497,34.164"
+        "routeDest": "44.4968,34.1598"
     },
     'chaika-yalta': {
         "image": "/assets/guide/chaika-yalta.webp",

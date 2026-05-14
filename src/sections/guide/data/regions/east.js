@@ -701,7 +701,7 @@ export const EAST_PLACES = {
         "region": "east",
         "city": "koktebel",
         "category": "nature",
-        "routeDest": "44.914,35.231"
+        "routeDest": "44.913,35.208"
     },
     'karadag-reserve': {
         "image": "/assets/guide/karadag-reserve.webp",
