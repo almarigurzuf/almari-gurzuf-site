@@ -7,13 +7,15 @@
       "computedHash": "6f194cd10649bdcb62823f0ae3c43070dad725af451e9de8cc6a9b1404b98656"
     },
     "fullstack-developer": {
-      "source": "/Users/vladkozjaevgmail.com/Desktop/AI/Project/site/awesome-llm-apps",
-      "sourceType": "local",
+      "source": "Shubhamsaboo/awesome-llm-apps",
+      "sourceType": "github",
+      "skillPath": "awesome_agent_skills/fullstack-developer/SKILL.md",
       "computedHash": "d824d75875b289753740c12ba33c005a40f0d996f12d3424cabf1ef9ad4cd1a3"
     },
     "ux-designer": {
-      "source": "/Users/vladkozjaevgmail.com/Desktop/AI/Project/site/awesome-llm-apps",
-      "sourceType": "local",
+      "source": "Shubhamsaboo/awesome-llm-apps",
+      "sourceType": "github",
+      "skillPath": "awesome_agent_skills/ux-designer/SKILL.md",
       "computedHash": "1178ae59d9dd5ca71122674d85bd78d746b3b95f76c58c65cb0fd48dd54bea45"
     }
   }
