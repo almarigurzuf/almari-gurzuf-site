@@ -28,6 +28,9 @@ export function renderCards(container, places, filters) {
         const routeBtn = place.routeDest
             ? `<button class="btn-route-card" data-route-dest="${place.routeDest}"><i class="fas fa-route"></i> Маршрут</button>`
             : '';
+        const webBtn = place.website
+            ? `<a href="${place.website}" target="_blank" class="btn-route-card btn-web-card"><i class="fas fa-globe"></i> Сайт</a>`
+            : '';
 
         return `
             <div class="guide-card guide-card--has-img appear" style="--idx: ${idx}">
@@ -40,6 +43,7 @@ export function renderCards(container, places, filters) {
                 ${desc}
                 <div class="guide-card-actions">
                     <button class="btn-details" data-guide-id="${id}">Подробнее</button>
+                    ${webBtn}
                     ${routeBtn}
                 </div>
             </div>

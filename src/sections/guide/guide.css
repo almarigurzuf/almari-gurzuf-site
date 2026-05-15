@@ -538,6 +538,10 @@
     transform: translateY(-2px);
 }
 
+.btn-web-card {
+    background: linear-gradient(135deg, #2c7a4b, #1e5c38) !important;
+}
+
 .btn-route {
     display: flex;
     align-items: center;

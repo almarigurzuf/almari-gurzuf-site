@@ -33,11 +33,11 @@ export const EAST_PLACES = {
             }
         ],
         "tip": "Билеты лучше покупать онлайн на официальном сайте — в сезон очереди могут быть очень длинными. Обязательно возьмите аудиогид, чтобы узнать невероятные истории создания главных полотен. Среда — выходной день.",
-        "website": "https://feogallery.org/",
-        "routeDest": "45.0315,35.3821",
         "region": "east",
         "city": "feodosiya",
-        "category": "history"
+        "category": "history",
+        "website": "http://feogallery.org/",
+        "routeDest": "45.032421,35.382656"
     },
     'kafa-fortress': {
         "image": "/assets/guide/kafa-fortress.webp",
@@ -76,7 +76,7 @@ export const EAST_PLACES = {
         "region": "east",
         "city": "feodosiya",
         "category": "history",
-        "routeDest": "45.0231,35.4008"
+        "routeDest": "45.021594,35.399815"
     },
     'adzhimushkay-quarries': {
         "image": "/assets/guide/adzhimushkay-quarries.webp",
@@ -115,7 +115,8 @@ export const EAST_PLACES = {
         "region": "east",
         "city": "kerch",
         "category": "history",
-        "routeDest": "45.381,36.524"
+        "website": "https://kerchmuseum.ru/",
+        "routeDest": "45.380998,36.523601"
     },
     'pantikapaion-city': {
         "image": "/assets/guide/pantikapaion-city.webp",
@@ -154,7 +155,7 @@ export const EAST_PLACES = {
         "region": "east",
         "city": "kerch",
         "category": "history",
-        "routeDest": "45.351,36.469"
+        "routeDest": "45.351061,36.469598"
     },
     'mud-volcanoes-kerch': {
         "image": "/assets/guide/mud-volcanoes-kerch.webp",
@@ -193,7 +194,7 @@ export const EAST_PLACES = {
         "region": "east",
         "city": "kerch",
         "category": "nature",
-        "routeDest": "45.424,36.478"
+        "routeDest": "45.425198,36.472586"
     },
     'mitridat-mountain': {
         "image": "/assets/guide/mitridat-mountain.webp",
@@ -232,7 +233,7 @@ export const EAST_PLACES = {
         "region": "east",
         "city": "kerch",
         "category": "nature",
-        "routeDest": "45.350,36.471"
+        "routeDest": "45.350685,36.469717"
     },
     'kerch-fortress': {
         "image": "/assets/guide/kerch-fortress.webp",
@@ -271,7 +272,7 @@ export const EAST_PLACES = {
         "region": "east",
         "city": "kerch",
         "category": "history",
-        "routeDest": "45.312,36.477"
+        "routeDest": "45.309550,36.469890"
     },
     'koyashskoe-pink-lake': {
         "image": "/assets/guide/koyashskoe-pink-lake.webp",
@@ -310,7 +311,7 @@ export const EAST_PLACES = {
         "region": "east",
         "city": "kerch",
         "category": "nature",
-        "routeDest": "45.048,36.183"
+        "routeDest": "45.048106,36.184643"
     },
     'yeni-kale-fortress': {
         "image": "/assets/guide/yeni-kale-fortress.webp",
@@ -349,7 +350,7 @@ export const EAST_PLACES = {
         "region": "east",
         "city": "kerch",
         "category": "history",
-        "routeDest": "45.347,36.604"
+        "routeDest": "45.350867,36.604266"
     },
     'crimean-bridge': {
         "image": "/assets/guide/crimean-bridge.webp",
@@ -388,7 +389,7 @@ export const EAST_PLACES = {
         "region": "east",
         "city": "kerch",
         "category": "entertainment",
-        "routeDest": "45.318,36.505"
+        "routeDest": "45.266847,36.550446"
     },
     'john-baptist-church': {
         "image": "/assets/guide/john-baptist-church.webp",
@@ -427,7 +428,8 @@ export const EAST_PLACES = {
         "region": "east",
         "city": "kerch",
         "category": "history",
-        "routeDest": "45.352,36.476"
+        "website": "https://soborpredtechi.ru/",
+        "routeDest": "45.351401,36.476033"
     },
     'royal-kurgan': {
         "image": "/assets/guide/royal-kurgan.webp",
@@ -466,7 +468,8 @@ export const EAST_PLACES = {
         "region": "east",
         "city": "kerch",
         "category": "nature",
-        "routeDest": "45.374,36.526"
+        "website": "https://kerchmuseum.ru/",
+        "routeDest": "45.374043,36.526226"
     },
     'koktebel-aquapark': {
         "image": "/assets/guide/koktebel-aquapark.webp",
@@ -504,9 +507,9 @@ export const EAST_PLACES = {
         "tip": "Покупайте билеты онлайн на официальном сайте — это позволит не только сэкономить, но и избежать очередей в кассу в пик сезона. В аквапарке отличная детская анимация, которая не даст скучать вашим малышам весь день.",
         "region": "east",
         "city": "koktebel",
-        "website": "https://aquapark-koktebel.ru/",
-        "routeDest": "44.9315,35.2585",
-        "category": "entertainment"
+        "category": "entertainment",
+        "website": "https://aquapark-koktebel.ru/about/",
+        "routeDest": "44.966663,35.255491"
     },
     'koktebel-winery': {
         "image": "/assets/guide/koktebel-winery.webp",
@@ -545,7 +548,8 @@ export const EAST_PLACES = {
         "region": "east",
         "city": "koktebel",
         "category": "food",
-        "routeDest": "44.981,35.244"
+        "website": "http://vinokoktebel.ru/",
+        "routeDest": "44.973566,35.263510"
     },
     'klementyeva-mountain': {
         "image": "/assets/guide/klementyeva-mountain.webp",
@@ -584,7 +588,7 @@ export const EAST_PLACES = {
         "region": "east",
         "city": "koktebel",
         "category": "nature",
-        "routeDest": "45.011,35.242"
+        "routeDest": "45.012768,35.242987"
     },
     'delfinarij-koktebel': {
         "image": "/assets/guide/delfinarij-koktebel.webp",
@@ -623,7 +627,8 @@ export const EAST_PLACES = {
         "region": "east",
         "city": "koktebel",
         "category": "entertainment",
-        "routeDest": "44.962,35.250"
+        "website": "https://koktebel-delfin.ru/",
+        "routeDest": "44.964952,35.259446"
     },
     'zvezdopad-vospominanij': {
         "image": "/assets/guide/zvezdopad-vospominanij.webp",
@@ -662,7 +667,8 @@ export const EAST_PLACES = {
         "region": "east",
         "city": "koktebel",
         "category": "nature",
-        "routeDest": "45.008,35.204"
+        "website": "https://uzun-syrt.ru/%D1%80%D0%BE%D1%82%D0%BE%D0%BD%D0%B4%D0%B0-%D0%B7%D0%B2%D0%B5%D0%B7%D0%B4%D0%BE%D0%BF%D0%B0%D0%B4-%D0%B2%D0%BE%D1%81%D0%BF%D0%BE%D0%BC%D0%B8%D0%BD%D0%B0%D0%BD%D0%B8%D0%B9/",
+        "routeDest": "45.007211,35.204398"
     },
     'zolotye-vorota': {
         "image": "/assets/guide/zolotye-vorota.webp",
@@ -701,7 +707,7 @@ export const EAST_PLACES = {
         "region": "east",
         "city": "koktebel",
         "category": "nature",
-        "routeDest": "44.913,35.208"
+        "routeDest": "44.914660,35.231410"
     },
     'karadag-reserve': {
         "image": "/assets/guide/karadag-reserve.webp",
@@ -740,7 +746,8 @@ export const EAST_PLACES = {
         "region": "east",
         "city": "koktebel",
         "category": "nature",
-        "routeDest": "44.931,35.228"
+        "website": "http://karadag.com.ru/",
+        "routeDest": "44.932607,35.213021"
     },
     'mys-hameleon': {
         "image": "/assets/guide/mys-hameleon.webp",
@@ -779,7 +786,7 @@ export const EAST_PLACES = {
         "region": "east",
         "city": "koktebel",
         "category": "nature",
-        "routeDest": "44.962,35.295"
+        "routeDest": "44.963813,35.295059"
     },
     'barakol-lake': {
         "image": "/assets/guide/barakol-lake.webp",
@@ -818,7 +825,7 @@ export const EAST_PLACES = {
         "region": "east",
         "city": "koktebel",
         "category": "nature",
-        "routeDest": "44.978,35.215"
+        "routeDest": "44.998865,35.236739"
     },
     'chertov-palets-koktebel': {
         "image": "/assets/guide/chertov-palets-koktebel.webp",
@@ -857,7 +864,7 @@ export const EAST_PLACES = {
         "region": "east",
         "city": "koktebel",
         "category": "nature",
-        "routeDest": "44.931,35.228"
+        "routeDest": "44.929077,35.238912"
     },
     'tikhaya-bay': {
         "image": "/assets/guide/tikhaya-bay.webp",
@@ -896,7 +903,7 @@ export const EAST_PLACES = {
         "region": "east",
         "city": "koktebel",
         "category": "beaches",
-        "routeDest": "44.967,35.305"
+        "routeDest": "44.966001,35.311444"
     },
     'golitsyn-trail': {
         "image": "/assets/guide/golitsyn-trail.webp",
@@ -938,10 +945,10 @@ export const EAST_PLACES = {
             }
         ],
         "tip": "Возьмите с собой купальники — в конце тропы можно спуститься к Царскому пляжу в Голубой бухте.",
-        "routeDest": "44.8252,34.9157",
         "region": "east",
         "city": "noviy_svet",
-        "category": "parks"
+        "category": "parks",
+        "routeDest": "44.825187,34.915531"
     },
     'crimean-nuclear-plant': {
         "image": "/assets/guide/crimean-nuclear-plant.webp",
@@ -980,7 +987,7 @@ export const EAST_PLACES = {
         "region": "east",
         "city": "shhyolkino",
         "category": "history",
-        "routeDest": "45.391,35.803"
+        "routeDest": "45.391788,35.803652"
     },
     'kazantip-cape': {
         "image": "/assets/guide/kazantip-cape.webp",
@@ -1019,7 +1026,8 @@ export const EAST_PLACES = {
         "region": "east",
         "city": "shhyolkino",
         "category": "nature",
-        "routeDest": "45.454,35.845"
+        "website": "https://zapovedcrimea.ru/kazantipskiy",
+        "routeDest": "45.461674,35.845863"
     },
     'three-saints-waterfall': {
         "image": "/assets/guide/three-saints-waterfall.webp",
@@ -1058,7 +1066,7 @@ export const EAST_PLACES = {
         "region": "east",
         "city": "staryj-krym",
         "category": "nature",
-        "routeDest": "45.015,34.885"
+        "routeDest": "44.978577,34.872776"
     },
     'grin-house-museum': {
         "image": "/assets/guide/grin-house-museum.webp",
@@ -1097,7 +1105,8 @@ export const EAST_PLACES = {
         "region": "east",
         "city": "staryj-krym",
         "category": "history",
-        "routeDest": "45.031,35.089"
+        "website": "https://xn----8sbfkobckofaskby8kve.xn--p1ai/muzei-zapovednika/dom-muzej-a-s-grina/",
+        "routeDest": "45.025603,35.082725"
     },
     'khan-uzbek-mosque': {
         "image": "/assets/guide/khan-uzbek-mosque.webp",
@@ -1136,7 +1145,7 @@ export const EAST_PLACES = {
         "region": "east",
         "city": "staryj-krym",
         "category": "history",
-        "routeDest": "45.032,35.093"
+        "routeDest": "45.032346,35.094578"
     },
     'surb-khach-monastery': {
         "image": "/assets/guide/surb-khach-monastery.webp",
@@ -1175,7 +1184,8 @@ export const EAST_PLACES = {
         "region": "east",
         "city": "staryj-krym",
         "category": "history",
-        "routeDest": "45.001,35.062"
+        "website": "https://xn--80ajbjjanejxfh2ksc.xn--p1ai/",
+        "routeDest": "45.000547,35.062403"
     },
     'sudak-aquapark': {
         "image": "/assets/guide/sudak-aquapark.webp",
@@ -1213,9 +1223,9 @@ export const EAST_PLACES = {
         "tip": "Рекомендуем приходить в аквапарк к открытию, чтобы успеть прокатиться на самых популярных горках без очередей. Вечером у бассейнов часто проходят дискотеки и пенные вечеринки, которые входят в стоимость входного билета.",
         "region": "east",
         "city": "sudak",
-        "website": "http://sudak-aquapark.com/",
-        "routeDest": "44.8385,34.9855",
-        "category": "entertainment"
+        "category": "entertainment",
+        "website": "https://sudak-aquapark.com/",
+        "routeDest": "44.838129,34.984070"
     },
     'sudak-fortress': {
         "image": "/assets/guide/sudak-fortress.webp",
@@ -1257,11 +1267,10 @@ export const EAST_PLACES = {
             }
         ],
         "tip": "Камни крепости очень скользкие, особенно после дождя или утренней росы — надевайте только удобную обувь с хорошим протектором. Лучшие панорамные виды открываются у Дозорной башни. Старайтесь приходить либо к 8 утра, либо после 17:00, чтобы избежать жары.",
-        "website": "http://sudak-museum.ru/",
-        "routeDest": "44.8417,34.9583",
         "region": "east",
         "city": "sudak",
-        "category": "history"
+        "category": "history",
+        "routeDest": "45.021594,35.399815"
     },
     'sudak-beach': {
         "image": "/assets/guide/sudak-beach.webp",
@@ -1281,10 +1290,10 @@ export const EAST_PLACES = {
                 "value": "На крепость"
             }
         ],
-        "routeDest": "44.8396,34.9754",
         "region": "east",
         "city": "sudak",
-        "category": "beaches"
+        "category": "beaches",
+        "routeDest": "44.839803,34.974084"
     },
     'alchak-cape': {
         "image": "/assets/guide/alchak-cape.webp",
@@ -1304,10 +1313,10 @@ export const EAST_PLACES = {
                 "value": "1-2 часа"
             }
         ],
-        "routeDest": "44.831910,34.989628",
         "region": "east",
         "city": "sudak",
-        "category": "parks"
+        "category": "parks",
+        "routeDest": "44.835000,34.994729"
     },
     'meganom-cape': {
         "image": "/assets/guide/meganom-cape.webp",
@@ -1327,10 +1336,10 @@ export const EAST_PLACES = {
                 "value": "Действующий"
             }
         ],
-        "routeDest": "44.794156,35.080172",
         "region": "east",
         "city": "sudak",
-        "category": "nature"
+        "category": "nature",
+        "routeDest": "44.793867,35.079961"
     },
     'provincia-sudak': {
         "image": "/assets/guide/provincia-sudak.webp",
@@ -1369,7 +1378,8 @@ export const EAST_PLACES = {
         "category": "food",
         "region": "east",
         "city": "sudak",
-        "routeDest": "44.850,34.976"
+        "website": "https://provinciarest.qr-cafe.ru/",
+        "routeDest": "44.848399,34.974482"
     },
     'shafran-sudak': {
         "image": "/assets/guide/shafran-sudak.webp",
@@ -1408,7 +1418,8 @@ export const EAST_PLACES = {
         "category": "food",
         "region": "east",
         "city": "sudak",
-        "routeDest": "44.849,34.977"
+        "website": "https://cafe-shafran.qr-cafe.ru/",
+        "routeDest": "44.854696,34.975816"
     },
     'arzy-sudak': {
         "image": "/assets/guide/arzy-sudak.webp",
@@ -1447,6 +1458,6 @@ export const EAST_PLACES = {
         "category": "food",
         "region": "east",
         "city": "sudak",
-        "routeDest": "44.840,34.975"
+        "routeDest": "44.967623,35.266167"
     }
 };

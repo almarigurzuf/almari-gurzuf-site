@@ -35,9 +35,9 @@ export const SOUTH_PLACES = {
         "tip": "Благодаря морской воде загар в аквапарке ложится быстрее — не забывайте про солнцезащитный крем. Если хотите тишины, выбирайте VIP-зону в верхней части парка, там открывается лучший вид на море.",
         "region": "south",
         "city": "alupka",
+        "category": "entertainment",
         "website": "https://aquapark-simeiz.ru/",
-        "routeDest": "44.4021,33.9855",
-        "category": "entertainment"
+        "routeDest": "44.400976,33.984103"
     },
     'vorontsov-palace': {
         "image": "/assets/guide/vorontsov-palace.webp",
@@ -79,11 +79,11 @@ export const SOUTH_PLACES = {
             }
         ],
         "tip": "Лучший совет: заходите в залы дворца до 11:00, а после посвятите время парку. Обязательно найдите \"Лебединое озеро\" и \"Водопад\". Единый билет (850₽) — самый выгодный вариант, если хотите увидеть парадные залы и Дом Шувалова.",
-        "website": "https://worontsovpalace.ru/",
-        "routeDest": "44.4195,34.0558",
         "region": "south",
         "city": "alupka",
-        "category": "history"
+        "category": "history",
+        "website": "https://worontsovpalace.ru/",
+        "routeDest": "44.419879,34.055797"
     },
     'vorontsov-park-full': {
         "image": "/assets/guide/vorontsov-park-full.webp",
@@ -122,7 +122,8 @@ export const SOUTH_PLACES = {
         "region": "south",
         "city": "alupka",
         "category": "parks",
-        "routeDest": "44.419,34.055"
+        "website": "https://worontsovpalace.ru/?p=l",
+        "routeDest": "44.421783,34.058056"
     },
     'shaan-kaya': {
         "image": "/assets/guide/shaan-kaya.webp",
@@ -161,7 +162,7 @@ export const SOUTH_PLACES = {
         "region": "south",
         "city": "alupka",
         "category": "nature",
-        "routeDest": "44.432,34.020"
+        "routeDest": "44.435758,34.020578"
     },
     'amet-khan-museum': {
         "image": "/assets/guide/amet-khan-museum.webp",
@@ -200,7 +201,8 @@ export const SOUTH_PLACES = {
         "region": "south",
         "city": "alupka",
         "category": "history",
-        "routeDest": "44.418,34.048"
+        "website": "https://krtmuseum.ru/muzej-dvazhdy-geroya-sovetskogo-soyuza-amet-hana-sultana-g-alupka/",
+        "routeDest": "44.423985,34.054767"
     },
     'shaan-kaya-lake': {
         "image": "/assets/guide/shaan-kaya-lake.webp",
@@ -223,7 +225,7 @@ export const SOUTH_PLACES = {
         "region": "south",
         "city": "alupka",
         "category": "nature",
-        "routeDest": "44.428,34.022"
+        "routeDest": "44.435758,34.020578"
     },
     'dreamwood-park': {
         "image": "/assets/guide/dreamwood-park.webp",
@@ -265,11 +267,11 @@ export const SOUTH_PLACES = {
             }
         ],
         "tip": "Билеты лучше покупать онлайн заранее, так как количество посетителей в день ограничено.",
-        "website": "https://dreamwoodpark.com/",
-        "routeDest": "44.404222,33.951556",
         "region": "south",
         "city": "alupka",
-        "category": "parks"
+        "category": "parks",
+        "website": "https://www.dreamwoodpark.com/?utm_campaign=glavnaya&utm_medium=dreamwoodpark&utm_source=ya_map",
+        "routeDest": "44.397740,33.936079"
     },
     'aivazovsky-rock': {
         "image": "/assets/guide/aivazovsky-rock.webp",
@@ -308,7 +310,7 @@ export const SOUTH_PLACES = {
         "region": "south",
         "city": "alupka",
         "category": "nature",
-        "routeDest": "44.414,34.045"
+        "routeDest": "44.418235,34.056700"
     },
     'michael-archangel-church': {
         "image": "/assets/guide/michael-archangel-church.webp",
@@ -331,7 +333,8 @@ export const SOUTH_PLACES = {
         "region": "south",
         "city": "alupka",
         "category": "history",
-        "routeDest": "44.420,34.051"
+        "website": "https://hramalupka.ru/hram/",
+        "routeDest": "44.418721,34.044962"
     },
     'alushta-aquarium': {
         "image": "/assets/guide/alushta-aquarium.webp",
@@ -356,11 +359,11 @@ export const SOUTH_PLACES = {
                 "value": "1500 ₽"
             }
         ],
-        "website": "https://alushta-aqua.ru/",
-        "routeDest": "44.671031,34.411170",
         "region": "south",
         "city": "alushta",
-        "category": "entertainment"
+        "category": "entertainment",
+        "website": "https://alushta-aqua.ru/",
+        "routeDest": "44.671033,34.411180"
     },
     'golovkinsky-waterfall': {
         "image": "/assets/guide/golovkinsky-waterfall.webp",
@@ -383,7 +386,7 @@ export const SOUTH_PLACES = {
         "region": "south",
         "city": "alushta",
         "category": "nature",
-        "routeDest": "44.6685,34.3115"
+        "routeDest": "44.682337,34.305337"
     },
     'akvarel-dolphinarium': {
         "image": "/assets/guide/akvarel-dolphinarium.webp",
@@ -406,7 +409,8 @@ export const SOUTH_PLACES = {
         "region": "south",
         "city": "alushta",
         "category": "entertainment",
-        "routeDest": "44.670,34.410"
+        "website": "https://dolphinarium-alushta.ru/",
+        "routeDest": "44.670695,34.409483"
     },
     'dorado-alushta': {
         "image": "/assets/guide/dorado-alushta.webp",
@@ -429,7 +433,8 @@ export const SOUTH_PLACES = {
         "category": "food",
         "region": "south",
         "city": "alushta",
-        "routeDest": "44.673,34.416"
+        "website": "https://dorado.rest/",
+        "routeDest": "44.650292,34.401822"
     },
     'aluston-fortress': {
         "image": "/assets/guide/aluston-fortress.webp",
@@ -452,7 +457,8 @@ export const SOUTH_PLACES = {
         "region": "south",
         "city": "alushta",
         "category": "history",
-        "routeDest": "44.673,34.414"
+        "website": "https://xn--80awgdogf.xn--p1ai/",
+        "routeDest": "44.672412,34.411780"
     },
     'crimea-miniature': {
         "image": "/assets/guide/crimea-miniature.webp",
@@ -491,7 +497,8 @@ export const SOUTH_PLACES = {
         "region": "south",
         "city": "alushta",
         "category": "parks",
-        "routeDest": "44.671,34.408"
+        "website": "https://park-miniatur.ru/",
+        "routeDest": "44.670791,34.410047"
     },
     'jules-verne-alushta': {
         "image": "/assets/guide/jules-verne-alushta.webp",
@@ -530,7 +537,8 @@ export const SOUTH_PLACES = {
         "category": "food",
         "region": "south",
         "city": "alushta",
-        "routeDest": "44.675,34.410"
+        "website": "https://jule-vern.ru/",
+        "routeDest": "44.674568,34.414357"
     },
     'ai-yori-spring': {
         "image": "/assets/guide/ai-yori-spring.webp",
@@ -553,7 +561,7 @@ export const SOUTH_PLACES = {
         "region": "south",
         "city": "alushta",
         "category": "nature",
-        "routeDest": "44.6715,34.3310"
+        "routeDest": "44.673689,34.336730"
     },
     'baidarskie-gates': {
         "image": "/assets/guide/baidarskie-gates.webp",
@@ -576,7 +584,7 @@ export const SOUTH_PLACES = {
         "region": "south",
         "city": "foros",
         "category": "history",
-        "routeDest": "44.403,33.782"
+        "routeDest": "44.406133,33.781999"
     },
     'foros-church': {
         "image": "/assets/guide/foros-church.webp",
@@ -615,7 +623,7 @@ export const SOUTH_PLACES = {
         "region": "south",
         "city": "foros",
         "category": "history",
-        "routeDest": "44.405,33.788"
+        "routeDest": "44.404470,33.788117"
     },
     'foros-park': {
         "image": "/assets/guide/foros-park.webp",
@@ -638,7 +646,8 @@ export const SOUTH_PLACES = {
         "region": "south",
         "city": "foros",
         "category": "parks",
-        "routeDest": "44.391,33.787"
+        "website": "https://parkforos.ru/",
+        "routeDest": "44.390138,33.784122"
     },
     'ai-todor-lighthouse': {
         "image": "/assets/guide/ai-todor-lighthouse.webp",
@@ -661,7 +670,7 @@ export const SOUTH_PLACES = {
         "region": "south",
         "city": "gaspra",
         "category": "history",
-        "routeDest": "44.432,34.122"
+        "routeDest": "44.428458,34.122385"
     },
     'panina-palace': {
         "image": "/assets/guide/panina-palace.webp",
@@ -700,7 +709,7 @@ export const SOUTH_PLACES = {
         "region": "south",
         "city": "gaspra",
         "category": "history",
-        "routeDest": "44.437,34.110"
+        "routeDest": "44.435151,34.098640"
     },
     'kichkine-palace': {
         "image": "/assets/guide/kichkine-palace.webp",
@@ -739,7 +748,7 @@ export const SOUTH_PLACES = {
         "region": "south",
         "city": "gaspra",
         "category": "history",
-        "routeDest": "44.436,34.127"
+        "routeDest": "44.437471,34.130598"
     },
     'swallows-nest': {
         "image": "/assets/guide/swallows-nest.webp",
@@ -781,11 +790,11 @@ export const SOUTH_PLACES = {
             }
         ],
         "tip": "Чтобы посещение было максимально комфортным, рекомендуем добираться морским путем. Катера отходят с набережной Ялты каждые 30 минут — так вы избежите долгого подъема по лестницам от трассы и увидите замок с самого красивого ракурса. Если едете на авто, парковка в сезон переполнена уже к 11:00.",
-        "website": "https://замок-ласточкино-гнездо.рф/",
-        "routeDest": "44.430467,34.128399",
         "region": "south",
         "city": "gaspra",
-        "category": "history"
+        "category": "history",
+        "website": "https://xn-----6kcbqggkggtcllvchedg5cwa0j.xn--p1ai/",
+        "routeDest": "44.430630,34.128507"
     },
     'charax-park': {
         "image": "/assets/guide/charax-park.webp",
@@ -808,7 +817,7 @@ export const SOUTH_PLACES = {
         "region": "south",
         "city": "gaspra",
         "category": "parks",
-        "routeDest": "44.430,34.115"
+        "routeDest": "44.429770,34.117288"
     },
     'royal-trail': {
         "image": "/assets/guide/royal-trail.webp",
@@ -847,7 +856,7 @@ export const SOUTH_PLACES = {
         "region": "south",
         "city": "gaspra",
         "category": "nature",
-        "routeDest": "44.434,34.116"
+        "routeDest": "44.451258,34.128094"
     },
     'ai-petri': {
         "image": "/assets/guide/ai-petri.webp",
@@ -889,11 +898,10 @@ export const SOUTH_PLACES = {
             }
         ],
         "tip": "Внимание: в 2026 году посадка на канатную дорогу в Мисхоре закрыта. Используйте \"Туристический центр Ай-Петри\" у Южнобережного шоссе (трасса Ялта-Севастополь). Оставьте машину на перехватывающей парковке и воспользуйтесь бесплатным шаттлом до верхней станции.",
-        "website": "https://aipetri.land/",
-        "routeDest": "44.425565,34.070470",
         "region": "south",
         "city": "gurzuf",
-        "category": "nature"
+        "category": "nature",
+        "routeDest": "44.451638,34.060602"
     },
     'genoise-rock-gurzuf': {
         "image": "/assets/guide/genoise-rock-gurzuf.webp",
@@ -916,7 +924,7 @@ export const SOUTH_PLACES = {
         "region": "south",
         "city": "gurzuf",
         "category": "nature",
-        "routeDest": "44.543,34.293"
+        "routeDest": "44.542454,34.283709"
     },
     'ayu-dag-mountain': {
         "image": "/assets/guide/ayu-dag-mountain.webp",
@@ -955,7 +963,7 @@ export const SOUTH_PLACES = {
         "region": "south",
         "city": "gurzuf",
         "category": "nature",
-        "routeDest": "44.558,34.331"
+        "routeDest": "44.561630,34.332740"
     },
     'roman-kosh-peak': {
         "image": "/assets/guide/roman-kosh-peak.webp",
@@ -988,7 +996,7 @@ export const SOUTH_PLACES = {
         "region": "south",
         "city": "gurzuf",
         "category": "nature",
-        "routeDest": "44.6097,34.2505"
+        "routeDest": "44.612797,34.242821"
     },
     'gurzuf-park': {
         "image": "/assets/guide/gurzuf-park.webp",
@@ -1008,10 +1016,10 @@ export const SOUTH_PLACES = {
                 "value": "400 ₽"
             }
         ],
-        "routeDest": "44.5432,34.2772",
         "region": "south",
         "city": "gurzuf",
-        "category": "parks"
+        "category": "parks",
+        "routeDest": "44.541936,34.276104"
     },
     'chekhov-dacha': {
         "image": "/assets/guide/chekhov-dacha.webp",
@@ -1053,11 +1061,10 @@ export const SOUTH_PLACES = {
             }
         ],
         "tip": "Спуститесь к воде — это одна из самых чистых и красивых маленьких бухт в Гурзуфе.",
-        "website": "https://yalta-museum.ru/",
-        "routeDest": "44.541875,34.281848",
         "region": "south",
         "city": "gurzuf",
-        "category": "beaches"
+        "category": "beaches",
+        "routeDest": "44.541874,34.281847"
     },
 
     'suuk-su-palace': {
@@ -1076,7 +1083,7 @@ export const SOUTH_PLACES = {
         "region": "south",
         "city": "gurzuf",
         "category": "history",
-        "routeDest": "44.5458,34.2902"
+        "routeDest": "44.550127,34.296412"
     },
     'molbert-cafe': {
         "image": "/assets/guide/molbert-cafe.webp",
@@ -1112,10 +1119,10 @@ export const SOUTH_PLACES = {
             }
         ],
         "tip": "Занимайте столик на веранде — оттуда открывается лучший вид в Гурзуфе. Обязательно попробуйте их фирменные сырники и запеченный камамбер с крымским медом.",
-        "routeDest": "44.5423,34.2820",
         "category": "food",
         "region": "south",
-        "city": "gurzuf"
+        "city": "gurzuf",
+        "routeDest": "44.542621,34.279805"
     },
     'sommelier-gurzuf': {
         "image": "/assets/guide/sommelier-gurzuf.webp",
@@ -1152,11 +1159,11 @@ export const SOUTH_PLACES = {
             }
         ],
         "tip": "Столик на вечер лучше бронировать заранее, особенно в выходные дни.",
-        "website": "https://cafesomelie.ru/",
-        "routeDest": "44.542159,34.283120",
         "region": "south",
         "city": "gurzuf",
-        "category": "food"
+        "category": "food",
+        "website": "https://cafesomelie.ru/o-nas.html",
+        "routeDest": "44.543032,34.280639"
     },
     'red-stone-rock': {
         "image": "/assets/guide/red-stone-rock.webp",
@@ -1179,7 +1186,7 @@ export const SOUTH_PLACES = {
         "region": "south",
         "city": "gurzuf",
         "category": "nature",
-        "routeDest": "44.577,34.286"
+        "routeDest": "44.569283,34.285670"
     },
     'smakmarket-gurzuf': {
         "image": "/assets/guide/smakmarket-gurzuf.webp",
@@ -1216,10 +1223,10 @@ export const SOUTH_PLACES = {
             }
         ],
         "tip": "Рекомендуем попробовать их домашние полуфабрикаты и свежую выпечку. В вечернее время могут быть небольшие очереди, лучше приходить в первой половине дня.",
-        "routeDest": "44.5425,34.2790",
         "region": "south",
         "city": "gurzuf",
-        "category": "shops"
+        "category": "shops",
+        "routeDest": "44.539898,34.273025"
     },
     'artek-camp': {
         "image": "/assets/guide/artek-camp.webp",
@@ -1258,7 +1265,7 @@ export const SOUTH_PLACES = {
         "region": "south",
         "city": "gurzuf",
         "category": "entertainment",
-        "routeDest": "44.550,34.300"
+        "routeDest": "44.553791,34.301291"
     },
     'pushkin-museum-gurzuf': {
         "image": "/assets/guide/pushkin-museum-gurzuf.webp",
@@ -1297,7 +1304,7 @@ export const SOUTH_PLACES = {
         "region": "south",
         "city": "gurzuf",
         "category": "history",
-        "routeDest": "44.542,34.281"
+        "routeDest": "44.539802,34.274541"
     },
     'gurzuf-cat-monument': {
         "image": "/assets/guide/gurzuf-cat-monument.webp",
@@ -1320,7 +1327,7 @@ export const SOUTH_PLACES = {
         "region": "south",
         "city": "gurzuf",
         "category": "history",
-        "routeDest": "44.542,34.282"
+        "routeDest": "44.542653,34.281132"
     },
     'pushkin-grotto': {
         "image": "/assets/guide/pushkin-grotto.webp",
@@ -1343,7 +1350,7 @@ export const SOUTH_PLACES = {
         "region": "south",
         "city": "gurzuf",
         "category": "nature",
-        "routeDest": "44.544,34.296"
+        "routeDest": "44.551057,34.298666"
     },
     'venice-gurzuf': {
         "image": "/assets/guide/grand-cafe-dubai.webp",
@@ -1380,12 +1387,12 @@ export const SOUTH_PLACES = {
             }
         ],
         "tip": "Удобно заказать доставку прямо к апартаментам — работают до полуночи. Подписывайтесь на Telegram-канал t.me/grandcafedubai, там бывают скидки и акции.",
-        "website": "https://dostavka-edu-dubai.ru/",
         "phone": "+79788592559",
-        "routeDest": "44.542562,34.284210",
         "region": "south",
         "city": "gurzuf",
-        "category": "food"
+        "category": "food",
+        "website": "https://dostavka-edu-dubai.ru/",
+        "routeDest": "44.536936,34.274089"
     },
     'market-gurzuf': {
         "image": "/assets/guide/market-gurzuf.webp",
@@ -1422,10 +1429,10 @@ export const SOUTH_PLACES = {
             }
         ],
         "tip": "Приходите на рынок как можно раньше (до 9 утра), чтобы застать лучший выбор домашнего творога и свежей зелени. Обязательно торгуйтесь — это часть местного ритуала!",
-        "routeDest": "44.5440,34.2782",
         "region": "south",
         "city": "gurzuf",
-        "category": "shops"
+        "category": "shops",
+        "routeDest": "44.543968,34.278181"
     },
     'shalyapin-rock': {
         "image": "/assets/guide/shalyapin-rock.webp",
@@ -1448,7 +1455,7 @@ export const SOUTH_PLACES = {
         "region": "south",
         "city": "gurzuf",
         "category": "nature",
-        "routeDest": "44.544,34.295"
+        "routeDest": "44.545489,34.295440"
     },
     'adalary-rocks': {
         "image": "/assets/guide/adalary-rocks.webp",
@@ -1484,10 +1491,10 @@ export const SOUTH_PLACES = {
             }
         ],
         "tip": "Самый крутой опыт — доплыть до Адалар на SUP-борде на рассвете. Море в это время идеально спокойное, а виды на Аю-Даг и Гурзуф просто космические. Не забудьте маску для снорклинга!",
-        "routeDest": "44.5418,34.2808",
         "region": "south",
         "city": "gurzuf",
-        "category": "nature"
+        "category": "nature",
+        "routeDest": "44.541692,34.296816"
     },
     'pud-gurzuf': {
         "image": "/assets/guide/pud-gurzuf.webp",
@@ -1519,11 +1526,11 @@ export const SOUTH_PLACES = {
             }
         ],
         "tip": "Самый большой привоз свежих овощей и фруктов — по утрам во вторник и пятницу.",
-        "website": "https://pudmarket.ru/",
-        "routeDest": "44.545112,34.278923",
         "region": "south",
         "city": "gurzuf",
-        "category": "shops"
+        "category": "shops",
+        "website": "https://pudmarket.ru/",
+        "routeDest": "44.547639,34.278161"
     },
     'gurzuf-central-beach': {
         "image": "/assets/guide/gurzuf-central-beach.webp",
@@ -1560,10 +1567,10 @@ export const SOUTH_PLACES = {
             }
         ],
         "tip": "Лучшее время для купания — до 10 утра, когда вода максимально прозрачная.",
-        "routeDest": "44.5422,34.2838",
         "region": "south",
         "city": "gurzuf",
-        "category": "beaches"
+        "category": "beaches",
+        "routeDest": "44.540287,34.276581"
     },
     'dulber-palace': {
         "image": "/assets/guide/dulber-palace.webp",
@@ -1602,7 +1609,8 @@ export const SOUTH_PLACES = {
         "region": "south",
         "city": "koreiz",
         "category": "kids",
-        "routeDest": "44.4294,34.0961"
+        "website": "https://dulberpalace.ru/",
+        "routeDest": "44.429381,34.096215"
     },
     'laspi-bay': {
         "image": "/assets/guide/laspi-bay.webp",
@@ -1641,7 +1649,7 @@ export const SOUTH_PLACES = {
         "region": "south",
         "city": "laspi",
         "category": "nature",
-        "routeDest": "44.417,33.712"
+        "routeDest": "44.410184,33.702472"
     },
     'laspinskij-pass': {
         "image": "/assets/guide/laspinskij-pass.webp",
@@ -1680,7 +1688,7 @@ export const SOUTH_PLACES = {
         "region": "south",
         "city": "laspi",
         "category": "nature",
-        "routeDest": "44.428,33.707"
+        "routeDest": "44.425517,33.732658"
     },
     'lost-world-beach': {
         "image": "/assets/guide/lost-world-beach.webp",
@@ -1703,7 +1711,8 @@ export const SOUTH_PLACES = {
         "region": "south",
         "city": "laspi",
         "category": "beaches",
-        "routeDest": "44.414,33.644"
+        "website": "https://plyajzaterjannyjmir.clients.site/",
+        "routeDest": "44.428286,33.648672"
     },
     'legenda-laspi': {
         "image": "/assets/guide/legenda-laspi.webp",
@@ -1742,7 +1751,8 @@ export const SOUTH_PLACES = {
         "category": "food",
         "region": "south",
         "city": "laspi",
-        "routeDest": "44.406,33.713"
+        "website": "https://legenda-1724760515.clients.site/",
+        "routeDest": "44.429228,33.706359"
     },
     'batiliman': {
         "image": "/assets/guide/batiliman.webp",
@@ -1781,7 +1791,7 @@ export const SOUTH_PLACES = {
         "region": "south",
         "city": "laspi",
         "category": "nature",
-        "routeDest": "44.417,33.702"
+        "routeDest": "44.419218,33.685341"
     },
     'sun-temple': {
         "image": "/assets/guide/sun-temple.webp",
@@ -1820,7 +1830,7 @@ export const SOUTH_PLACES = {
         "region": "south",
         "city": "laspi",
         "category": "nature",
-        "routeDest": "44.407,33.743"
+        "routeDest": "44.406975,33.743244"
     },
     'dzhurla-waterfall': {
         "image": "/assets/guide/dzhurla-waterfall.webp",
@@ -1843,7 +1853,7 @@ export const SOUTH_PLACES = {
         "region": "south",
         "city": "luchistoe",
         "category": "nature",
-        "routeDest": "44.7611,34.4285"
+        "routeDest": "44.767840,34.425736"
     },
     'demerdzhi-mountain': {
         "image": "/assets/guide/demerdzhi-mountain.webp",
@@ -1866,7 +1876,7 @@ export const SOUTH_PLACES = {
         "region": "south",
         "city": "luchistoe",
         "category": "nature",
-        "routeDest": "44.7497,34.4092"
+        "routeDest": "44.749393,34.414683"
     },
     'valley-of-ghosts': {
         "image": "/assets/guide/valley-of-ghosts.webp",
@@ -1889,7 +1899,7 @@ export const SOUTH_PLACES = {
         "region": "south",
         "city": "luchistoe",
         "category": "nature",
-        "routeDest": "44.7510,34.4078"
+        "routeDest": "44.751497,34.407919"
     },
     'ghost-valley': {
         "image": "/assets/guide/ghost-valley.webp",
@@ -1925,10 +1935,10 @@ export const SOUTH_PLACES = {
             }
         ],
         "tip": "Начинайте подъем рано утром из села Лучистое. Самое эффектное место для фото — у камня «Орех Никулина» и на смотровой площадке «Солнечная поляна». Обязательно берите с собой запас воды.",
-        "routeDest": "44.751469,34.407834",
         "region": "south",
         "city": "luchistoe",
-        "category": "nature"
+        "category": "nature",
+        "routeDest": "44.751497,34.407919"
     },
     'izobilnoe-reservoir': {
         "image": "/assets/guide/izobilnoe-reservoir.webp",
@@ -1951,7 +1961,7 @@ export const SOUTH_PLACES = {
         "region": "south",
         "city": "luchistoe",
         "category": "nature",
-        "routeDest": "44.7230,34.3670"
+        "routeDest": "44.694649,34.345666"
     },
     'funa-fortress': {
         "image": "/assets/guide/funa-fortress.webp",
@@ -1974,7 +1984,7 @@ export const SOUTH_PLACES = {
         "region": "south",
         "city": "luchistoe",
         "category": "history",
-        "routeDest": "44.752,34.394"
+        "routeDest": "44.751672,34.388841"
     },
     'nikulin-walnut': {
         "image": "/assets/guide/nikulin-walnut.webp",
@@ -1997,7 +2007,7 @@ export const SOUTH_PLACES = {
         "region": "south",
         "city": "luchistoe",
         "category": "history",
-        "routeDest": "44.750,34.390"
+        "routeDest": "44.750322,34.398034"
     },
     'malorechenskoe-beach': {
         "image": "/assets/guide/malorechenskoe-beach.webp",
@@ -2056,10 +2066,10 @@ export const SOUTH_PLACES = {
             }
         ],
         "tip": "От села Генеральское до водопада можно дойти пешком (около 40 минут) или доехать на джипах-трансферах. Рекомендуем подняться выше водопада по тропе к каскадам — там гораздо меньше людей и очень красивая природа.",
-        "routeDest": "44.801646,34.471676",
         "region": "south",
         "city": "malorechenskoe",
-        "category": "nature"
+        "category": "nature",
+        "routeDest": "44.805457,34.459680"
     },
     'museum-of-maritime-disasters': {
         "image": "/assets/guide/museum-of-maritime-disasters.webp",
@@ -2098,7 +2108,7 @@ export const SOUTH_PLACES = {
         "region": "south",
         "city": "malorechenskoe",
         "category": "history",
-        "routeDest": "44.756,34.566"
+        "routeDest": "44.756388,34.565512"
     },
     'cheese-rocks-tuzlukh': {
         "image": "/assets/guide/cheese-rocks-tuzlukh.webp",
@@ -2137,7 +2147,7 @@ export const SOUTH_PLACES = {
         "region": "south",
         "city": "malorechenskoe",
         "category": "nature",
-        "routeDest": "44.754,34.559"
+        "routeDest": "44.754270,34.557146"
     },
     'nikolaya-lighthouse-church': {
         "image": "/assets/guide/nikolaya-lighthouse-church.webp",
@@ -2176,7 +2186,7 @@ export const SOUTH_PLACES = {
         "region": "south",
         "city": "malorechenskoe",
         "category": "history",
-        "routeDest": "44.756,34.566"
+        "routeDest": "44.756473,34.565569"
     },
     'massandra-winery': {
         "image": "/assets/guide/massandra-winery.webp",
@@ -2213,11 +2223,11 @@ export const SOUTH_PLACES = {
             }
         ],
         "tip": "В подвалах круглый год температура +14°C, возьмите легкую кофту.",
-        "website": "https://massandra.ru/",
-        "routeDest": "44.509748,34.185675",
         "region": "south",
         "city": "massandra",
-        "category": "food"
+        "category": "food",
+        "website": "https://massandra.ru/",
+        "routeDest": "44.517432,34.187681"
     },
     'massandra-palace': {
         "image": "/assets/guide/massandra-palace.webp",
@@ -2259,11 +2269,11 @@ export const SOUTH_PLACES = {
             }
         ],
         "tip": "От остановки до дворца нужно подниматься в гору около 800 метров — выбирайте удобную обувь. Идеально совмещать с дегустацией на винзаводе \"Массандра\". Кафе на территории небольшое, поэтому воду лучше взять с собой.",
-        "website": "https://worontsovpalace.ru/massandrovskij-dvorecz-ekspoziczii-i-vystavki/",
-        "routeDest": "44.517336,34.202390",
         "region": "south",
         "city": "massandra",
-        "category": "history"
+        "category": "history",
+        "website": "https://worontsovpalace.ru/",
+        "routeDest": "44.517161,34.202719"
     },
     'massandra-park': {
         "image": "/assets/guide/massandra-park.webp",
@@ -2302,7 +2312,7 @@ export const SOUTH_PLACES = {
         "region": "south",
         "city": "massandra",
         "category": "parks",
-        "routeDest": "44.506,34.191"
+        "routeDest": "44.505826,34.188964"
     },
     'nikitsky-garden': {
         "image": "/assets/guide/nikitsky-garden.webp",
@@ -2344,11 +2354,11 @@ export const SOUTH_PLACES = {
             }
         ],
         "tip": "Чтобы не устать, рекомендуем начинать прогулку с Верхнего парка (у главного входа) и постепенно спускаться вниз к морю через Нижний парк. В летние месяцы обязательно посетите \"Зеленый лабиринт\" — это отличная прохладная локация для детей и взрослых.",
-        "website": "https://nikitasad.ru/",
-        "routeDest": "44.511749,34.234320",
         "region": "south",
         "city": "massandra",
-        "category": "parks"
+        "category": "parks",
+        "website": "https://nikitasad.ru/",
+        "routeDest": "44.511632,34.233347"
     },
     'uch-kosh-canyon': {
         "image": "/assets/guide/uch-kosh-canyon.webp",
@@ -2387,7 +2397,7 @@ export const SOUTH_PLACES = {
         "region": "south",
         "city": "massandra",
         "category": "nature",
-        "routeDest": "44.526,34.181"
+        "routeDest": "44.541017,34.177173"
     },
     'turquoise-lake-zaprudnoe': {
         "image": "/assets/guide/turquoise-lake-zaprudnoe.webp",
@@ -2410,7 +2420,7 @@ export const SOUTH_PLACES = {
         "region": "south",
         "city": "partenit",
         "category": "nature",
-        "routeDest": "44.599,34.321"
+        "routeDest": "44.457686,34.088325"
     },
     'gagarina-palace': {
         "image": "/assets/guide/gagarina-palace.webp",
@@ -2428,7 +2438,7 @@ export const SOUTH_PLACES = {
         "region": "south",
         "city": "partenit",
         "category": "history",
-        "routeDest": "44.5935,34.3686"
+        "routeDest": "44.593349,34.368720"
     },
     'karasan-estate': {
         "image": "/assets/guide/karasan-estate.webp",
@@ -2446,7 +2456,7 @@ export const SOUTH_PLACES = {
         "region": "south",
         "city": "partenit",
         "category": "parks",
-        "routeDest": "44.5849,34.3459"
+        "routeDest": "44.592215,34.362063"
     },
     'paradise-park-aivazovskoe': {
         "image": "/assets/guide/paradise-park-aivazovskoe.webp",
@@ -2485,7 +2495,8 @@ export const SOUTH_PLACES = {
         "region": "south",
         "city": "partenit",
         "category": "parks",
-        "routeDest": "44.582,34.343"
+        "website": "https://xn--80aafbpklm8ac5a.xn--p1ai/",
+        "routeDest": "44.582662,34.344265"
     },
     'grand-canyon-crimea': {
         "image": "/assets/guide/grand-canyon-crimea.webp",
@@ -2524,7 +2535,8 @@ export const SOUTH_PLACES = {
         "region": "south",
         "city": "sokolinoe",
         "category": "nature",
-        "routeDest": "44.524,34.015"
+        "website": "https://bahleshoz.ru/oopt/bolshoj-kanon-kryma/",
+        "routeDest": "44.517361,33.984400"
     },
     'silver-streams-waterfall': {
         "image": "/assets/guide/silver-streams-waterfall.webp",
@@ -2547,7 +2559,7 @@ export const SOUTH_PLACES = {
         "region": "south",
         "city": "sokolinoe",
         "category": "nature",
-        "routeDest": "44.512,33.971"
+        "routeDest": "44.511953,33.970174"
     },
     'kozyrek-waterfall': {
         "image": "/assets/guide/kozyrek-waterfall.webp",
@@ -2586,7 +2598,7 @@ export const SOUTH_PLACES = {
         "region": "south",
         "city": "sokolinoe",
         "category": "nature",
-        "routeDest": "44.519,33.810"
+        "routeDest": "44.515895,33.813104"
     },
     'suatkan-waterfall': {
         "image": "/assets/guide/suatkan-waterfall.webp",
@@ -2625,7 +2637,7 @@ export const SOUTH_PLACES = {
         "region": "south",
         "city": "sokolinoe",
         "category": "nature",
-        "routeDest": "44.595,33.905"
+        "routeDest": "44.550874,33.846248"
     },
     'adzhi-su-spring': {
         "image": "/assets/guide/adzhi-su-spring.webp",
@@ -2703,7 +2715,7 @@ export const SOUTH_PLACES = {
         "region": "south",
         "city": "sokolinoe",
         "category": "nature",
-        "routeDest": "44.608,33.788"
+        "routeDest": "44.608506,33.787964"
     },
     'donkey-farm': {
         "image": "/assets/guide/donkey-farm.webp",
@@ -2742,7 +2754,7 @@ export const SOUTH_PLACES = {
         "region": "south",
         "city": "sokolinoe",
         "category": "entertainment",
-        "routeDest": "44.606,33.787"
+        "routeDest": "44.627341,33.787406"
     },
     'gussi-yalta': {
         "image": "/assets/guide/gussi-yalta.webp",
@@ -2765,7 +2777,8 @@ export const SOUTH_PLACES = {
         "category": "food",
         "region": "south",
         "city": "yalta",
-        "routeDest": "44.4975,34.1638"
+        "website": "https://www.gussi-gussi.com/yalta",
+        "routeDest": "44.496309,34.173907"
     },
     'salt-pepper-yalta': {
         "image": "/assets/guide/salt-pepper-yalta.webp",
@@ -2801,11 +2814,10 @@ export const SOUTH_PLACES = {
             }
         ],
         "tip": "Попробуйте стейк Рибай с фирменной копченой солью. Ресторан находится на набережной комплекса, поэтому после ужина рекомендуем прогуляться вдоль моря. Дресс-код — Smart Casual.",
-        "website": "https://mriyaresort.com/restoran-salt/",
         "category": "food",
         "region": "south",
         "city": "yalta",
-        "routeDest": "44.4278,34.0845"
+        "routeDest": "44.394953,33.936700"
     },
     'winekitchen-yalta': {
         "image": "/assets/guide/winekitchen-yalta.webp",
@@ -2841,11 +2853,11 @@ export const SOUTH_PLACES = {
             }
         ],
         "tip": "Обязательно закажите дегустационный сет — это лучший способ познакомиться с философией ресторана. Столик лучше бронировать заранее, особенно на вечернее время, чтобы застать красивый закат над винными склонами.",
-        "website": "https://mriyaresort.com/wine-kitchen/",
         "category": "food",
         "region": "south",
         "city": "yalta",
-        "routeDest": "44.4278,34.0845"
+        "website": "https://mriyaresort.com/wine-Kitchen/?utm_campaign=glavnaya&utm_medium=winekitchen&utm_source=yandex_map",
+        "routeDest": "44.396222,33.945587"
     },
     'atlantida-waterpark': {
         "image": "/assets/guide/atlantida-waterpark.webp",
@@ -2887,11 +2899,11 @@ export const SOUTH_PLACES = {
             }
         ],
         "tip": "В аквапарке действует бесконтактная система оплаты браслетами. Полотенца можно взять в аренду на месте.",
-        "website": "https://atlantida-yalta.ru/",
-        "routeDest": "44.481860,34.151648",
         "region": "south",
         "city": "yalta",
-        "category": "entertainment"
+        "category": "entertainment",
+        "website": "https://atlantida-yalta.ru/aquapark/",
+        "routeDest": "44.481628,34.151859"
     },
     'van-gog-yalta': {
         "image": "/assets/guide/van-gog-yalta.webp",
@@ -2930,7 +2942,8 @@ export const SOUTH_PLACES = {
         "category": "food",
         "region": "south",
         "city": "yalta",
-        "routeDest": "44.495,34.163"
+        "website": "https://massandrabeach.ru/",
+        "routeDest": "44.498096,34.178866"
     },
     'white-dacha-yalta': {
         "image": "/assets/guide/white-dacha-yalta.webp",
@@ -2967,11 +2980,10 @@ export const SOUTH_PLACES = {
             }
         ],
         "tip": "Обязательно возьмите аудиогид — он содержит редкие записи воспоминаний современников писателя.",
-        "website": "https://yalta-museum.ru/",
-        "routeDest": "44.486667,34.148056",
         "region": "south",
         "city": "yalta",
-        "category": "history"
+        "category": "history",
+        "routeDest": "44.491162,34.141539"
     },
     'ptizza-yalta': {
         "image": "/assets/guide/ptizza-yalta.webp",
@@ -3010,7 +3022,8 @@ export const SOUTH_PLACES = {
         "category": "food",
         "region": "south",
         "city": "yalta",
-        "routeDest": "44.497,34.163"
+        "website": "https://ptizza-bar.ru/",
+        "routeDest": "44.496121,34.170340"
     },
     'bukhara-emir-palace': {
         "image": "/assets/guide/bukhara-emir-palace.webp",
@@ -3028,7 +3041,7 @@ export const SOUTH_PLACES = {
         "region": "south",
         "city": "yalta",
         "category": "history",
-        "routeDest": "44.4917,34.1593"
+        "routeDest": "44.486867,34.157821"
     },
     'livadia-palace': {
         "image": "/assets/guide/livadia-palace.webp",
@@ -3070,11 +3083,11 @@ export const SOUTH_PLACES = {
             }
         ],
         "tip": "Приезжайте к открытию (10:00), чтобы осмотреть залы без очередей. Идеальный маршрут: экскурсия по дворцу, а затем прогулка по Солнечной тропе в сторону Гаспры — это самый легкий и видовой пешеходный путь Крыма без резких подъемов.",
-        "website": "https://ливадийский-дворец.рф/",
-        "routeDest": "44.467839,34.143610",
         "region": "south",
         "city": "yalta",
-        "category": "history"
+        "category": "history",
+        "website": "https://xn----7sbfcibirdakblh1d6aj3h.xn--p1ai/",
+        "routeDest": "44.467792,34.143611"
     },
     'yalta-embankment': {
         "image": "/assets/guide/yalta-embankment.webp",
@@ -3116,10 +3129,10 @@ export const SOUTH_PLACES = {
             }
         ],
         "tip": "Чтобы увидеть набережную во всей красе, приходите за 30 минут до заката. Самые вкусные чебуреки и кофе — в маленьких павильонах у Виллы София, а лучшие морепродукты — в ресторанах на западной стороне набережной.",
-        "routeDest": "44.4925,34.1670",
         "region": "south",
         "city": "yalta",
-        "category": "beaches"
+        "category": "beaches",
+        "routeDest": "44.496797,34.170115"
     },
     'massandra-beach': {
         "image": "/assets/guide/massandra-beach.webp",
@@ -3151,11 +3164,11 @@ export const SOUTH_PLACES = {
             }
         ],
         "tip": "В секторах Grand M и Havana лучшие коктейли и самая комфортная музыка.",
-        "website": "http://massandrabeach.com/",
-        "routeDest": "44.4979,34.1792",
         "region": "south",
         "city": "yalta",
-        "category": "beaches"
+        "category": "beaches",
+        "website": "https://massandrabeach.ru/",
+        "routeDest": "44.497409,34.176962"
     },
     'spadoni-yalta': {
         "image": "/assets/guide/spadoni-yalta.webp",
@@ -3194,7 +3207,7 @@ export const SOUTH_PLACES = {
         "category": "food",
         "region": "south",
         "city": "yalta",
-        "routeDest": "44.4968,34.1598"
+        "routeDest": "44.494065,34.164089"
     },
     'chaika-yalta': {
         "image": "/assets/guide/chaika-yalta.webp",
@@ -3233,7 +3246,8 @@ export const SOUTH_PLACES = {
         "category": "food",
         "region": "south",
         "city": "yalta",
-        "routeDest": "44.494,34.162"
+        "website": "https://chaika-yalta.ru/",
+        "routeDest": "44.494899,34.166435"
     },
     'fabrikant-yalta': {
         "image": "/assets/guide/fabrikant-yalta.webp",
@@ -3272,7 +3286,8 @@ export const SOUTH_PLACES = {
         "category": "food",
         "region": "south",
         "city": "yalta",
-        "routeDest": "44.498,34.165"
+        "website": "https://ppark.ru/restaurant/restaurant-fabrikant",
+        "routeDest": "44.483490,34.158346"
     },
     'alexander-nevsky-yalta': {
         "image": "/assets/guide/alexander-nevsky-yalta.webp",
@@ -3292,10 +3307,10 @@ export const SOUTH_PLACES = {
                 "value": "8:00–19:00"
             }
         ],
-        "routeDest": "44.4961,34.1628",
         "region": "south",
         "city": "yalta",
-        "category": "history"
+        "category": "history",
+        "routeDest": "44.495370,34.163900"
     },
     'yalta-aquarium': {
         "image": "/assets/guide/yalta-aquarium.webp",
@@ -3320,11 +3335,11 @@ export const SOUTH_PLACES = {
                 "value": "500 ₽"
             }
         ],
-        "website": "https://yalta-aquarium.ru/",
-        "routeDest": "44.4939,34.1648",
         "region": "south",
         "city": "yalta",
-        "category": "entertainment"
+        "category": "entertainment",
+        "website": "https://xn----7sbb4ajcoske5j.xn--p1ai/parks/okeanarium/",
+        "routeDest": "44.495657,34.167369"
     },
     'yalta-crocodilearium': {
         "image": "/assets/guide/yalta-crocodilearium.webp",
@@ -3349,11 +3364,11 @@ export const SOUTH_PLACES = {
                 "value": "1000 ₽"
             }
         ],
-        "website": "https://yalta-croco.ru/",
-        "routeDest": "44.4947,34.1664",
         "region": "south",
         "city": "yalta",
-        "category": "kids"
+        "category": "kids",
+        "website": "https://yalta-croco.ru/",
+        "routeDest": "44.497030,34.170879"
     },
     'arpat-canyon': {
         "image": "/assets/guide/arpat-canyon.webp",
@@ -3454,7 +3469,7 @@ export const SOUTH_PLACES = {
         "region": "south",
         "city": "zelenogorye",
         "category": "nature",
-        "routeDest": "44.928,34.718"
+        "routeDest": "44.904131,34.656521"
     },
     'karasu-bashi-tract': {
         "image": "/assets/guide/karasu-bashi-tract.webp",
@@ -3493,7 +3508,7 @@ export const SOUTH_PLACES = {
         "region": "south",
         "city": "zelenogorye",
         "category": "nature",
-        "routeDest": "44.872,34.614"
+        "routeDest": "44.983170,34.608261"
     },
     'cheremisov-waterfalls': {
         "image": "/assets/guide/cheremisov-waterfalls.webp",
@@ -3532,6 +3547,6 @@ export const SOUTH_PLACES = {
         "region": "south",
         "city": "zelenogorye",
         "category": "nature",
-        "routeDest": "44.935,34.708"
+        "routeDest": "44.926073,34.698377"
     }
 };

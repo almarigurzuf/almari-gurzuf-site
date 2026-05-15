@@ -36,7 +36,7 @@ export const WEST_PLACES = {
         "region": "west",
         "city": "balaklava",
         "category": "nature",
-        "routeDest": "44.500,33.598"
+        "routeDest": "44.497312,33.597665"
     },
     'balaklava-base': {
         "image": "/assets/guide/balaklava-base.webp",
@@ -73,11 +73,11 @@ export const WEST_PLACES = {
             }
         ],
         "tip": "Даже в самую сильную жару внутри музея прохладно, поэтому обязательно возьмите с собой куртку или кофту. Из-за популярности музея билеты лучше бронировать онлайн на конкретное время сеанса. Паркуйтесь на въезде в город — до музея ходят бесплатные шаттлы.",
-        "website": "https://muzey-sevastopol.ru/",
-        "routeDest": "44.4965,33.5936",
         "region": "west",
         "city": "balaklava",
-        "category": "history"
+        "category": "history",
+        "website": "https://muzey-sevastopol.ru/",
+        "routeDest": "44.501098,33.596509"
     },
     'kyz-kule-tower': {
         "image": "/assets/guide/kyz-kule-tower.webp",
@@ -116,7 +116,7 @@ export const WEST_PLACES = {
         "region": "west",
         "city": "balaklava",
         "category": "history",
-        "routeDest": "44.615,33.743"
+        "routeDest": "44.617078,33.735775"
     },
     'death-barrel': {
         "image": "/assets/guide/death-barrel.webp",
@@ -155,7 +155,7 @@ export const WEST_PLACES = {
         "region": "west",
         "city": "balaklava",
         "category": "history",
-        "routeDest": "44.493,33.621"
+        "routeDest": "44.492703,33.619886"
     },
     'kadykovsky-quarry': {
         "image": "/assets/guide/kadykovsky-quarry.webp",
@@ -194,7 +194,7 @@ export const WEST_PLACES = {
         "region": "west",
         "city": "balaklava",
         "category": "nature",
-        "routeDest": "44.516,33.559"
+        "routeDest": "44.516841,33.568524"
     },
     'chembalo-fortress': {
         "image": "/assets/guide/chembalo-fortress.webp",
@@ -230,10 +230,10 @@ export const WEST_PLACES = {
             }
         ],
         "tip": "Поднимайтесь к крепости по лестнице от набережной Назукина. Лучшее время — за час до заката, когда скалы и камни крепости окрашиваются в золотистые тона. Будьте осторожны — на склонах много сыпучих камней.",
-        "routeDest": "44.494738,33.598738",
         "region": "west",
         "city": "balaklava",
-        "category": "history"
+        "category": "history",
+        "routeDest": "44.494603,33.598755"
     },
     'chelter-marmara': {
         "image": "/assets/guide/chelter-marmara.webp",
@@ -272,7 +272,8 @@ export const WEST_PLACES = {
         "region": "west",
         "city": "balaklava",
         "category": "history",
-        "routeDest": "44.594,33.733"
+        "website": "https://xn----7sb5afdcgscgl2iek.xn--p1ai/",
+        "routeDest": "44.595342,33.732888"
     },
     'nazukin-embankment': {
         "image": "/assets/guide/nazukin-embankment.webp",
@@ -311,7 +312,7 @@ export const WEST_PLACES = {
         "region": "west",
         "city": "balaklava",
         "category": "entertainment",
-        "routeDest": "44.498,33.599"
+        "routeDest": "44.499556,33.600378"
     },
     'krepostnoe-lake': {
         "image": "/assets/guide/krepostnoe-lake.webp",
@@ -350,7 +351,7 @@ export const WEST_PLACES = {
         "region": "west",
         "city": "balaklava",
         "category": "nature",
-        "routeDest": "44.604,33.742"
+        "routeDest": "44.610985,33.739421"
     },
     'eski-kermen': {
         "image": "/assets/guide/eski-kermen.webp",
@@ -389,7 +390,7 @@ export const WEST_PLACES = {
         "region": "west",
         "city": "balaklava",
         "category": "nature",
-        "routeDest": "44.609,33.739"
+        "routeDest": "44.610985,33.739421"
     },
     'vasili-beach': {
         "image": "/assets/guide/vasili-beach.webp",
@@ -428,7 +429,7 @@ export const WEST_PLACES = {
         "region": "west",
         "city": "balaklava",
         "category": "beaches",
-        "routeDest": "44.492,33.591"
+        "routeDest": "44.492150,33.578083"
     },
     'cyclope-balaklava': {
         "image": "/assets/guide/cyclope-balaklava.webp",
@@ -467,7 +468,8 @@ export const WEST_PLACES = {
         "category": "food",
         "region": "west",
         "city": "balaklava",
-        "routeDest": "44.568,33.788"
+        "website": "https://cyclope.rest/",
+        "routeDest": "44.559860,33.756025"
     },
     'st-appearance-rock': {
         "image": "/assets/guide/st-appearance-rock.webp",
@@ -506,7 +508,7 @@ export const WEST_PLACES = {
         "region": "west",
         "city": "balaklava",
         "category": "nature",
-        "routeDest": "44.501,33.508"
+        "routeDest": "44.630935,33.831093"
     },
     'fig-tract': {
         "image": "/assets/guide/fig-tract.webp",
@@ -545,7 +547,7 @@ export const WEST_PLACES = {
         "region": "west",
         "city": "balaklava",
         "category": "nature",
-        "routeDest": "44.482,33.645"
+        "routeDest": "44.471321,33.646333"
     },
     'twelve-apostles-church': {
         "image": "/assets/guide/twelve-apostles-church.webp",
@@ -584,7 +586,7 @@ export const WEST_PLACES = {
         "region": "west",
         "city": "balaklava",
         "category": "history",
-        "routeDest": "44.498,33.599"
+        "routeDest": "44.497678,33.601356"
     },
     'chernorechensky-canyon': {
         "image": "/assets/guide/chernorechensky-canyon.webp",
@@ -623,7 +625,7 @@ export const WEST_PLACES = {
         "region": "west",
         "city": "balaklava",
         "category": "nature",
-        "routeDest": "44.517,33.738"
+        "routeDest": "44.505838,33.779470"
     },
     'jasper-beach': {
         "image": "/assets/guide/jasper-beach.webp",
@@ -662,7 +664,8 @@ export const WEST_PLACES = {
         "region": "west",
         "city": "balaklava",
         "category": "beaches",
-        "routeDest": "44.503,33.507"
+        "website": "https://jashmovyj.clients.site/",
+        "routeDest": "44.503483,33.507114"
     },
     'lukomorye-aquapark': {
         "image": "/assets/guide/lukomorye-aquapark.webp",
@@ -700,9 +703,9 @@ export const WEST_PLACES = {
         "tip": "Парк находится в парке им. Фрунзе, поэтому прогулку в аквапарке можно совместить с посещением набережной и парка аттракционов. Вечером у входа в «Лукоморье» часто проходят бесплатные детские шоу.",
         "region": "west",
         "city": "evpatoria",
+        "category": "entertainment",
         "website": "https://aqua-evpatoriya.com/",
-        "routeDest": "45.1855,33.3768",
-        "category": "entertainment"
+        "routeDest": "45.183138,33.358799"
     },
     'chaika-settlement': {
         "image": "/assets/guide/chaika-settlement.webp",
@@ -741,7 +744,7 @@ export const WEST_PLACES = {
         "region": "west",
         "city": "evpatoria",
         "category": "history",
-        "routeDest": "45.176,33.284"
+        "routeDest": "45.164149,33.290373"
     },
     'evpatoria-aquarium': {
         "image": "/assets/guide/evpatoria-aquarium.webp",
@@ -780,7 +783,8 @@ export const WEST_PLACES = {
         "region": "west",
         "city": "evpatoria",
         "category": "entertainment",
-        "routeDest": "45.185,33.363"
+        "website": "https://evpaquarium.com/",
+        "routeDest": "45.182699,33.359609"
     },
     'evpatoria-dolphinarium': {
         "image": "/assets/guide/evpatoria-dolphinarium.webp",
@@ -819,7 +823,8 @@ export const WEST_PLACES = {
         "region": "west",
         "city": "evpatoria",
         "category": "entertainment",
-        "routeDest": "45.186,33.364"
+        "website": "https://dolphinevpatoria.ru/",
+        "routeDest": "45.179412,33.353653"
     },
     'karaite-kenasas': {
         "image": "/assets/guide/karaite-kenasas.webp",
@@ -858,7 +863,7 @@ export const WEST_PLACES = {
         "region": "west",
         "city": "evpatoria",
         "category": "history",
-        "routeDest": "45.198,33.375"
+        "routeDest": "45.198305,33.374071"
     },
     'krasnoe-lake': {
         "image": "/assets/guide/krasnoe-lake.webp",
@@ -887,7 +892,7 @@ export const WEST_PLACES = {
         "region": "west",
         "city": "evpatoria",
         "category": "nature",
-        "routeDest": "45.922,33.833"
+        "routeDest": "46.018337,33.838567"
     },
     'moynaki-lake': {
         "image": "/assets/guide/moynaki-lake.webp",
@@ -926,7 +931,7 @@ export const WEST_PLACES = {
         "region": "west",
         "city": "evpatoria",
         "category": "nature",
-        "routeDest": "45.185,33.328"
+        "routeDest": "45.192741,33.338546"
     },
     'dzhuma-dzhami-mosque': {
         "image": "/assets/guide/dzhuma-dzhami-mosque.webp",
@@ -949,7 +954,7 @@ export const WEST_PLACES = {
         "region": "west",
         "city": "evpatoria",
         "category": "history",
-        "routeDest": "45.196,33.377"
+        "routeDest": "45.195908,33.377357"
     },
     'tekie-dervishej': {
         "image": "/assets/guide/tekie-dervishej.webp",
@@ -988,7 +993,7 @@ export const WEST_PLACES = {
         "region": "west",
         "city": "evpatoria",
         "category": "history",
-        "routeDest": "45.199,33.382"
+        "routeDest": "45.199510,33.381014"
     },
     'evpatoria-miniature': {
         "image": "/assets/guide/evpatoria-miniature.webp",
@@ -1027,7 +1032,8 @@ export const WEST_PLACES = {
         "region": "west",
         "city": "evpatoria",
         "category": "entertainment",
-        "routeDest": "45.188,33.366"
+        "website": "https://minievp.ru/",
+        "routeDest": "45.184186,33.363730"
     },
     'lazurny-bereg-beach': {
         "image": "/assets/guide/lazurny-bereg-beach.webp",
@@ -1066,7 +1072,8 @@ export const WEST_PLACES = {
         "region": "west",
         "city": "evpatoria",
         "category": "beaches",
-        "routeDest": "45.175,33.315"
+        "website": "https://lazurevp.ru/",
+        "routeDest": "45.175265,33.320730"
     },
     'dinopark-evpatoria': {
         "image": "/assets/guide/dinopark-evpatoria.webp",
@@ -1105,7 +1112,7 @@ export const WEST_PLACES = {
         "region": "west",
         "city": "evpatoria",
         "category": "entertainment",
-        "routeDest": "45.194,33.355"
+        "routeDest": "45.189288,33.370666"
     },
     'egiya-kapay-synagogue': {
         "image": "/assets/guide/egiya-kapay-synagogue.webp",
@@ -1144,7 +1151,7 @@ export const WEST_PLACES = {
         "region": "west",
         "city": "evpatoria",
         "category": "history",
-        "routeDest": "45.199,33.378"
+        "routeDest": "45.198397,33.376320"
     },
     'modern-evpatoria': {
         "image": "/assets/guide/modern-evpatoria.webp",
@@ -1183,7 +1190,8 @@ export const WEST_PLACES = {
         "category": "food",
         "region": "west",
         "city": "evpatoria",
-        "routeDest": "45.199,33.379"
+        "website": "https://restoran-modern.ru/",
+        "routeDest": "45.196275,33.378716"
     },
     'nicholas-cathedral-evp': {
         "image": "/assets/guide/nicholas-cathedral-evp.webp",
@@ -1222,7 +1230,7 @@ export const WEST_PLACES = {
         "region": "west",
         "city": "evpatoria",
         "category": "history",
-        "routeDest": "45.195,33.379"
+        "routeDest": "45.196621,33.378990"
     },
     'super-mario-evpatoria': {
         "image": "/assets/guide/super-mario-evpatoria.webp",
@@ -1261,7 +1269,7 @@ export const WEST_PLACES = {
         "category": "food",
         "region": "west",
         "city": "evpatoria",
-        "routeDest": "45.190,33.363"
+        "routeDest": "45.191614,33.357869"
     },
     'turkish-baths': {
         "image": "/assets/guide/turkish-baths.webp",
@@ -1300,7 +1308,7 @@ export const WEST_PLACES = {
         "region": "west",
         "city": "evpatoria",
         "category": "history",
-        "routeDest": "45.198,33.380"
+        "routeDest": "45.197847,33.377129"
     },
     'st-elias-church': {
         "image": "/assets/guide/st-elias-church.webp",
@@ -1339,7 +1347,8 @@ export const WEST_PLACES = {
         "region": "west",
         "city": "evpatoria",
         "category": "history",
-        "routeDest": "45.192,33.373"
+        "website": "https://iliynka-evpatoria.ru/",
+        "routeDest": "45.192656,33.374093"
     },
     'dzheval-evpatoria': {
         "image": "/assets/guide/dzheval-evpatoria.webp",
@@ -1378,7 +1387,8 @@ export const WEST_PLACES = {
         "category": "food",
         "region": "west",
         "city": "evpatoria",
-        "routeDest": "45.197,33.376"
+        "website": "https://restaurant.jeval.ru/",
+        "routeDest": "45.198284,33.380761"
     },
     'banana-republic': {
         "image": "/assets/guide/banana-republic.webp",
@@ -1418,7 +1428,7 @@ export const WEST_PLACES = {
         "city": "saki",
         "category": "entertainment",
         "website": "https://bananarepublic.space/",
-        "routeDest": "45.1481,33.4925"
+        "routeDest": "45.152311,33.493207"
     },
     'kara-tobe-museum': {
         "image": "/assets/guide/kara-tobe-museum.webp",
@@ -1457,7 +1467,7 @@ export const WEST_PLACES = {
         "region": "west",
         "city": "saki",
         "category": "history",
-        "routeDest": "45.132,33.521"
+        "routeDest": "45.138742,33.518968"
     },
     'sasyk-sivash-lake': {
         "image": "/assets/guide/sasyk-sivash-lake.webp",
@@ -1488,10 +1498,10 @@ export const WEST_PLACES = {
             }
         ],
         "tip": "Самый яркий розовый цвет озеро приобретает в июле и августе в полдень. Если хотите покормить лебедей, они обычно находятся у дороги между Евпаторией и Саками. Для фото \"на соли\" выбирайте северную часть озера.",
-        "routeDest": "45.163,33.504",
         "region": "west",
         "city": "saki",
-        "category": "nature"
+        "category": "nature",
+        "routeDest": "45.187453,33.506585"
     },
     'saki-mud-lake': {
         "image": "/assets/guide/saki-mud-lake.webp",
@@ -1568,8 +1578,8 @@ export const WEST_PLACES = {
         "tip": "Приходите в аквапарк в будние дни, чтобы избежать очередей на популярные горки. После водных процедур можно прогуляться по обновленному парку Победы прямо к морю. Не забудьте солнцезащитный крем!",
         "region": "west",
         "city": "sevastopol",
-        "routeDest": "44.6042,33.4545",
-        "category": "entertainment"
+        "category": "entertainment",
+        "routeDest": "44.608652,33.458854"
     },
     'sevastopol-grafskaya-pristan': {
         "image": "/assets/guide/sevastopol-grafskaya-pristan.webp",
@@ -1589,10 +1599,10 @@ export const WEST_PLACES = {
                 "value": "Круглосуточно"
             }
         ],
-        "routeDest": "44.6167,33.5317",
         "region": "west",
         "city": "sevastopol",
-        "category": "history"
+        "category": "history",
+        "routeDest": "44.6167,33.5317"
     },
     'inkerman-winery': {
         "image": "/assets/guide/inkerman-winery.webp",
@@ -1631,7 +1641,8 @@ export const WEST_PLACES = {
         "region": "west",
         "city": "sevastopol",
         "category": "food",
-        "routeDest": "44.615,33.611"
+        "website": "https://inkerman.ru/",
+        "routeDest": "44.615390,33.611606"
     },
     'inkerman-monastery': {
         "image": "/assets/guide/inkerman-monastery.webp",
@@ -1670,7 +1681,8 @@ export const WEST_PLACES = {
         "region": "west",
         "city": "sevastopol",
         "category": "history",
-        "routeDest": "44.604,33.607"
+        "website": "https://kliment-monastery.ru/",
+        "routeDest": "44.604237,33.607773"
     },
     'inkerman-lake': {
         "image": "/assets/guide/inkerman-lake.webp",
@@ -1748,7 +1760,7 @@ export const WEST_PLACES = {
         "region": "west",
         "city": "sevastopol",
         "category": "history",
-        "routeDest": "44.604,33.608"
+        "routeDest": "44.602960,33.609073"
     },
     'malakhov-kurgan': {
         "image": "/assets/guide/malakhov-kurgan.webp",
@@ -1780,11 +1792,11 @@ export const WEST_PLACES = {
             }
         ],
         "tip": "Найдите на территории «миндальное дерево, уцелевшее в войну» — это один из символов стойкости города.",
-        "website": "http://sevmuseum.ru/",
-        "routeDest": "44.6046,33.5479",
         "category": "history",
         "region": "west",
-        "city": "sevastopol"
+        "city": "sevastopol",
+        "website": "https://sevmuseum.ru/museums/malakhov-kurgan",
+        "routeDest": "44.604545,33.547978"
     },
     'chersonesus': {
         "image": "/assets/guide/chersonesus.webp",
@@ -1820,11 +1832,11 @@ export const WEST_PLACES = {
             }
         ],
         "tip": "Для гарантированного входа на территорию и в музеи обязательно бронируйте бесплатный билет на официальном сайте заранее. Лучшее время для посещения — вторая половина дня, чтобы увидеть музеи и остаться на вечернюю иллюминацию и лазерное шоу.",
-        "website": "https://hersones.ru/",
-        "routeDest": "44.6115,33.4925",
         "region": "west",
         "city": "sevastopol",
-        "category": "parks"
+        "category": "parks",
+        "website": "https://xn--e1aaxdjgdz.xn--p1ai/",
+        "routeDest": "44.607618,33.490674"
     },
     'sevastopol-monument-sunken-ships': {
         "image": "/assets/guide/sevastopol-monument-sunken-ships.webp",
@@ -1860,10 +1872,10 @@ export const WEST_PLACES = {
             }
         ],
         "tip": "Лучший вид для фото — с парапета Приморского бульвара. Вечером памятник подсвечивается прожекторами. Также рекомендуем взять морскую прогулку на катере по Южной бухте, чтобы увидеть монумент со стороны моря.",
-        "routeDest": "44.6183,33.5243",
         "region": "west",
         "city": "sevastopol",
-        "category": "history"
+        "category": "history",
+        "routeDest": "44.618380,33.524306"
     },
     'sevastopol-panorama': {
         "image": "/assets/guide/sevastopol-panorama.webp",
@@ -1900,11 +1912,11 @@ export const WEST_PLACES = {
             }
         ],
         "tip": "Музей находится в центре Исторического бульвара, прогулка по которому также очень интересна.",
-        "website": "http://sevmuseum.ru/",
-        "routeDest": "44.5948,33.5234",
         "region": "west",
         "city": "sevastopol",
-        "category": "history"
+        "category": "history",
+        "website": "https://sevmuseum.ru/",
+        "routeDest": "44.595490,33.523524"
     },
     'zolotaya-balka-sevastopol': {
         "image": "/assets/guide/zolotaya-balka-sevastopol.webp",
@@ -1943,7 +1955,8 @@ export const WEST_PLACES = {
         "category": "food",
         "region": "west",
         "city": "sevastopol",
-        "routeDest": "44.527,33.453"
+        "website": "https://zolotayabalka.ru/",
+        "routeDest": "44.528772,33.616415"
     },
     'mekenzi-1783-sevastopol': {
         "image": "/assets/guide/mekenzi-1783-sevastopol.webp",
@@ -1982,7 +1995,8 @@ export const WEST_PLACES = {
         "category": "food",
         "region": "west",
         "city": "sevastopol",
-        "routeDest": "44.6153,33.5253"
+        "website": "https://mekenzi.ru/",
+        "routeDest": "44.618393,33.525320"
     },
     'fiolent-sevastopol': {
         "image": "/assets/guide/fiolent-sevastopol.webp",
@@ -2060,7 +2074,8 @@ export const WEST_PLACES = {
         "category": "food",
         "region": "west",
         "city": "sevastopol",
-        "routeDest": "44.619,33.525"
+        "website": "https://maranisevastopol.ru/",
+        "routeDest": "44.589576,33.487103"
     },
     'barkas-sevastopol': {
         "image": "/assets/guide/barkas-sevastopol.webp",
@@ -2099,6 +2114,7 @@ export const WEST_PLACES = {
         "category": "food",
         "region": "west",
         "city": "sevastopol",
-        "routeDest": "44.619,33.534"
+        "website": "https://barkas-sev.ru/",
+        "routeDest": "44.614582,33.518533"
     }
 };

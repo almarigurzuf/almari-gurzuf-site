@@ -31,7 +31,7 @@ export const NORTH_PLACES = {
         "region": "north",
         "city": "bakhchisarai",
         "category": "history",
-        "routeDest": "44.698,33.910"
+        "routeDest": "44.698157,33.884417"
     },
     'alma-valley': {
         "image": "/assets/guide/alma-valley.webp",
@@ -70,7 +70,8 @@ export const NORTH_PLACES = {
         "region": "north",
         "city": "bakhchisarai",
         "category": "food",
-        "routeDest": "44.854,33.631"
+        "website": "https://www.alma-valley.ru/",
+        "routeDest": "44.842915,33.701529"
     },
     'bakhchisarai-miniature': {
         "image": "/assets/guide/bakhchisarai-miniature.webp",
@@ -109,7 +110,8 @@ export const NORTH_PLACES = {
         "region": "north",
         "city": "bakhchisarai",
         "category": "entertainment",
-        "routeDest": "44.748,33.882"
+        "website": "https://minibah.ru/",
+        "routeDest": "44.753899,33.859242"
     },
     'chufut-kale': {
         "image": "/assets/guide/chufut-kale.webp",
@@ -148,7 +150,8 @@ export const NORTH_PLACES = {
         "region": "north",
         "city": "bakhchisarai",
         "category": "nature",
-        "routeDest": "44.741,33.921"
+        "website": "https://handvorec.ru/pamyatniki/pamyatniki-arxeologii/chufut-kale/",
+        "routeDest": "44.741117,33.923600"
     },
     'uspensky-monastery': {
         "image": "/assets/guide/uspensky-monastery.webp",
@@ -187,7 +190,8 @@ export const NORTH_PLACES = {
         "region": "north",
         "city": "bakhchisarai",
         "category": "history",
-        "routeDest": "44.744,33.910"
+        "website": "https://lavra-crimea.ru/",
+        "routeDest": "44.744496,33.910129"
     },
     'karalez-sphinxes': {
         "image": "/assets/guide/karalez-sphinxes.webp",
@@ -226,7 +230,7 @@ export const NORTH_PLACES = {
         "region": "north",
         "city": "bakhchisarai",
         "category": "nature",
-        "routeDest": "44.624,33.795"
+        "routeDest": "44.628321,33.792125"
     },
     'khan-palace': {
         "image": "/assets/guide/khan-palace.webp",
@@ -271,7 +275,7 @@ export const NORTH_PLACES = {
         "category": "history",
         "tip": "В 2026 году из-за финальных этапов реставрации вход возможен только в составе экскурсионных групп. После осмотра дворца обязательно пообедайте в одном из этно-кафе поблизости — бахчисарайские янтыки и чебуреки считаются лучшими в Крыму.",
         "website": "https://handvorec.ru/",
-        "routeDest": "44.7505,33.8821"
+        "routeDest": "44.748515,33.881710"
     },
     'white-rock': {
         "image": "/assets/guide/white-rock.webp",
@@ -305,7 +309,7 @@ export const NORTH_PLACES = {
         "region": "north",
         "city": "belogorsk",
         "category": "nature",
-        "routeDest": "45.105,34.615"
+        "routeDest": "45.105635,34.623906"
     },
     'tash-khan': {
         "image": "/assets/guide/tash-khan.webp",
@@ -344,7 +348,7 @@ export const NORTH_PLACES = {
         "region": "north",
         "city": "belogorsk",
         "category": "history",
-        "routeDest": "45.058,34.593"
+        "routeDest": "45.057533,34.605022"
     },
     'taigan-safari': {
         "image": "/assets/guide/taigan-safari.webp",
@@ -386,11 +390,11 @@ export const NORTH_PLACES = {
             }
         ],
         "tip": "Приезжайте к открытию в 8:00 — в это время львы наиболее активны перед дневной жарой.",
-        "website": "https://park-taigan.ru/",
-        "routeDest": "45.036049,34.563718",
         "region": "north",
         "city": "belogorsk",
-        "category": "kids"
+        "category": "kids",
+        "website": "https://park-taigan.ru/",
+        "routeDest": "45.036432,34.563866"
     },
     'suvorov-oak': {
         "image": "/assets/guide/suvorov-oak.webp",
@@ -429,7 +433,7 @@ export const NORTH_PLACES = {
         "region": "north",
         "city": "belogorsk",
         "category": "nature",
-        "routeDest": "45.065,34.595"
+        "routeDest": "45.079841,34.618721"
     },
     'taigan-reservoir': {
         "image": "/assets/guide/taigan-reservoir.webp",
@@ -468,7 +472,7 @@ export const NORTH_PLACES = {
         "region": "north",
         "city": "belogorsk",
         "category": "nature",
-        "routeDest": "45.035,34.585"
+        "routeDest": "45.035005,34.584007"
     },
     'marble-cave': {
         "image": "/assets/guide/marble-cave.webp",
@@ -507,7 +511,7 @@ export const NORTH_PLACES = {
         "region": "north",
         "city": "mramornoe",
         "category": "nature",
-        "routeDest": "44.797,34.279"
+        "routeDest": "44.797184,34.279458"
     },
     'emine-bair-hosar': {
         "image": "/assets/guide/emine-bair-hosar.webp",
@@ -530,6 +534,7 @@ export const NORTH_PLACES = {
         "region": "north",
         "city": "mramornoe",
         "category": "nature",
+        "website": "https://xn--80aaara7bbiidncd1j9d.xn--p1ai/",
         "routeDest": "44.801,34.289"
     },
     'crimean-observatory': {
@@ -569,7 +574,8 @@ export const NORTH_PLACES = {
         "region": "north",
         "city": "nauchnyj",
         "category": "entertainment",
-        "routeDest": "44.727,34.011"
+        "website": "https://crao.ru/ru/",
+        "routeDest": "44.728519,34.012925"
     },
     'nauchnyj-lake': {
         "image": "/assets/guide/nauchnyj-lake.webp",
@@ -608,7 +614,7 @@ export const NORTH_PLACES = {
         "region": "north",
         "city": "nauchnyj",
         "category": "nature",
-        "routeDest": "44.721,34.015"
+        "routeDest": "44.811968,33.980400"
     },
     'balanovo-reservoir': {
         "image": "/assets/guide/balanovo-reservoir.webp",
@@ -647,7 +653,7 @@ export const NORTH_PLACES = {
         "region": "north",
         "city": "perevalnoe",
         "category": "nature",
-        "routeDest": "44.978,34.288"
+        "routeDest": "44.983695,34.340267"
     },
     'su-uchkhan-waterfall': {
         "image": "/assets/guide/su-uchkhan-waterfall.webp",
@@ -686,7 +692,7 @@ export const NORTH_PLACES = {
         "region": "north",
         "city": "perevalnoe",
         "category": "nature",
-        "routeDest": "44.869,34.341"
+        "routeDest": "44.869686,34.343978"
     },
     'viking-cinema-park': {
         "image": "/assets/guide/viking-cinema-park.webp",
@@ -725,7 +731,8 @@ export const NORTH_PLACES = {
         "region": "north",
         "city": "perevalnoe",
         "category": "entertainment",
-        "routeDest": "44.852,34.331"
+        "website": "https://viking-crimea.com/",
+        "routeDest": "44.859381,34.334874"
     },
     'red-caves-kizil-koba': {
         "image": "/assets/guide/red-caves-kizil-koba.webp",
@@ -764,7 +771,8 @@ export const NORTH_PLACES = {
         "region": "north",
         "city": "perevalnoe",
         "category": "nature",
-        "routeDest": "44.870,34.343"
+        "website": "http://kizilkoba.ru/",
+        "routeDest": "44.861433,34.332364"
     },
     'av-gusto-simferopol': {
         "image": "/assets/guide/av-gusto-simferopol.webp",
@@ -803,7 +811,8 @@ export const NORTH_PLACES = {
         "category": "food",
         "region": "north",
         "city": "simferopol",
-        "routeDest": "44.957,34.112"
+        "website": "https://avgusto.clients.site/",
+        "routeDest": "44.943493,34.097775"
     },
     'childrens-park': {
         "image": "/assets/guide/childrens-park.webp",
@@ -842,7 +851,7 @@ export const NORTH_PLACES = {
         "region": "north",
         "city": "simferopol",
         "category": "kids",
-        "routeDest": "44.954,34.110"
+        "routeDest": "44.956049,34.109855"
     },
     'karaim-kenassa': {
         "image": "/assets/guide/karaim-kenassa.webp",
@@ -881,7 +890,8 @@ export const NORTH_PLACES = {
         "region": "north",
         "city": "simferopol",
         "category": "history",
-        "routeDest": "44.946,34.103"
+        "website": "https://karai.crimea.ru/",
+        "routeDest": "44.945356,34.103520"
     },
     'neapol-skifsky': {
         "image": "/assets/guide/neapol-skifsky.webp",
@@ -915,7 +925,8 @@ export const NORTH_PLACES = {
         "region": "north",
         "city": "simferopol",
         "category": "parks",
-        "routeDest": "44.942,34.120"
+        "website": "https://neapolis-scythian.com/",
+        "routeDest": "44.940099,34.119705"
     },
     'gagarinsky-park': {
         "image": "/assets/guide/gagarinsky-park.webp",
@@ -954,7 +965,7 @@ export const NORTH_PLACES = {
         "region": "north",
         "city": "simferopol",
         "category": "parks",
-        "routeDest": "44.960,34.100"
+        "routeDest": "44.964278,34.097881"
     },
     'chokurcha-cave': {
         "image": "/assets/guide/chokurcha-cave.webp",
@@ -993,7 +1004,7 @@ export const NORTH_PLACES = {
         "region": "north",
         "city": "simferopol",
         "category": "nature",
-        "routeDest": "44.955,34.140"
+        "routeDest": "44.959586,34.135735"
     },
     'weeping-rock': {
         "image": "/assets/guide/weeping-rock.webp",
@@ -1032,7 +1043,7 @@ export const NORTH_PLACES = {
         "region": "north",
         "city": "simferopol",
         "category": "nature",
-        "routeDest": "44.935,33.845"
+        "routeDest": "44.934443,33.845671"
     },
     'balkan-grill-simferopol': {
         "image": "/assets/guide/balkan-grill-simferopol.webp",
@@ -1071,7 +1082,7 @@ export const NORTH_PLACES = {
         "category": "food",
         "region": "north",
         "city": "simferopol",
-        "routeDest": "44.952,34.105"
+        "routeDest": "44.951880,34.095602"
     },
     'mychara-simferopol': {
         "image": "/assets/guide/mychara-simferopol.webp",
@@ -1110,7 +1121,7 @@ export const NORTH_PLACES = {
         "category": "food",
         "region": "north",
         "city": "simferopol",
-        "routeDest": "44.953,34.108"
+        "routeDest": "44.951775,34.095588"
     },
     'simf-zoo': {
         "image": "/assets/guide/simf-zoo.webp",
@@ -1149,7 +1160,8 @@ export const NORTH_PLACES = {
         "region": "north",
         "city": "simferopol",
         "category": "kids",
-        "routeDest": "44.954,34.110"
+        "website": "https://park-simferopol.ru/zoougolok",
+        "routeDest": "44.954954,34.109713"
     },
     'simf-reservoir': {
         "image": "/assets/guide/simf-reservoir.webp",
@@ -1188,7 +1200,7 @@ export const NORTH_PLACES = {
         "region": "north",
         "city": "simferopol",
         "category": "nature",
-        "routeDest": "44.928,34.155"
+        "routeDest": "44.923187,34.154657"
     },
     'tash-dzhargan': {
         "image": "/assets/guide/tash-dzhargan.webp",
@@ -1227,7 +1239,7 @@ export const NORTH_PLACES = {
         "region": "north",
         "city": "simferopol",
         "category": "nature",
-        "routeDest": "44.895,34.050"
+        "routeDest": "44.869431,34.073620"
     },
     'kessler-manor': {
         "image": "/assets/guide/kessler-manor.webp",
@@ -1266,6 +1278,7 @@ export const NORTH_PLACES = {
         "region": "north",
         "city": "simferopol",
         "category": "parks",
-        "routeDest": "44.908,34.195"
+        "website": "https://zamok-na-salgire.ru/",
+        "routeDest": "44.901675,34.179221"
     }
 };
