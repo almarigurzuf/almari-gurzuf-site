@@ -94,13 +94,153 @@
     .reviews-title {
         font-size: 32px;
     }
-    
+
     .reviews-yandex-rating {
         flex-direction: column;
         gap: 10px;
     }
-    
+
     .rating-badge {
         font-size: 16px;
     }
+}
+
+/* ---- Кнопки действий ---- */
+.reviews-actions {
+    display: flex;
+    gap: 16px;
+    justify-content: center;
+    flex-wrap: wrap;
+    margin-top: 60px;
+}
+
+.btn-leave-review {
+    display: inline-flex;
+    align-items: center;
+    gap: 12px;
+    background: linear-gradient(135deg, #0093E9, #80D0C7);
+    color: #fff;
+    padding: 18px 45px;
+    border-radius: 20px;
+    font-weight: 700;
+    font-family: var(--font-heading);
+    font-size: 16px;
+    border: none;
+    cursor: pointer;
+    transition: transform 0.3s, box-shadow 0.3s;
+    box-shadow: 0 15px 35px rgba(0, 147, 233, 0.25);
+}
+
+.btn-leave-review:hover {
+    transform: translateY(-3px);
+    box-shadow: 0 20px 45px rgba(0, 147, 233, 0.35);
+}
+
+/* ---- Firebase отзывы ---- */
+.fbr-subtitle {
+    font-family: 'Montserrat', sans-serif;
+    font-size: 24px;
+    font-weight: 800;
+    color: #1a2a3a;
+    text-align: center;
+    margin-bottom: 30px;
+}
+
+.fbr-grid {
+    display: grid;
+    grid-template-columns: repeat(auto-fill, minmax(min(100%, 320px), 1fr));
+    gap: 24px;
+}
+
+.fbr-card {
+    background: #fff;
+    padding: 36px 36px 32px;
+    border-radius: 30px;
+    box-shadow: 0 20px 50px rgba(0, 48, 80, 0.07);
+    position: relative;
+    transition: transform 0.3s, box-shadow 0.3s;
+}
+
+.fbr-card:hover {
+    transform: translateY(-4px);
+    box-shadow: 0 28px 60px rgba(0, 147, 233, 0.12);
+}
+
+.fbr-quote {
+    position: absolute;
+    top: 28px;
+    left: 28px;
+    font-size: 32px;
+    color: #0093E9;
+    opacity: 0.1;
+}
+
+.fbr-stars {
+    color: #ffcc00;
+    font-size: 16px;
+    letter-spacing: 2px;
+    margin-bottom: 12px;
+}
+
+.fbr-photos {
+    display: flex;
+    gap: 8px;
+    flex-wrap: wrap;
+    margin-bottom: 14px;
+}
+
+.fbr-photo {
+    width: 72px;
+    height: 72px;
+    border-radius: 12px;
+    object-fit: cover;
+    cursor: pointer;
+    transition: transform 0.2s;
+}
+
+.fbr-photo:hover { transform: scale(1.06); }
+
+.fbr-text {
+    font-size: 15px;
+    line-height: 1.75;
+    color: #4a5568;
+    font-style: italic;
+    margin-bottom: 24px;
+}
+
+.fbr-author {
+    display: flex;
+    align-items: center;
+    gap: 12px;
+}
+
+.fbr-avatar {
+    width: 46px;
+    height: 46px;
+    border-radius: 50%;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    color: #fff;
+    font-weight: 700;
+    font-size: 18px;
+    flex-shrink: 0;
+}
+
+.fbr-name {
+    font-weight: 700;
+    color: #1a2a3a;
+    font-size: 16px;
+}
+
+.fbr-date {
+    font-size: 13px;
+    color: #718096;
+    margin-top: 2px;
+}
+
+@media (max-width: 600px) {
+    .reviews-actions { gap: 12px; }
+    .btn-leave-review { padding: 16px 30px; font-size: 15px; }
+    .fbr-card { padding: 28px 24px; }
 }

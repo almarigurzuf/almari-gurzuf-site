@@ -1,0 +1,86 @@
+<div id="reviewFormModal" class="rfm-overlay">
+    <div class="rfm-backdrop" id="reviewFormBackdrop"></div>
+    <div class="rfm-card" role="dialog" aria-modal="true" aria-labelledby="rfm-title">
+
+        <button class="rfm-close" id="reviewFormClose" aria-label="Закрыть">
+            <i class="fas fa-times"></i>
+        </button>
+
+        <!-- Форма -->
+        <div id="review-form-body">
+            <div class="rfm-header">
+                <div class="rfm-icon"><i class="fas fa-star"></i></div>
+                <h2 id="rfm-title">Оставить отзыв</h2>
+                <p>Поделитесь впечатлениями об отдыхе</p>
+            </div>
+
+            <form id="reviewForm" novalidate>
+
+                <div class="rfm-row">
+                    <div class="rfm-field">
+                        <label for="review-name">Ваше имя <span class="rfm-required">*</span></label>
+                        <input type="text" id="review-name" placeholder="Например: Мария" required maxlength="100" autocomplete="name">
+                    </div>
+                    <div class="rfm-field">
+                        <label for="review-nights">Сколько ночей? <span class="rfm-required">*</span></label>
+                        <input type="number" id="review-nights" placeholder="Например: 7" required min="1" max="365" inputmode="numeric">
+                    </div>
+                </div>
+
+                <div class="rfm-field">
+                    <label>Оценка <span class="rfm-required">*</span></label>
+                    <div class="rfm-stars-row">
+                        <button type="button" class="rfm-star" data-value="1" aria-label="1 звезда"><i class="fas fa-star"></i></button>
+                        <button type="button" class="rfm-star" data-value="2" aria-label="2 звезды"><i class="fas fa-star"></i></button>
+                        <button type="button" class="rfm-star" data-value="3" aria-label="3 звезды"><i class="fas fa-star"></i></button>
+                        <button type="button" class="rfm-star" data-value="4" aria-label="4 звезды"><i class="fas fa-star"></i></button>
+                        <button type="button" class="rfm-star" data-value="5" aria-label="5 звёзд"><i class="fas fa-star"></i></button>
+                        <span class="rfm-stars-hint" id="rfm-stars-hint">Выберите оценку</span>
+                    </div>
+                </div>
+
+                <div class="rfm-field">
+                    <label for="review-text">Ваш отзыв <span class="rfm-required">*</span></label>
+                    <textarea id="review-text" placeholder="Расскажите о своих впечатлениях: апартаменты, вид, атмосфера…" required maxlength="2000" rows="5"></textarea>
+                    <span class="rfm-char-count"><span id="review-text-count">0</span>/2000</span>
+                </div>
+
+                <div class="rfm-field">
+                    <label>Фотографии <span class="rfm-optional">(необязательно, до 3 шт.)</span></label>
+                    <div id="review-drop-zone" class="rfm-dropzone">
+                        <i class="fas fa-camera"></i>
+                        <span>Перетащите фото или нажмите для выбора</span>
+                        <span class="rfm-dropzone-hint">JPG, PNG, WebP — до 5 МБ каждое</span>
+                    </div>
+                    <input type="file" id="review-photos-input" accept="image/*" multiple>
+                    <div id="review-photos-preview" class="rfm-photos-preview"></div>
+                </div>
+
+                <!-- Honeypot — не трогать, ловушка для ботов -->
+                <input type="text" name="website" id="review-honeypot" tabindex="-1" autocomplete="off" style="position:absolute;left:-9999px;opacity:0;height:0;">
+
+                <p id="review-form-error" class="rfm-error"></p>
+
+                <button type="submit" class="rfm-submit-btn" id="reviewSubmitBtn">
+                    <i class="fas fa-paper-plane"></i>
+                    Отправить отзыв
+                </button>
+
+            </form>
+        </div>
+
+        <!-- Успех -->
+        <div id="review-form-success" class="rfm-success rfm-hidden">
+            <div class="rfm-success-icon">
+                <i class="fas fa-check"></i>
+            </div>
+            <h3>Спасибо за ваш отзыв!</h3>
+            <p>Мы проверим его и скоро опубликуем на сайте.</p>
+            <button class="rfm-submit-btn" id="reviewFormSuccessClose">
+                <i class="fas fa-times"></i>
+                Закрыть
+            </button>
+        </div>
+
+    </div>
+</div>

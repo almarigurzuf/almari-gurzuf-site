@@ -10,6 +10,12 @@
             </div>
         </div>
 
+        <!-- Отзывы, оставленные через сайт (загружаются из Firebase) -->
+        <div id="firebase-reviews-section" style="display:none; margin-top: 60px;">
+            <h3 class="fbr-subtitle">Отзывы с нашего сайта</h3>
+            <div id="firebase-reviews-grid" class="fbr-grid"></div>
+        </div>
+
         <div class="luxury-slider-wrapper reveal-right" style="max-width: 900px; margin: 0 auto; position: relative;">
             <div id="reviews-slider-track" style="display: flex; transition: transform 0.5s cubic-bezier(0.4, 0, 0.2, 1); cursor: grab;">
                 
@@ -113,14 +119,19 @@
             </div>
         </div>
 
-        <div style="text-align: center; margin-top: 60px;">
-            <a href="https://travel.yandex.ru/hotels/republic-of-crimea/almari/#reviews" 
-               target="_blank" 
-               class="btn-luxury" 
+        <!-- Кнопки действий -->
+        <div class="reviews-actions">
+            <a href="https://travel.yandex.ru/hotels/republic-of-crimea/almari/#reviews"
+               target="_blank"
+               class="btn-luxury"
                style="display: inline-flex; align-items: center; gap: 15px; background: #1a2a3a; color: #fff; padding: 18px 45px; border-radius: 20px; text-decoration: none; font-weight: 700; transition: 0.3s; box-shadow: 0 15px 35px rgba(0,0,0,0.15);">
                 <i class="fab fa-yandex" style="color: #ffcc00;"></i>
                 Отзывы на Яндексе
             </a>
+            <button id="open-review-form-btn" class="btn-luxury btn-leave-review">
+                <i class="fas fa-pencil-alt"></i>
+                Оставить отзыв
+            </button>
         </div>
     </div>
 

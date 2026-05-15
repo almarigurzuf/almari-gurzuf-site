@@ -1,0 +1,5 @@
+# Запрещаем прямой доступ к db.php из браузера
+<Files "db.php">
+    Order deny,allow
+    Deny from all
+</Files>

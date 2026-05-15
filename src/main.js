@@ -20,6 +20,7 @@ import { initCookieNotice } from './sections/cookie/cookie.js';
 import { initFaq } from './sections/faq/faq.js';
 import { initLocation } from './sections/location/location.js';
 import { initGuide } from './sections/guide/guide.js';
+import { initFirebaseReviews } from './sections/reviews/firebase-reviews.js';
 
 document.addEventListener('DOMContentLoaded', () => {
     const initApp = {
@@ -35,7 +36,8 @@ document.addEventListener('DOMContentLoaded', () => {
         'Cookie': initCookieNotice,
         'FAQ': initFaq,
         'Location': initLocation,
-        'Guide': initGuide
+        'Guide': initGuide,
+        'FirebaseReviews': initFirebaseReviews
     };
 
     Object.entries(initApp).forEach(([name, initFn]) => {
