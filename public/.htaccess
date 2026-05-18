@@ -1,3 +1,10 @@
+# Redirect www to non-www
+<IfModule mod_rewrite.c>
+  RewriteEngine On
+  RewriteCond %{HTTP_HOST} ^www\.almari-gurzuf\.ru [NC]
+  RewriteRule ^(.*)$ https://almari-gurzuf.ru/$1 [R=301,L]
+</IfModule>
+
 # Enable Compression
 <IfModule mod_deflate.c>
   AddOutputFilterByType DEFLATE text/html text/plain text/xml text/css text/javascript application/javascript application/json
