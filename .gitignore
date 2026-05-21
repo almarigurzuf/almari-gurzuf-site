@@ -5,3 +5,4 @@ public/assets/video/
 *.mp4
 public/uploads/reviews/*.jpg
 .claude/
+.DS_Store
