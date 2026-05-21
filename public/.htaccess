@@ -1,7 +1,11 @@
-# Redirect www to non-www
+# Redirect HTTP→HTTPS и www→non-www
 <IfModule mod_rewrite.c>
   RewriteEngine On
+  # www → non-www (всегда HTTPS)
   RewriteCond %{HTTP_HOST} ^www\.almari-gurzuf\.ru [NC]
+  RewriteRule ^(.*)$ https://almari-gurzuf.ru/$1 [R=301,L]
+  # HTTP → HTTPS (для не-www)
+  RewriteCond %{HTTPS} off
   RewriteRule ^(.*)$ https://almari-gurzuf.ru/$1 [R=301,L]
 </IfModule>
 
